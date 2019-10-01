@@ -1,2 +1,2 @@
-requests
-pandas
+requests==2.22.0
+pandas==0.25.0
