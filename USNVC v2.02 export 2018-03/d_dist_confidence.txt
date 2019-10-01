@@ -1,0 +1,8 @@
+D_DIST_CONFIDENCE_ID	DIST_CONFIDENCE_CD	DIST_CONFIDENCE_DESC
+1	C	Confident
+2	R	Reported but unconfirmed
+3	RD	Reported but doubtful
+4	RF	Reported but false
+5	P	Potential
+6	PRF	Potential, but false report exists
+7	NT	Never was there

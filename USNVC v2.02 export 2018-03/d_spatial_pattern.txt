@@ -1,0 +1,6 @@
+d_spatial_pattern_id	spatial_pattern_desc	spatial_pattern_cd
+1	Large patch	LP
+2	Small patch	SP
+3	Matrix	MX
+4	Linear	LI
+5	Unknown	U

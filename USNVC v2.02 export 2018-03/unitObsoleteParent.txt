@@ -1,0 +1,35 @@
+element_global_id	obsoleteparentcode	obsoletedivision	obsoleteparentname	obsoletenote	obsoletedate	obsoleteauthority
+943176	G531	2.C.4.Nb	Arid West Interior Freshwater Marsh		12/5/2016	K. Schulz
+686866	A2054	1.B.2.Na	Fagus grandifolia - Quercus rubra / Cornus florida Forest Alliance		8/26/2016	L. Sneddon/M. Pyne
+860831	M173	4.B.2.Xa	North American Arctic & Subarctic Tundra	This belongs in M870 because it is a riparian type, driven by flooding. Many riparian groups are well-drained and not wet for much of the year, but are defined by the seasonal presence of water, without which the vegetation would be completely different. Riparian types are included in "wet" macrogroups in other parts of the NVC. For me, "tall" with "tundra" is an oxymoron.	3/29/2017	G. Kittel
+687995	A3304	1.B.2.Na	Tsuga canadensis - Liriodendron tulipifera Forest Alliance		11/16/2016	M. Pyne
+686128	A3278	3.A.2.Na	Larrea tridentata - Fouquieria splendens Upper Bajada & Rock Outcrop Desert Scrub Alliance		11/18/2016	K. Schulz
+687913	A4005		Upper Midwest Subboreal Talus Alliance		10/24/2017	D. Faber-Langendoen
+686997	A3627	1.B.3.Nb	Quercus laurifolia - Liquidambar styraciflua - Nyssa biflora Coastal Plain Floodplain Forest Alliance		2/2/2016	M. Pyne
+769486	A3796	1.B.3.Nd	Acer negundo - Fraxinus anomala - Celtis laevigata var. reticulata Riparian Woodland Alliance		9/1/2016	G. Kittel
+686026	A4072	1.B.2.Na	Tsuga canadensis - Betula alleghaniensis - Acer saccharum Forest Alliance	CEGL006088 is an Appalachian-Allegheny type [see distribution]. <i>Betula lenta</i> is listed as a key diagnostic tree, and absence of typical northern hardwoods is noted. In the Classification Comments field, comparison is made to other closely related associations, including CEGL006293, a dry Appalachian-Allegheny type.	5/12/2016	L. Sneddon
+789543	CTY011	7.A.2.1.	Native Miscellaneous Northern Conifer Plantation Cultural Type		8/29/2017	D. Faber-Langendoen
+1010054	CTY012	7.A.2.1.	Native Southern Pine Plantation Cultural Type	misplaced	12/15/2017	D. Faber-Langendoen
+683081	A4215	3.A.2.Na	Encelia farinosa Desert Scrub Alliance		1/18/2017	K. Schulz
+688960	A3140		Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+971684	A3140		Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+971676	A3140		Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+686968	A3140		Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+686104	A3140		Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+877206	A3140		Ephedra nevadensis Scrub Alliance		11/11/2016	K. Schulz
+840602	A3142		Lycium andersonii - Lycium cooperi Scrub Alliance		11/11/2016	K. Schulz
+685920	A3142		Lycium andersonii - Lycium cooperi Scrub Alliance		11/11/2016	K. Schulz
+684083	A3142		Lycium andersonii - Lycium cooperi Scrub Alliance		11/11/2016	K. Schulz
+686777	A3171	3.B.1.Ne	Grayia spinosa Scrub Alliance		11/9/2016	K. Schulz
+683747	A1919	2.B.2.Nc	Juniperus virginiana / Schizachyrium scoparium - Bouteloua curtipendula Alkaline Bedrock Scrub Grassland Alliance		12/1/2017	D. Faber-Langendoen
+687819	A3900	2.C.5.Nc	Distichlis spicata Salt Marsh Alliance		11/10/2016	M. Reid
+838082	G407	1.A.1.Oc	Polynesian Ruderal Dry Woodland & Scrub		5/27/2016	K. Schulz
+689685	G407	1.A.1.Oc	Polynesian Ruderal Dry Woodland & Scrub		5/27/2016	K. Schulz
+868471	G407	1.A.1.Oc	Polynesian Ruderal Dry Woodland & Scrub		5/27/2016	K. Schulz
+838094	G407	1.A.1.Oc	Polynesian Ruderal Dry Woodland & Scrub		5/27/2016	K. Schulz
+838088	G407	1.A.1.Oc	Polynesian Ruderal Dry Woodland & Scrub		5/27/2016	K. Schulz
+688837	A3659	2.C.4.Nd	Eastern North American Sparsely Vegetated Rivershore Alliance		12/7/2017	D. Faber-Langendoen
+683077	A0197	1.B.5.Na	Picea mariana - Larix laricina / Sphagnum spp. Poor Swamp Forest Alliance		10/3/2017	D. Faber-Langendoen
+688880	A3198	3.B.1.Ne	Artemisia tridentata - Mixed Shrub Dry Steppe & Shrubland Alliance		12/6/2016	K. Schulz
+885978	A3847	2.C.4.Nb	Phragmites australis ssp. australis - Arundo donax - Typha angustifolia Ruderal Marsh Alliance	move to A3848, it is a low-statured graminoid	8/14/2017	G. Kittel
+684708	A3847	2.C.4.Nb	Phragmites australis ssp. australis - Arundo donax - Typha angustifolia Ruderal Marsh Alliance	move to native alliance A0947	8/14/2017	G. Kittel

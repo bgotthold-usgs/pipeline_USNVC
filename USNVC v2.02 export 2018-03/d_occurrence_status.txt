@@ -1,0 +1,7 @@
+D_OCCURRENCE_STATUS_ID	OCCURRENCE_STATUS_CD	OCCURRENCE_STATUS_DESC
+1	C	Confident or certain
+2	P	Predicted or probable
+3	?	Possible
+4	X	Presumed extirpated
+5	N	Never was there
+6	R	Reported but false

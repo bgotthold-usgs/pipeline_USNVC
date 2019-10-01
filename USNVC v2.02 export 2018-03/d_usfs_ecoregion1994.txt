@@ -1,0 +1,772 @@
+USFS_ECOREGION_ID	PARENT_USFS_ECOREGION_ID	D_USFS_ECOREGION_LEVEL_ID	USFS_ECOREGION_NAME	USFS_ECOREGION_CLASS_CD	USFS_ECOREGION_CONCAT_CD
+10044	1010	5	Atchafalaya Alluvial Plain Subsection	f	234Af
+10045	1019	5	Cape Cod Coastal Lowland and Islands Subsection	b	221Ab
+10046	1010	5	Bastrop Ridge Subsection	j	234Aj
+10047	1010	5	Opelousas Ridge Subsection	k	234Ak
+10048	1123	5	Scarped Osage Plains Subsection	a	251Ea
+10049	1170	5	Central Rolling Red Prairies Subsection	c	255Ac
+10050	1170	5	Texas Eastern Cross Timbers Subsection	h	255Ah
+10051	1113	5	Southern Green Mountain Subsection	d	M212Cd
+10052	1028	5	Adirondack Hills and Flats Subsection	a	M212Da
+10053	1028	5	Eastern Adirondack Low Maintains Subsection	e	M212De
+10054	1142	5	Penobscott Bay Coast Subsection	b	212Db
+10055	1042	5	Missouri River Alluvial Plain Subsection	p	222Ap
+10056	1019	5	Reading Prong Subsection	m	221Am
+10057	1109	5	Maine-New Brunswick Lowlands Subsection	b	212Bb
+10058	1143	5	Grand Marais Sand End Moraine and Outwash Subsection	i	212Hi
+10059	1143	5	Manistee Outwash and Lake Sands Subsection	w	212Hw
+10060	1019	5	Gulf of Maine Coastal Lowland Subsection	k	221Ak
+10061	1042	5	Black River Ozark Border Subsection	l	222Al
+10062	1089	5	Brown County Hills Subsection	m	222Em
+10064	1161	5	Miami-Scioto Plain-Tipton Till Plain Subsection	b	222Hb
+10065	1161	5	Entrenched Valleys Subsection	f	222Hf
+10067	1137	5	Ohio Valley Lowlands Subsection	c	221Ec
+10068	1073	5	Schist Plains Subsection	c	231Ac
+10069	1163	5	Gulf Coast Prairies Subsection	a	231Fa
+10071	1151	5	Eastern Chesapeake Lowland Subsection	x	232Bx
+10072	1151	5	Delmarva Outer Coastal Plain Bays and Islands Subsection	z	232Bz
+10074	1010	5	Arkansas Alluvial Plain Subsection	g	234Ag
+10075	1010	5	Teche Terrace Subsection	l	234Al
+10076	1173	5	Claypan Till Plain Subsection	d	251Cd
+10078	1137	5	Lower Scioto River Plateau Subsection	g	221Eg
+10079	1128	5	Texas Claypan Savannah Subsection	a	255Ca
+10081	1100	5	Coastal Lowlands, Tidal Marshes and Bays Subsection	e	411Ae
+10082	1028	5	Adirondack Peaks Subsection	f	M212Df
+10083	1075	5	Tug Hill Transition Subsection	b	M212Fb
+10085	1118	5	Western Allegheny Mountain and Valley Subsection	e	M221Be
+10086	1008	5	Pine and Cumberland Mountains Subsection	e	M221Ce
+10088	1110	5	St. Louis Moraines Subsection	b	212Nb
+10089	1016	5	Allegheny Plateau Subsection	a	221Fa
+10091	1042	5	Current River Hills Subsection	f	222Af
+10092	1130	5	Lake Superior Clay Plain Subsection	a	212Ja
+10094	1019	5	Boston Basin Subsection	a	221Aa
+10095	1049	5	Clay Hills Subsection	d	222Cd
+10097	1169	5	Effingham Plain Subsection	a	222Ga
+10098	1112	5	Oak Savannah Till and Loess Plains Subsection	e	222Me
+10100	1077	5	Lake Ontario, Bays and Islands Subsection	a	222Pa
+10101	1078	5	Lake Erie, Bays and Islands Subsection	a	222Qa
+10102	1073	5	Granite Hills Subsection	h	231Ah
+10104	1141	5	Chert Valley Subsection	a	231Da
+10105	1023	5	South Central Arkansas Subsection	a	231Ea
+10107	1126	5	Okefenokee Swamp Subsection	d	232Cd
+10108	1126	5	Tidal Area Subsection	h	232Ch
+10109	1108	5	Souris-Agassiz Stratified Fan Deposits Subsection	b	251Ab
+10111	1111	5	Upper Minnesota River-Des Moines Lobe Subsection	a	251Ba
+10112	1111	5	Yankton Hills and Valleys Subsection	f	251Bf
+10114	1118	5	Northern High Allegheny Mountains Subsection	a	M221Ba
+10115	1143	5	Manitowoc Till Plain Subsection	d	212Hd
+10116	1053	5	Mille Lacs Uplands Subsection	b	212Kb
+10118	1042	5	Springfield Plateau Subsection	n	222An
+10119	1169	5	Southwest Indiana Glaciated Lowlands Subsection	e	222Ge
+10120	1055	5	Southeast Lake Michigan Plains and Dunes Subsection	j	222Jj
+10121	1078	5	Lake St. Clair Subsection	b	222Qb
+10122	1073	5	Lower Foot Hills Subsection	d	231Ad
+10123	1073	5	Southern Triassic Uplands Subsection	o	231Ao
+10124	1061	5	Upper Loam Hills Subsection	d	231Bd
+10125	1023	5	Piney Woods Transition Subsection	f	231Ef
+10126	1087	5	Eastern Arkansas Valley and Ridges Subsection	a	231Ga
+10127	1034	5	New Jersey Inner Coastal Plain Subsection	c	232Ac
+10128	1151	5	South Coastal Plains Subsection	g	232Bg
+10129	1126	5	Pamlico and Albemarle Sounds, Bays and Barrier Islands Subsection	i	232Ci
+10130	1126	5	Chesapeake Bay Subsection	j	232Cj
+10131	1051	5	Mobile Bay, Sounds and Islands Subsection	d	232Dd
+10132	1173	5	West Mississippi River Hills Subsection	e	251Ce
+10133	1159	5	Eastern Grand Prairie Subsection	d	251Dd
+10134	1066	5	Eastern Flint Hills Subsection	b	251Fb
+10135	1100	5	Lake Okeechobee Subsection	a	411Aa
+10136	1008	5	Eastern Coalfields Subsection	b	M221Cb
+10137	1127	5	Athens Piedmont Plateau Subsection	d	M231Ad
+10138	1026	5	Maine Eastern Interior Subsection	a	212Ca
+10139	1019	5	Southeast New England Coastal Hills and Plains Subsection	g	221Ag
+10140	1019	5	Worcester-Monadnock Plateau Subsection	h	221Ah
+10141	1019	5	Sebago-Ossipee Hills and Plain Subsection	l	221Al
+10142	1016	5	Grand River Pymatuning Subsection	b	221Fb
+10143	1079	5	Southwestern Escarpment Subsection	c	221Hc
+10144	1049	5	Northern Loessial Hills Subsection	e	222Ce
+10145	1121	5	Interior Western Coalfields Subsection	a	222Da
+10147	1161	5	Little Miami Old Drift Plain Subsection	c	222Hc
+10148	1163	5	Marshes and Inland Bays Subsection	b	231Fb
+10150	1012	5	Gulf Coast Bays and Islands Subsection	d	232Ed
+10151	1012	5	Lake Borgne, Sounds and Islands Subsection	e	232Ee
+10152	1128	5	Reserved Subsection	b	255Cb
+10154	1118	5	Western Allegheny Mountains Subsection	b	M221Bb
+10155	1127	5	Fourche Mountains Subsection	a	M231Aa
+10157	1074	5	Grand Traverse Bay Subsection	c	212Oc
+10158	1080	5	Lake Huron and Islands Subsection	a	212Pa
+10160	1135	5	Erie-Ontairo Lake Plain Subsection	b	222Ib
+10161	1135	5	Eastern Ontario Till Plain Subsection	c	222Ic
+10162	1055	5	Lum Interlobate Moraine Subsection	f	222Jf
+10164	1073	5	Charlotte Belt Subsection	e	231Ae
+10165	1061	5	Interior Flatwoods Subsection	b	231Bb
+10167	1023	5	Southwestern Arkansas Subsection	b	231Eb
+10168	1151	5	Wiregrass Plains Subsection	p	232Bp
+10170	1010	5	Arkansas Grande Prairie Subsection	e	234Ae
+10171	1159	5	Northern Grand Prairie Subsection	c	251Dc
+10173	1164	5	Maine Central Mountains Subsection	c	M212Ac
+10174	1028	5	Central Adirondack Mountains Subsection	d	M212Dd
+10176	1092	5	St. Lawrence Glacial Marine Plain Subsection	a	212Ea
+10177	1143	5	Door and Escanaba Peninsulas and Lake Plain Subsection	e	212He
+10179	1021	5	Border Lakes Subsection	a	212La
+10180	1137	5	Teays Plateau Subsection	b	221Eb
+10181	1050	5	Sandstone Hills Subsection	b	221Jb
+10183	1089	5	Eastern Highland Rim Subsection	a	222Ea
+10184	1089	5	Western Penneroyal Karst Plain Subsection	g	222Eg
+10186	1056	5	Kickapoo-Wisconsin River Ravines Subsection	d	222Ld
+10187	1073	5	Western Coastal Plain-Piedmont Transition Subsection	n	231An
+10188	1103	5	Sandstone Plateau Subsection	b	231Cb
+10190	1151	5	Southern Clay Hills Subsection	k	232Bk
+10191	1012	5	Lake Ponchartrain Subsection	c	232Ec
+10193	1010	5	Southern Mississippi River Alluvial Plain Subsection	a	234Aa
+10194	1173	5	Galesburg Dissected Till Plain Subsection	j	251Cj
+10196	1057	5	Northern Connecticut River Valley Subsection	b	M212Bb
+10197	1118	5	Allegheny Mountain Plateau Subsection	f	M221Bf
+10199	1080	5	Manitoulin Island Subsection	c	212Pc
+10200	1042	5	Prairie Ozark Border Subsection	i	222Ai
+10201	1042	5	Inner Ozark Border Subsection	j	222Aj
+10203	1161	5	Blufton-Ann Arbor Till Plains Subsection	a	222Ha
+10204	1056	5	Mississippi-Wisconsin River Ravines Subsection	c	222Lc
+10206	1061	5	Jackson Prairie Subsection	l	231Bl
+10207	1103	5	Shale Hills and Mountain Subsection	a	231Ca
+10208	1023	5	Sabine Alluvial Valley Subsection	d	231Ed
+10209	1023	5	Southern Loam Hills Subsection	h	231Eh
+10210	1023	5	Southwest Flatwoods Subsection	i	231Ei
+10211	1151	5	Delmarva Upland Subsection	t	232Bt
+10212	1126	5	Flatwoods Floodplains and Terraces Subsection	g	232Cg
+10213	1010	5	North Mississippi River Alluvial Plain Subsection	n	234An
+10214	1108	5	Lake Agassiz Plain Subsection	a	251Aa
+10215	1173	5	Central Dissected Till and Loess Plain Subsection	c	251Cc
+10216	1170	5	Red River Alluvial Plain Subsection	g	255Ag
+10217	1170	5	Southwestern Timbers Subsection	k	255Ak
+10218	1144	5	Marshe, Inland Bays, and Barrier Islands Subsection	c	255Dc
+10219	1100	5	Atlantic Coastal Ridge Subsection	d	411Ad
+10220	1057	5	Vermont Piedmont Subsection	a	M212Ba
+10221	1113	5	Northern Green Mountain Subsection	a	M212Ca
+10222	1158	5	Catskill Highlands Subsection	b	M212Eb
+10223	1008	5	Southern Cumberland Mountains Subsection	d	M221Cd
+10224	1114	5	Pocono Plateau Subsection	d	212Fd
+10225	1143	5	Rudyard Clay Lake Plain Subsection	k	212Hk
+10226	1143	5	Cheboygan Lake Plain Subsection	l	212Hl
+10227	1110	5	Tamarack Lowlands Subsection	d	212Nd
+10228	1042	5	Elk River Hills Subsection	h	222Ah
+10229	1018	5	Outer Bluegrass Subsection	a	222Fa
+10230	1019	5	Reserved Subsection	j	221Aj
+1		1	Dry Domain		
+2		1	Humid Temperate Domain		
+3		1	Humid Tropical Domain		
+10	1	2	Temperate Desert Division		
+11	1	2	Temperate Desert Regime Mountains		
+12	1	2	Temperate Steppe Division		
+13	1	2	Temperate Steppe Regime Mountains		
+14	1	2	Tropical/Subtropical Desert Division		
+15	1	2	Tropical/Subtropical Steppe Division		
+16	1	2	Tropical/Subtropical Steppe Regime Mountains		
+17	2	2	Hot Continental Division		
+18	2	2	Hot Continental Regime Mountains		
+19	2	2	Marine Division		
+20	2	2	Marine Regime Mountains		
+21	2	2	Mediterranean Division		
+22	2	2	Mediterranean Regime Mountains		
+23	2	2	Prairie Division		
+24	2	2	Subtropical Division		
+25	2	2	Subtropical Regime Mountains		
+26	2	2	Warm Continental Division		
+27	2	2	Warm Continental Regime Mountains		
+28	3	2	Rainforest Regime Mountains		
+29	3	2	Savanna Division		
+30	3	2	Savanna Regime Mountains		
+101	29	3	Everglades Province	411	411
+102	23	3	Prairie Parkland (Temperate) Province	251	251
+103	17	3	Eastern Broadleaf Forest (Continental) Province	222	222
+104	24	3	Southeastern Mixed Forest Province	231	231
+106	15	3	Great Plains Steppe and Shrub Province	311	311
+107	13	3	Black Hills Coniferous Forest Province	M334	M334
+109	22	3	California Coastal Range Open Woodland - Shrub - Coniferous Forest - Meadow Province	M262	M262
+110	25	3	Ouachita Mixed Forest - Meadow Province	M231	M231
+111	21	3	California Coastal Chaparral Forest and Shrub Province	261	261
+113	15	3	Southwest Plateau and Plains Dry Steppe and Shrub Province	315	315
+114	10	3	Intermountain Semi-Desert Province	342	342
+115	26	3	Laurentian Mixed Forest Province	212	212
+117	13	3	Middle Rocky Mountain Steppe - Coniferous Forest - Alpine Meadow Province	M332	M332
+118	15	3	Colorado Plateau Semi-Desert Province	313	313
+120	12	3	Great Plains-Palouse Dry Steppe Province	331	331
+121	19	3	Pacific Lowland Mixed Forest Province	242	242
+122	13	3	Southern Rocky Mountain Steppe - Open Woodland - Coniferous Forest - Alpine Meadow Province	M331	M331
+123	18	3	Central Appalachian Broadleaf Forest - Coniferous Forest - Meadow Province	M221	M221
+125	10	3	Intermountain Semi-Desert and Desert Province	341	341
+126	24	3	Lower Mississippi Riverine Forest Province	234	234
+127	20	3	Cascade Mixed Forest - Coniferous Forest - Alpine Meadow Province	M242	M242
+128	17	3	Eastern Broadleaf Forest (Oceanic) Province	221	221
+130	30	3	Puerto Rico Province	M411	M411
+131	20	3	Pacific Gulf Coastal Forest - Meadow Province	M245	M245
+132	28	3	Hawaiian Islands Province	M423	M423
+134	27	3	Adirondack-New England Mixed Forest - Coniferous Forest - Alpine Meadow Province	M212	M212
+135	14	3	Chihuahuan Semi-Desert Province	321	321
+136	12	3	Great Plains Steppe Province	332	332
+137	16	3	Arizona-New Mexico Mountains Semi-Desert - Open Woodland - Coniferous Forest - Alpine Meadow Province	M313	M313
+1001	114	4	Snake River Basalts Section	D	342D
+1002	107	4	Black Hills Section	A	M334A
+1003	114	4	Bighorn Basin Section	A	342A
+1005	124	4	Southern Cascades Section	D	M261D
+1006	119	4	Tavaputs Plateau Section	B	M341B
+1008	123	4	Cumberland Mountains Section	C	M221C
+1009	137	4	White Mountain-San Francisco Peaks Section	A	M313A
+1010	126	4	Mississippi Alluvial Basin Section	A	234A
+1012	105	4	Louisiana Coast Prairies and Marshes Section	E	232E
+1014	136	4	Northeastern Glaciated Plains Section	A	332A
+1015	103	4	Southwestern Great Lakes Morainal Section	K	222K
+1016	128	4	Western Unglaciated Allegheny Plateau Section	F	221F
+1018	103	4	Interior Low Plateau, Bluegrass Section	F	222F
+1019	128	4	Lower New England Section	A	221A
+1020	127	4	Oregon and Washington Coast Ranges Section	A	M242A
+1022	120	4	Upper Rio Grande Basin Section	J	331J
+1023	104	4	Middle Coastal Plains, Western Section	E	231E
+1025	133	4	Northern Rockies Section	C	M333C
+1026	115	4	Fundy Coastal and Interior Section	C	212C
+1027	117	4	Blue Mountains Section	G	M332G
+1028	134	4	Adirondack Mountain Section	D	M212D
+1029	114	4	Bear Lake Section	E	342E
+1030	122	4	Bighorn Mountains Section	B	M331B
+1031	119	4	Central Great Basin Mountains Section	A	M341A
+1032	125	4	Lahontan Basin Section	E	341E
+1033	120	4	Palouse Prairie Section	A	331A
+1034	105	4	Middle Atlantic Coastal Plain Section	A	232A
+1035	113	4	Texas High Plains Section	B	315B
+1036	116	4	Sonoran Desert Section	B	322B
+1037	135	4	Stockton Plateau Section	B	321B
+1038	113	4	Rio Grande Plain Section	E	315E
+1039	114	4	High Lava Plains Section	H	342H
+1040	136	4	South-Central Great Plains Section	E	332E
+1041	102	4	Central Loess Plains Section	G	251G
+1042	103	4	Ozark Highlands Section	A	222A
+1043	117	4	Belt Mountains Section	D	M332D
+1044	114	4	Central Basin and Hills Section	F	342F
+1045	136	4	Nebraska Sand Hills Section	C	332C
+1046	120	4	Northwestern Glaciated Plains Section	D	331D
+1047	122	4	North-Central Highlands Section	H	M331H
+1048	120	4	Southern High Plains Section	B	331B
+1049	103	4	Upper Gulf Coastal Plain Section	C	222C
+1050	128	4	Central Ridge and Valley Section	J	221J
+1051	105	4	Florida Coastal Lowlands (Western) Section	D	232D
+1053	115	4	Western Superior Uplands Section	K	212K
+1054	124	4	Modoc Plateau Section	G	M261G
+1056	103	4	North Central U.S. Driftless and Escarpment Section	L	222L
+1057	134	4	Vermont-New Hampshire Upland Section	B	M212B
+1059	125	4	Southeastern Great Basin Section	F	341F
+1060	137	4	Sacramento-Monzano Mountain Section	B	M313B
+1062	116	4	Colorado Desert Section	C	322C
+1063	117	4	Bitterroot Valley Section	B	M332B
+1064	138	4	Great Valley Section	A	262A
+1066	102	4	Flint Hills Section	F	251F
+1068	125	4	Northern Canyon Lands Section	B	341B
+1069	119	4	Utah High Plateaus and Mountains Section	C	M341C
+1071	103	4	Lake Modified Till Section	N	222N
+1072	120	4	Central High Tablelands Section	C	331C
+1074	115	4	Lake Michigan Section	O	212O
+1075	134	4	Tug Hill Plateau Section	F	M212F
+1076	130	4	Dry-Humid Mountains Section	A	M411A
+1078	103	4	Lake Erie Section	Q	222Q
+1079	128	4	Northern Cumberland Plateau Section	H	221H
+1081	115	4	Lake Superior Section	I	212I
+1083	131	4	Northern Gulf Section	A	M245A
+1084	131	4	Northern Alexander Archipelago Section	B	M245B
+1085	131	4	Southern Alexander Archipelago Section	C	M245C
+1087	104	4	Arkansas Valley Section	G	231G
+1088	135	4	Basin and Range Section	A	321A
+1090	115	4	Aroostook Hills and Lowlands Section	A	212A
+1091	117	4	Beaverhead Mountains Section	E	M332E
+1093	122	4	Yellowstone Highlands Section	A	M331A
+1094	123	4	Northern Ridge and Valley Section	A	M221A
+1095	122	4	Northern Parks and Ranges Section	I	M331I
+1097	128	4	Northern Appalachian Piedmont Section	D	221D
+1098	120	4	Central High Plains Section	H	331H
+1100	101	4	Everglades Section	A	411A
+1101	118	4	Grand Canyon Lands Section	A	313A
+1103	104	4	Southern Cumberland Plateau Section	C	231C
+1104	112	4	Blackland Prairies Section	B	255B
+1106	117	4	Idaho Batholith Section	A	M332A
+1107	120	4	Northern Glaciated Plains Section	E	331E
+1109	115	4	Maine-New Brunswick Foothills and Lowlands Section	B	212B
+1110	115	4	Northern Minnesota Drift and Lake Plains Section	N	212N
+1112	103	4	Minnesota and Northeast Iowa Morainal Section	M	222M
+1113	134	4	Green, Taconic, Berkshire Mountain Section	C	M212C
+1114	115	4	Northern Glaciated Allegheny Plateau Section	F	212F
+1116	114	4	Greater Green River Basin Section	G	342G
+1117	124	4	Sierra Nevada Foothills Section	F	M261F
+1119	125	4	Uinta Basin Section	C	341C
+1120	109	4	Central California Coast Ranges Section	A	M262A
+1121	103	4	Interior Low Plateau, Shawnee Hills Section	D	222D
+1122	106	4	Redbed Plains Section	A	311A
+1123	102	4	Osage Plains Section	E	251E
+1124	122	4	Southern Parks and Ranges Section	F	M331F
+1125	118	4	Navajo Canyonlands Section	B	313B
+1126	105	4	Atlantic Coastal Flatwoods Section	C	232C
+1127	110	4	Ouachita Mountains Section	A	M231A
+1128	112	4	Oak Woods and Prairies Section	C	255C
+1129	133	4	Okanogan Highlands Section	A	M333A
+1130	115	4	Southern Superior Uplands Section	J	212J
+1131	114	4	Owyhee Uplands Section	C	342C
+1132	124	4	Klamath Mountains Section	A	M261A
+1133	113	4	Rolling Plains Section	C	315C
+1134	117	4	Challis Volcanics Section	F	M332F
+1135	103	4	Erie and Ontario Lake Plain Section	I	222I
+1136	136	4	North-Central Great Plains Section	D	332D
+1137	128	4	Southern Unglaciated Allegheny Plateau Section	E	221E
+10231	1049	5	Upper Loam Hills Subsection	g	222Cg
+10232	1161	5	Darby Plains Subsection	e	222He
+10233	1015	5	Rock River Old Drift Country Subsection	h	222Kh
+10235	1073	5	Schist Hills Subsection	g	231Ag
+10236	1023	5	East Texas Timberlands-Cross Timbers Subsection	n	231En
+10238	1126	5	Bacon Terraces Subsection	f	232Cf
+10239	1010	5	Baton Rouge Terrace Subsection	d	234Ad
+10241	1159	5	Kankakee Sands Subsection	g	251Dg
+10242	1170	5	Cross Timbers, Cherokee Prairies Subsection	a	255Aa
+10243	1028	5	Adirondack Highlands and Lakes Subsection	c	M212Dc
+10245	1092	5	St. Lawrence Glacial Lake Plain Subsection	e	212Ee
+10246	1157	5	Agassiz Lowlands Subsection	b	212Mb
+10247	1042	5	Gasconade River Hills Subsection	d	222Ad
+10249	1055	5	Iona Moraines Subsection	c	222Jc
+10250	1015	5	Lake Winnebago Clay Plain Subsection	c	222Kc
+10252	1130	5	Perkinstown End Moraine Subsection	f	212Jf
+10253	1148	5	Taconic Foothills Subsection	b	221Bb
+10254	1137	5	Pittsburgh Low Plateau Subsection	a	221Ea
+10256	1121	5	Marion Hills Subsection	d	222Dd
+10257	1121	5	Crawford Uplands Subsection	e	222De
+10259	1061	5	Black Belt Subsection	a	231Ba
+10260	1103	5	Southern Cumberland Valley Subsection	f	231Cf
+10261	1034	5	Long Island Coastal Lowland and Moraine Subsection	a	232Aa
+10263	1162	5	Sabine Alluvial Valley Subsection	c	232Fc
+10264	1171	5	Eastern Beach and Dunes Subsection	b	232Gb
+10266	1159	5	Western Grand Prairie Subsection	b	251Db
+10267	1123	5	Elk Prairie Subsection	d	251Ed
+10269	1121	5	Northern Dripping Springs Subsection	j	222Dj
+10270	1012	5	Gulf Coast Marshes and Inland Bays Subsection	b	232Eb
+10272	1173	5	East Mississippi River Hills Subsection	i	251Ci
+10273	1144	5	Brazos and Brazonia Alluvial Valley Subsection	b	255Db
+1138	120	4	Arkansas Tablelands Section	I	331I
+1139	116	4	Mojave Desert Section	A	322A
+1140	128	4	Southern Cumberland Mountains Section	I	221I
+1141	104	4	Southern Ridge and Valley Section	D	231D
+1142	115	4	Central Maine Coastal and Embayment Section	D	212D
+1143	115	4	Northern Great Lakes Section	H	212H
+1144	112	4	Central Gulf Prairies and Marshes Section	D	255D
+1145	121	4	Willamette Valley and Puget Trough Section	A	242A
+1146	133	4	Bitterroot Mountains Section	D	M333D
+1147	114	4	Northwestern Basin and Range Section	B	342B
+1148	128	4	Hudson Valley Section	B	221B
+1150	123	4	Blue Ridge Mountains Section	D	M221D
+1151	105	4	Coastal Plains and Flatwoods, Lower Section	B	232B
+1153	120	4	Powder River Basin Section	G	331G
+1154	136	4	Western Glaciated Plains Section	B	332B
+1156	127	4	Western Cascades Section	B	M242B
+1157	115	4	Northern Minnesota and Ontario Section	M	212M
+1159	102	4	Central Till Plains Section	D	251D
+1160	128	4	Upper Atlantic Coastal Plain Section	C	221C
+1162	105	4	Coastal Plains and Flatwoods, Western Gulf Section	F	232F
+1163	104	4	Eastern Gulf Prairies and Marshes Section	F	231F
+1164	134	4	White Mountain Section	A	M212A
+1166	109	4	Southern California Mountains and Valleys Section	B	M262B
+1167	113	4	Southern Gulf Prairies and Marshes Section	F	315F
+1169	103	4	Central Till Plains, Oak-Hickory Section	G	222G
+1170	112	4	Cross Timbers and Prairie Section	A	255A
+1172	120	4	Northwestern Great Plains Section	F	331F
+1173	102	4	Central Dissected Till Plains Section	C	251C
+1175	111	4	Southern California Coast Section	B	261B
+1176	118	4	Painted Desert Section	D	313D
+10002	1008	5	Western Coalfields Subsection	a	M221Ca
+10003	1102	5	The Boston Mountain Subsection	a	M222Aa
+10004	1102	5	Boston Hills Subsection	b	M222Ab
+10006	1021	5	North Shore Highlands Subsection	b	212Lb
+10007	1074	5	Lake Michigan and Islands Subsection	a	212Oa
+10009	1042	5	St. Francis Knobs and Basins Subsection	a	222Aa
+10010	1089	5	Penneroyal Karst Plain Subsection	h	222Eh
+10012	1143	5	Cadillac End Moraines Subsection	s	212Hs
+10013	1056	5	Mineral Point Prairie-Savannah Subsection	e	222Le
+10015	1061	5	Transition Loam Hills Subsection	e	231Be
+10016	1103	5	Table Plateau Subsection	c	231Cc
+10017	1141	5	Shaley Limestone Valley Subsection	e	231De
+10019	1104	5	Blackland Prairie Subsection	a	255Ba
+10020	1057	5	Sunapee Uplands Subsection	c	M212Bc
+10022	1076	5	Interior Plateau Subsection	b	M411Ab
+10023	1143	5	Hart Outwash and Lake Sands Subsection	x	212Hx
+10024	1109	5	Central Maine Foothills Subsection	a	212Ba
+10026	1130	5	Northern Highlands Pitted Outwash Subsection	m	212Jm
+10027	1130	5	Michigamme Highland Subsection	r	212Jr
+10029	1110	5	Chippewa Plains Subsection	a	212Na
+10030	1042	5	Outer Ozark Border Subsection	k	222Ak
+10032	1018	5	Inner Bluegrass Subsection	b	222Fb
+10033	1055	5	Huron Clay Lake and Till Plain Subsection	e	222Je
+10034	1130	5	Neillsville Sandstone Plateau Subsection	h	212Jh
+10035	1015	5	Southern Green Bay Lobe Subsection	e	222Ke
+10036	1015	5	Geneva-Darien Moraines and Till Plains Subsection	f	222Kf
+10037	1112	5	Rosemont-Baldwin Plains and Moraines Subsection	d	222Md
+10038	1061	5	Middle Coastal Plain, Deep Loess Plains Subsection	i	231Bi
+10039	1151	5	Southern Loessial Plains Subsection	b	232Bb
+10040	1151	5	Lower Loam and Clay Hills Subsection	l	232Bl
+10041	1151	5	Sand Hills Subsection	q	232Bq
+10042	1126	5	Okefenokee Uplands Subsection	c	232Cc
+10043	1010	5	Crowley's Ridge Subsection	b	234Ab
+10424	1142	5	Central Maine Embayment Subsection	a	212Da
+10426	1061	5	Northern Loessial Hills Subsection	g	231Bg
+10427	1141	5	Sandstone Ridge Subsection	c	231Dc
+10429	1034	5	Long Island Sound Subsection	f	232Af
+10430	1151	5	Southern Loam Hills Subsection	j	232Bj
+10431	1123	5	Central Tallgrass Subsection	c	251Ec
+10433	1170	5	Cross Timbers - Southern Oklahoma Subsection	f	255Af
+10434	1128	5	Trinity Alluvial Valley Subsection	e	255Ce
+10435	1128	5	Southern Texas Claypan Savannah Subsection	g	255Cg
+10437	1113	5	Taconic Mountains Subsection	b	M212Cb
+10438	1094	5	Northern Great Valley Subsection	d	M221Ad
+10440	1017	5	Allegheny Deep Valleys Subsection	b	212Gb
+10441	1142	5	Casco Bay Coast Subsection	c	212Dc
+10442	1143	5	Kalkaska Moraines Subsection	y	212Hy
+10444	1097	5	Piedmont Upland Subsection	b	221Db
+10445	1042	5	Illinois Ozarks Subsection	q	222Aq
+10447	1173	5	Lower Platte Valley Subsection	n	251Cn
+10448	1089	5	Mitchel Karst Plains Subsection	k	222Ek
+10450	1135	5	Eastern Ontario Lake Plain Subsection	e	222Ie
+10451	1055	5	Kalamazoo-Elkhart Moraines and Plains Subsection	h	222Jh
+10453	1076	5	Southern Karst Plain, Lowlands, and Islands Subsection	e	M411Ae
+10454	1019	5	Lower Connecticut River Valley Subsection	f	221Af
+10456	1121	5	Crawford Escarpment Subsection	f	222Df
+10457	1135	5	Maumee Lake Plain Subsection	f	222If
+10459	1061	5	Middle Coastal Plain, Deep Loess Hills and Bluffs Subsection	h	231Bh
+10460	1023	5	Southwestern Arkansas Blackland Prairies Subsection	k	231Ek
+10462	1151	5	Florida Central Highlands Subsection	f	232Bf
+10463	1162	5	Neches Alluvial Valley Subsection	d	232Fd
+10464	1173	5	York Plains Subsection	o	251Co
+10465	1159	5	Kankakee Marsh Subsection	h	251Dh
+10466	1170	5	Central Oklahoma Cross Timbers Subsection	b	255Ab
+10467	1113	5	Berkshire-Vermont Upland Subsection	c	M212Cc
+10468	1019	5	Hudson Highlands Subsection	e	221Ae
+10469	1079	5	Rugged Eastern Hills Subsection	a	221Ha
+10470	1173	5	Northeast Nebraska Rolling Hills Subsection	m	251Cm
+10471	1164	5	St. John Upland Subsection	b	M212Ab
+10472	1094	5	Northern Ridge and Valley Subsection	c	M221Ac
+10473	1076	5	Northern Karst Plain Subsection	a	M411Aa
+10474	1143	5	West Green Bay Till Plain Subsection	b	212Hb
+10475	1042	5	Meramac River Hills Subsection	e	222Ae
+10476	1121	5	Greater Shawnee Hills Subsection	h	222Dh
+10477	1056	5	Menominee Eroded Pre-Wisconsinan Till Subsection	a	222La
+10478	1103	5	Sequatchie Valley Subsection	g	231Cg
+10479	1151	5	Southwestern Loam Hills Subsection	u	232Bu
+10480	1151	5	Northern Loam Plains Subsection	v	232Bv
+10481	1042	5	Osage River Hills Subsection	c	222Ac
+10482	1049	5	Cretaceous Hills Subsection	a	222Ca
+10483	1034	5	Western Chesapeake Upland Subsection	d	232Ad
+10484	1151	5	Gulf Southern Loam Hills Subsection	h	232Bh
+10485	1171	5	Eastern Beach and Lagoons Subsection	a	232Ga
+10486	1126	5	Upper Terraces Subsection	a	232Ca
+10487	1055	5	Saginaw Clay Lake and Till Plain Subsection	d	222Jd
+10488	1111	5	Northwest Iowa Plains Subsection	d	251Bd
+10489	1126	5	Lower Terraces Subsection	b	232Cb
+4		1	Polar Domain		
+31	4	2	Subarctic Division		
+32	4	2	Subarctic Regime Mountains		
+33	4	2	Tundra Division		
+34	4	2	Tundra Regime Mountains		
+105	24	3	Outer Coastal Plain Mixed Forest Province	232	232
+108	18	3	Ozark Broadleaf Forest - Meadow Province	M222	M222
+112	23	3	Prairie Parkland (Subtropical) Province	255	255
+116	14	3	American Semi-Desert and Desert Province	322	322
+119	11	3	Nevada-Utah Mountains Semi-Desert - Coniferous Forest - Alpine Meadow Province	M341	M341
+124	22	3	Sierran Steppe - Mixed Forest - Coniferous Forest - Alpine Meadow Province	M261	M261
+129	21	3	California Coastal Steppe, Mixed Forest, and Redwood Forest Province	263	263
+133	13	3	Northern Rocky Mountain Forest - Steppe - Coniferous Forest - Alpine Meadow Province	M333	M333
+138	21	3	California Dry Steppe Province	262	262
+139	34	3	Brooks Range Tundra - Polar Desert Province	M121	M121
+140	34	3	Aleutian Oceanic Meadow - Heath Province	M127	M127
+141	33	3	Bering Tundra (Southern) Province	126	126
+142	32	3	Upper Yukon Tayga - Meadow Province	M139	M139
+143	31	3	Yukon Intermontane Plateaus Tayga Province	131	131
+144	20	3	Pacific Coastal Mountains Forest - Meadow Province	M244	M244
+145	34	3	Seward Peninsula Tundra - Meadow Province	M125	M125
+146	31	3	Coastal Trough Humid Tayga Province	135	135
+147	33	3	Arctic Tundra Province	124	124
+148	33	3	Bering Tundra (Northern) Province	125	125
+149	31	3	Upper Yukon Tayga Province	139	139
+150	34	3	Ahklun Mountains Tundra - Meadow Province	M126	M126
+151	32	3	Yukon Intermontane Plateaus Tayga - Meadow Province	M131	M131
+152	32	3	Alaska Range Humid Tayga - Tundra - Meadow Province	M135	M135
+1004	124	4	Northern California Interior Coast Ranges Section	C	M261C
+1007	122	4	South-Central Highlands Section	G	M331G
+1011	113	4	Edwards Plateau Section	D	315D
+1013	124	4	Northern California Coast Ranges Section	B	M261B
+1017	115	4	Northern Unglaciated Allegheny Plateau Section	G	212G
+1021	115	4	Northern Superior Uplands Section	L	212L
+1024	111	4	Central California Coast Section	A	261A
+1052	114	4	Columbia Basin Section	I	342I
+1055	103	4	Southeastern Great Lakes Section	J	222J
+1058	124	4	Sierra Nevada Section	E	M261E
+1061	104	4	Coastal Plain Middle Section	B	231B
+1065	125	4	Mono Section	D	341D
+1067	118	4	Tonto Transition Section	C	313C
+1070	129	4	Northern California Coast Section	A	263A
+1073	104	4	Southern Appalachian Piedmont Section	A	231A
+1077	103	4	Lake Ontario Section	P	222P
+1080	115	4	Lake Huron Section	P	212P
+1082	103	4	Mohawk and Black River Valley Section	O	222O
+1086	132	4	Hawaiian Islands Section	A	M423A
+1089	103	4	Interior Low Plateau, Highland Rim Section	E	222E
+1092	115	4	St. Lawrence and Champlain Valley Section	E	212E
+1096	125	4	Northeastern Great Basin Section	G	341G
+1099	122	4	Uinta Mountains Section	E	M331E
+1102	108	4	Boston Mountains Section	A	M222A
+1105	127	4	Eastern Cascades Section	C	M242C
+1108	102	4	Red River Valley Section	A	251A
+1111	102	4	North Central U.S. Morainal and Till Plains Section	B	251B
+1115	122	4	Wind River Mountain Section	J	M331J
+1118	123	4	Allegheny Mountains Section	B	M221B
+1149	125	4	Bonneville Basin Section	A	341A
+1152	118	4	Northern Rio Grande Intermontane Section	E	313E
+1155	133	4	Flathead Valley Section	B	M333B
+1158	134	4	Catskill Mountain Section	E	M212E
+1161	103	4	Central Till Plains, Beech-Maple Section	H	222H
+1165	113	4	Pecos Valley Section	A	315A
+1168	122	4	Overthrust Mountains Section	D	M331D
+1171	105	4	Florida Coastal Lowlands (Eastern) Section	G	232G
+1174	117	4	Rocky Mountain Front Section	C	M332C
+1177	139	4	Foothills Section	A	M121A
+1178	139	4	Mountains Section	B	M121B
+1179	140	4	West Kodiak Island Section	C	M127C
+1180	140	4	Alaska Peninsula Section	A	M127A
+1181	140	4	Aleutian Islands Section	B	M127B
+1182	141	4	Bristol Bay Lowlands Section	A	126A
+1183	142	4	Upper Yukon Highlands Section	A	M139A
+1184	143	4	Upper Kobuk Valley Section	A	131A
+1185	143	4	Yukon-Koskokwim Bottomlands Section	B	131B
+1186	144	4	Chugach-St. Elias Mountains Section	A	M244A
+1187	144	4	Lynn Canal Section	B	M244B
+1188	144	4	Boundary Range Section	C	M244C
+1189	145	4	Seward Mountains Section	A	M125A
+1190	146	4	Copper River Basin Section	B	135B
+1191	146	4	Cook Inlet Lowlands Section	A	135A
+1192	147	4	Coastal Plain Section	A	124A
+1193	148	4	Yukon-Kuskokwim Delta Section	B	125B
+1194	148	4	Kotzebue Sound Lowlands Section	A	125A
+1195	149	4	Upper Yukon Flats Section	A	139A
+1196	150	4	Ahklun Mountains Section	A	M126A
+1197	151	4	Koskokwim Mountains Section	B	M131B
+1198	151	4	Nulato Hills Section	A	M131A
+1199	151	4	Nushagak-Lime Hills Section	C	M131C
+1200	152	4	Wrangell Mountains Section	B	M135B
+1201	152	4	Alaska Mountains Section	A	M135A
+10001	1092	5	St. Lawrence Till Plain Subsection	b	212Eb
+10005	1143	5	Seney Sand Lake Plain Subsection	h	212Hh
+10008	1079	5	Sequatchie Valley Subsection	d	221Hd
+10011	1089	5	Knobstone Escarpment Subsection	l	222El
+10014	1056	5	Western Paleozoic Plateau Subsection	f	222Lf
+10018	1173	5	Pawnee City-Seneca Rolling Hills Subsection	p	251Cp
+10021	1075	5	Tug Hill Plateau Subsection	a	M212Fa
+10025	1114	5	Central Allegheny Plateau Subsection	b	212Fb
+10028	1143	5	Harrisville Moraines Subsection	m	212Hm
+10031	1042	5	Mississippi River Alluvial Plain Subsection	o	222Ao
+10063	1169	5	Mt. Vernon Hill Country Subsection	b	222Gb
+10066	1112	5	Alexandria Moraine, Hardwood Hills Subsection	a	222Ma
+10070	1151	5	Atlantic Southern Loam Hills Subsection	r	232Br
+10073	1051	5	Gulf Coastal Flatwoods, Bays and Barrier Islands Subsection	c	232Dc
+10077	1170	5	Texas Grand Prairie Subsection	i	255Ai
+10080	1128	5	Southern Blackland Prairie Subsection	f	255Cf
+10084	1094	5	Ridge and Valley Subsection	a	M221Aa
+10087	1143	5	Stutsmanville Sand Ridges Subsection	n	212Hn
+10090	1074	5	Green Bay Subsection	b	212Ob
+10093	1143	5	Tawas Lake Plain Subsection	r	212Hr
+10096	1018	5	Western Bluegrass Subsection	c	222Fc
+10099	1121	5	Lower Ohio-Cache-Wabash Alluvial Plains Subsection	b	222Db
+10103	1073	5	Opelika Plateau Subsection	i	231Ai
+10106	1023	5	Southern Oklahoma Subsection	e	231Ee
+10110	1135	5	Lake Erie Sand Plain Subsection	g	222Ig
+10113	1144	5	Southern Texas Coastal Prairies and Savannah Subsection	d	255Dd
+10117	1050	5	Rolling Limestone Hills Subsection	a	221Ja
+10146	1089	5	Eastern Karst Plain Subsection	b	222Eb
+10149	1051	5	Florida Gulf Coastal Bays and Islands Subsection	e	232De
+10153	1164	5	White Mountain Subsection	d	M212Ad
+10156	1130	5	Spread Eagle-Dunbar Barrens Subsection	k	212Jk
+10159	1148	5	Hudson Glacial Lake Plains Subsection	c	221Bc
+10163	1015	5	Chicago Lake Plain Subsection	i	222Ki
+10166	1061	5	Upper Clay Hills Subsection	c	231Bc
+10169	1171	5	Okeechobee Plain Subsection	c	232Gc
+10172	1066	5	Western Flint Hills Subsection	a	251Fa
+10175	1114	5	Cattaraugus Highlands Subsection	a	212Fa
+10178	1130	5	Lincoln Formation Till Plain, Mixed Hardwoods Subsection	g	212Jg
+10182	1050	5	Holston Valley Subsection	c	221Jc
+10185	1015	5	South Central Wisconsin Prairie and Savannah Subsection	d	222Kd
+10189	1151	5	Fragipan Loam Hills Subsection	a	232Ba
+10192	1171	5	Kissimmee River Subsection	d	232Gd
+10195	1100	5	Big Cypress Spur Subsection	f	411Af
+10198	1143	5	Wellston Outwash and Ice Contact Subsection	v	212Hv
+10202	1018	5	Scottsburg Lowland Subsection	f	222Ff
+10205	1073	5	Piedmont Ridge Subsection	b	231Ab
+10234	1112	5	Anoka Sand Plain Subsection	c	222Mc
+10237	1151	5	Border Sand Hills Subsection	o	232Bo
+10240	1111	5	Inner Coteau des Prairies Subsection	c	251Bc
+10244	1118	5	Eastern Allegheny Mountain and Valley Subsection	d	M221Bd
+10248	1089	5	Tennessee-Gasper Valley Subsection	f	222Ef
+10251	1130	5	Green Bay Lobe Stagnation Moraine Subsection	j	212Jj
+10255	1049	5	Ohio and Cache River Alluvial Plain Subsection	h	222Ch
+10258	1073	5	Triassic Uplands Subsection	m	231Am
+10262	1151	5	Florida Northern Highlands Subsection	e	232Be
+10265	1159	5	Green River Lowland Subsection	a	251Da
+10268	1090	5	Aroostook Lowlands Subsection	b	212Ab
+10271	1173	5	Southeast Iowa Rolling Loess Hills Subsection	h	251Ch
+10275	1127	5	East Central Ouachita Mountains Subsection	c	M231Ac
+10279	1092	5	Champlain Glacial Lake and Marine Plains Subsection	c	212Ec
+10282	1055	5	Southeast Lake Michigan Plains and Dunes Subsection	a	222Ja
+10286	1173	5	Reserved Subsection	l	251Cl
+10289	1164	5	Mahoosic-Rangely Lakes Subsection	e	M212Ae
+10318	1023	5	Sand Hills Subsection	g	231Eg
+10321	1130	5	Lincoln Formation Till Plain, Hemlock-Hardwoods Subsection	s	212Js
+10324	1042	5	Central Plateau Subsection	b	222Ab
+10327	1015	5	Central Wisconsin Moraines and Outwash Subsection	b	222Kb
+10331	1151	5	Lower Clay Hills Subsection	m	232Bm
+10334	1130	5	Winegar Moraines Subsection	c	212Jc
+10337	1034	5	Delaware Bay Subsection	e	232Ae
+10340	1173	5	Mississippi River and Illinois Alluvial Plain Subsection	f	251Cf
+10344	1100	5	Everglades Subsection	b	411Ab
+10347	1028	5	Western Adirondack Foothills Subsection	b	M212Db
+10351	1081	5	Lake Superior and Islands Subsection	a	212Ia
+10354	1042	5	Springfield Plain Subsection	m	222Am
+10357	1089	5	The Cliffs Subsection	o	222Eo
+10360	1073	5	Carolina Slate Subsection	f	231Af
+10363	1151	5	Atlantic Coastal Plain, Floodplains and Terraces Subsection	s	232Bs
+10367	1143	5	Green Bay Clayey and Silty Lake Plain Subsection	c	212Hc
+10370	1010	5	White and Black Rivers Alluvial Plain Subsection	c	234Ac
+10374	1169	5	Wabash Uplands Subsection	d	222Gd
+10377	1130	5	Baraga-Keewenaw Coarse Rocky Till Subsection	n	212Jn
+10405	1049	5	Northern Deep Loess Hills and Bluffs Subsection	b	222Cb
+10409	1051	5	Gulf Coastal Lowlands Subsection	b	232Db
+10412	1076	5	Southern Mountain Slopes Subsection	d	M411Ad
+10416	1135	5	Lake Erie Plain Subsection	a	222Ia
+10419	1023	5	Trinity Alluvial Valley Subsection	l	231El
+10422	1130	5	Reserved Subsection	p	212Jp
+10425	1082	5	Mohawk Valley Subsection	a	222Oa
+10428	1141	5	Quartzite and Talladega Slate Ridge Subsection	d	231Dd
+10432	1170	5	Cross Timbers and Central Rolling Red Prairies Subsection	e	255Ae
+10436	1100	5	Florida Keys and Biscayne Bay Subsection	g	411Ag
+10439	1017	5	Allegheny High Plateau Subsection	a	212Ga
+10443	1130	5	Reserved Subsection	q	212Jq
+10446	1018	5	Northern Bluegrass Subsection	d	222Fd
+10449	1137	5	Western Hocking Plateau Subsection	f	221Ef
+10452	1023	5	South Central Arkansas Flatwoods Subsection	j	231Ej
+10455	1079	5	Reserved Subsection	b	221Hb
+10458	1055	5	Steuben Interlobate Moraines Subsection	i	222Ji
+10461	1034	5	New Jersey Pine Barren Outer Coastal Plain Subsection	b	232Ab
+10274	1150	5	Metasedimentary Mountains Subsection	d	M221Dd
+10276	1026	5	Maine Eastern Coastal Subsection	b	212Cb
+10277	1143	5	St. Ignace Lake Plain Subsection	j	212Hj
+10278	1112	5	Big Woods Moraines Subsection	b	222Mb
+10280	1137	5	Unglaciated Muskingum Plains Subsection	e	221Ee
+10281	1089	5	Outer Nashville Basin Subsection	c	222Ec
+10283	1015	5	Central Wisconsin Sand Plain Subsection	a	222Ka
+10284	1162	5	Southern Loam Hills Subsection	a	232Fa
+10285	1173	5	Missouri River Alluvial Plain Subsection	g	251Cg
+10287	1159	5	Southern Grand Prairie Subsection	e	251De
+10288	1066	5	Southern Flint Hills Subsection	c	251Fc
+10290	1111	5	Southern Des Moines Lobe Subsection	e	251Be
+10291	1164	5	Connecticut Lakes Subsection	f	M212Af
+10292	1127	5	West Central Ouachita Mountains Subsection	b	M231Ab
+10293	1090	5	Aroostook Hills and Lowlands Subsection	a	212Aa
+10294	1053	5	Bayfield Sand Plains Subsection	a	212Ka
+10295	1018	5	Muscatatuck Flats and Canyons Subsection	e	222Fe
+10296	1061	5	Southern Pontotoc Ridge Subsection	k	231Bk
+10297	1130	5	St. Croix Moraine Subsection	d	212Jd
+10298	1130	5	Central and Northwest Wisconsin Loess Plains Subsection	e	212Je
+10299	1097	5	Newark Subsection	c	221Dc
+10300	1130	5	Rib Mountain Rolling Ridges Subsection	i	212Ji
+10301	1019	5	Gulf of Maine Coastal Plain Subsection	i	221Ai
+10302	1148	5	Hudson Limestone Valley Subsection	a	221Ba
+10303	1137	5	East Hocking Plateau Subsection	d	221Ed
+10304	1073	5	Triassic Basins Subsection	p	231Ap
+10305	1087	5	Mount Magazine Subsection	b	231Gb
+10306	1087	5	Western Arkansas Valley and Ridges Subsection	c	231Gc
+10307	1151	5	Southern Deep Loess Hills and Bluffs Subsection	d	232Bd
+10308	1016	5	Akron Kames Subsection	c	221Fc
+10309	1121	5	Outer Western Coalfields Subsection	c	222Dc
+10310	1135	5	Cattaraugus-Finger Lakes Moraine and Hills Subsection	d	222Id
+10311	1055	5	Jackson Interlobate Moraine Subsection	g	222Jg
+10312	1073	5	Northern Piedmont Subsection	l	231Al
+10313	1012	5	Gulf Coast Prairies Subsection	a	232Ea
+10314	1162	5	Southwest Flatwoods Subsection	b	232Fb
+10315	1164	5	International Boundary Plateau Subsection	a	M212Aa
+10316	1150	5	Central Blue Ridge Mountains Subsection	b	M221Db
+10317	1150	5	Southern Blue Ridge Mountains Subsection	c	M221Dc
+10319	1126	5	Coastal Marsh and Island Subsection	e	232Ce
+10320	1092	5	Champlain Hills Subsection	d	212Ed
+10322	1021	5	Laurentian Highlands Subsection	c	212Lc
+10323	1021	5	Toimi Uplands Subsection	d	212Ld
+10325	1121	5	Lesser Shawnee Hills Subsection	i	222Di
+10326	1055	5	Southeast Lake Michigan Moraines Subsection	b	222Jb
+10328	1061	5	Jackson Hills Subsection	j	231Bj
+10329	1103	5	Sandstone Mountain Subsection	d	231Cd
+10330	1151	5	Citronelle Plains Subsection	c	232Bc
+10332	1151	5	Lower Loam Hills Subsection	n	232Bn
+10333	1143	5	Traverse City Drumlin Fields Subsection	o	212Ho
+10335	1019	5	Narragansett-Bristol Lowland and Islands Subsection	c	221Ac
+10336	1073	5	Lynchburg Belt Subsection	k	231Ak
+10338	1151	5	The Plains Subsection	i	232Bi
+10339	1010	5	St. Francis River Alluvial Plain Subsection	m	234Am
+10341	1123	5	Cherokee Plains Subsection	b	251Eb
+10342	1170	5	Southern Oklahoma Grand Prairies Subsection	d	255Ad
+10343	1144	5	Texas Coastal Prairies Subsection	a	255Da
+10345	1100	5	Southern Slope Subsection	c	411Ac
+10346	1057	5	Hillsboro Inland Hills and Plains Subsection	d	M212Bd
+10348	1094	5	Great Valley of Virginia Subsection	b	M221Ab
+10349	1118	5	Southern (Middle) High Allegheny Mountains Subsection	c	M221Bc
+10350	1076	5	Central Mountains Subsection	c	M411Ac
+10352	1143	5	Big Rapids Loamy Moraines Subsection	t	212Ht
+10353	1080	5	Saginaw Bay Subsection	b	212Pb
+10355	1049	5	Northern Pontotoc Ridge Subsection	f	222Cf
+10356	1089	5	Kinniconick and Licking Knobs Subsection	n	222En
+10358	1161	5	Mad River Interlobate Plains Subsection	d	222Hd
+10359	1073	5	Midland Plateau Central Uplands Subsection	a	231Aa
+10361	1023	5	Ouachita Alluvial Valley Subsection	c	231Ec
+10362	1023	5	Red River Alluvial Plain Subsection	m	231Em
+10364	1079	5	Low Hills Belt Subsection	e	221He
+10365	1089	5	Inner Nashville Basin Subsection	d	222Ed
+10366	1089	5	Highland Rim Hilly and Rolling Subsection	e	222Ee
+10368	1015	5	Kenosha-Lake Michigan Plain and Moraines Subsection	g	222Kg
+10369	1061	5	Middle Coastal Plain, Floodplains and Terraces Subsection	f	231Bf
+10371	1110	5	Pine Moraine and Outwash Plains Subsection	c	212Nc
+10372	1042	5	White River Hills Subsection	g	222Ag
+10373	1169	5	Lower Wabash Alluvial Plain Subsection	c	222Gc
+10375	1071	5	Aspen Parklands Subsection	a	222Na
+10376	1114	5	Eastern Allegheny Plateau Subsection	c	212Fc
+10378	1130	5	Ewen Dissected Lake Plain Subsection	o	212Jo
+10379	1089	5	Western Knobs Subsection	i	222Ei
+10380	1056	5	Melrose Oak Forest and Savannah Subsection	b	222Lb
+10381	1141	5	Sandstone, Shale and Chert Ridge Subsection	b	231Db
+10382	1051	5	Immokalee Rise Subsection	a	232Da
+10383	1010	5	Macon Ridge Subsection	h	234Ah
+10384	1111	5	Outer Coteau des Prairies Subsection	b	251Bb
+10385	1173	5	Loess Hills Subsection	b	251Cb
+10386	1173	5	Kansas River Subsection	q	251Cq
+10387	1159	5	Springfield Plains Subsection	f	251Df
+10388	1066	5	Glaciated Flint Hills Subsection	d	251Fd
+10389	1170	5	Texas Western Cross Timbers Subsection	j	255Aj
+10390	1128	5	Interior Savannah Subsection	c	255Cc
+10391	1143	5	Newaygo Outwash and Ice Contact Subsection	u	212Hu
+10392	1128	5	Interior Blackland Prairie Subsection	d	255Cd
+10393	1164	5	Western Maine Foothills Subsection	g	M212Ag
+10394	1158	5	Catshill Mountains Subsection	a	M212Ea
+10395	1008	5	Black Mountains Subsection	c	M221Cc
+10396	1130	5	Brule and Paint Rivers-Drumlinized Ground Morain Subsection	l	212Jl
+10397	1148	5	Kittatinny-Shawangunk Ridges Subsection	d	221Bd
+10398	1121	5	Southern Dripping Springs Subsection	g	222Dg
+10399	1162	5	Piney Woods Transition Subsection	e	232Fe
+10400	1173	5	Deep Loess Hills Subsection	a	251Ca
+10401	1157	5	Littlefork-Vermillion Uplands Subsection	a	212Ma
+10402	1089	5	Eastern Knobs Transition Subsection	j	222Ej
+10403	1019	5	Southern New England Coastal Lowland Subsection	d	221Ad
+10404	1143	5	Mio Outwash Plain Subsection	q	212Hq
+10406	1049	5	Deep Loess Hills and Bluffs Subsection	c	222Cc
+10407	1082	5	Black River Valley Subsection	b	222Ob
+10408	1103	5	Moulton Valley Subsection	e	231Ce
+10410	1010	5	Red River Alluvial Plain Subsection	i	234Ai
+10411	1150	5	Northern Blue Ridge Mountains Subsection	a	M221Da
+10413	1143	5	Gwinn-Deerton Outwash and Sand Ridges Subsection	a	212Ha
+10414	1130	5	Gogebic-Penokee Iron Range Subsection	b	212Jb
+10415	1097	5	Gettysburg Piedmont Lowland Subsection	a	221Da
+10417	1015	5	Valparaiso Moraine Subsection	j	222Kj
+10418	1073	5	Mica Rich Plateau Subsection	j	231Aj
+10420	1173	5	Carlinville Dissected Till Plain Subsection	k	251Ck
+10421	1143	5	Vanderbilt Moraines Subsection	p	212Hp
+10423	1081	5	Isle Royale Subsection	b	212Ib

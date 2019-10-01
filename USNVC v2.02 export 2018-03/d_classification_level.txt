@@ -1,0 +1,17 @@
+D_CLASSIFICATION_LEVEL_ID	CLASSIFICATION_LEVEL_NAME	DISPLAY_ORDER	parent_level_id
+46	Alliance	2	106
+47	Association	1	46
+101	Class	8	
+102	Subclass	7	101
+103	Formation	6	102
+104	Division	5	103
+105	Macrogroup	4	104
+106	Group	3	105
+111	Cultural Class	1	
+112	Cultural Subclass	2	111
+113	Cultural Formation	3	112
+114	Cultural Subformation	4	113
+115	Cultural Group	5	114
+116	Cultural Subgroup	6	115
+117	Cultural Type	7	116
+118	Cultural Subtype	8	117

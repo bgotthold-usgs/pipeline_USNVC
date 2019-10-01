@@ -1,0 +1,923 @@
+element_global_id	obsoletename	obsoletenote	obsoletedate	obsoleteauthority
+860703	Hawaiian Dry Forest		1/21/2016	K. Schulz
+685533	<i>Acer barbatum - Aesculus glabra - Carya myristiciformis - Quercus shumardii - Quercus muehlenbergii</i> Forest		1/25/2016	M. Pyne
+899050	<i>Alnus oblongifolia</i> Flooded Forest Alliance		1/26/2016	D. Faber-Langendoen
+899052	<i>Juglans major - Juglans microcarpa</i> Flooded Forest Alliance		1/26/2016	D. Faber-Langendoen
+899853	<i>Platanus wrightii</i> Flooded Forest Alliance		1/26/2016	D. Faber-Langendoen
+899854	<i>Populus deltoides ssp. wislizeni - Populus deltoides ssp. monilifera</i> Flooded Forest Alliance		1/26/2016	D. Faber-Langendoen
+899855	<i>Populus fremontii - Fraxinus velutina - Salix gooddingii</i> Flooded Forest &amp; Woodland Alliance		1/26/2016	D. Faber-Langendoen
+898995	<i>Washingtonia filifera</i> Flooded Woodland Alliance		1/26/2016	D. Faber-Langendoen
+899485	<i>Acer spicatum / Picea glauca / Clintonia borealis</i> Scrub Alliance		1/27/2016	M. Russo
+899182	<i>Polygonum</i> spp. Wet Meadow Shoreline Alliance		1/27/2016	M. Russo
+788077	<i>Liquidambar styraciflua - Carya illinoinensis - Quercus nigra</i> Ruderal Forest		1/28/2016	M. Pyne
+899133	<i>Juncus militaris</i> Marsh Alliance		1/28/2016	M. Russo
+898957	<i>Cliftonia monophylla</i> Swamp Forest Alliance		1/28/2016	M. Russo
+686508	<i>Vitis rotundifolia - Ampelopsis arborea - Campsis radicans</i> Successional Wet Vine-Shrubland		1/30/2016	M. Pyne
+684064	<i>Prunus serotina / Morella cerifera / Smilax rotundifolia</i> Scrub Fores		1/30/2016	M. Russo
+687105	<i>Baccharis halimifolia</i> Successional Shrubland		2/1/2016	M. Pyne
+688037	<i>Pontederia cordata - Peltandra virginica</i> Marsh [Placeholder]	elevated	2/1/2016	M. Pyne
+932908	Northern Rocky Mountain Lowland &amp; Foothill Riparian Forest		2/2/2016	M. Russo
+787677	<i>Deschampsia caespitosa - Vernonia noveboracensis</i> Grassland		2/2/2016	M. Russo
+899315	Tamaulipan <i>Acacia rigidula - Leucophyllum frutescens - Acacia berlandieri</i> Calcareous Thornscrub Alliance		2/3/2016	M. Russo
+899389	<i>Fagus grandifolia - Quercus rubra</i> Piedmont / Ridge and Valley Forest Alliance		2/4/2016	M. Russo
+899394	<i>Pinus echinata - Quercus falcata</i> Upper Coastal Plain Alliance		2/4/2016	M. Russo
+686997	<i>Pinus taeda - Liquidambar styraciflua - Nyssa biflora</i> Floodplain Forest		2/2/2016	M. Pyne
+837022	<i>Scaevola plumieri - Suriana maritima - Ipomoea pes-caprae</i> Beach Vegetation Group		2/3/2016	C. Nordman
+899500	<i>Tsuga heterophylla - Pseudotsuga menziesii</i> / Serpentine Soil Forest Alliance		2/4/2016	M. Russo
+860832	Caribbean Moist Shortgrass Savanna Group		2/4/2016	C. Nordman
+899656	California Acidic Graminoid Fen Alliance		2/4/2016	M. Russo
+899658	California Acidic Shrub Fen Alliance		2/4/2016	M. Russo
+833241	<i>Quercus michauxii - Quercus laurifolia - Liquidambar styraciflua</i> Bottomland Forest Group		2/5/2016	D. Faber-Langendoen
+899726	<i>Abies concolor - Pseudotsuga menziesii</i> Coastal, Cascade &amp; Sierran Forest Alliance		2/5/2016	M. Russo
+683177	<i>Juniperus communis - (Juniperus virginiana) - Rhus aromatica - Viburnum rafinesquianum / Oligoneuron album</i> Shrubland	nomenclature update (USDA Plants 2017)	9/7/2017	M. Russo
+758559	<i>Carya glabra - Quercus (rubra, prinus) - Fraxinus americana / Viburnum rafinesquianum</i> Forest	nomenclature update (USDA Plants 2017)	9/7/2017	M. Russo
+687468	<i>Salix nigra - (Fraxinus pennsylvanica, Acacia farnesiana)</i> Floodplain Forest	nomenclature update (USDA Plants 2017)	9/7/2017	M. Russo
+877314	<i>Quercus alba - Quercus prinus - Carya glabra</i> Forest &amp; Woodland Group	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+870280	<i>Quercus prinus - Quercus coccinea</i> Forest Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+879076	<i>Quercus prinus - Quercus coccinea</i> Shale Woodland Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+879084	<i>Quercus rubra - Quercus prinus</i> Woodland Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+879104	<i>Pinus pungens - Pinus rigida - Quercus prinus</i> Woodland Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+881502	<i>Pinus strobus - Quercus prinus</i> Appalachian Forest Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+899393	<i>Pinus echinata - Pinus pungens - Quercus prinus</i> Appalachian Woodland Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+899396	<i>Pinus palustris - Pinus echinata - Quercus prinus</i> Interior Woodland Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+687902	<i>Quercus prinus / Cornus florida - Amelanchier arborea / Pityopsis graminifolia var. latifolia</i> Woodland	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+688220	<i>Quercus prinus - Quercus marilandica</i> Piedmont Woodland	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+720842	<i>Pinus echinata - Quercus prinus</i> Interior Low Plateau Forest	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+836338	<i>Pinus rigida - Quercus prinus / Gaylussacia baccata / Carex pensylvanica</i> Woodland	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+685204	<i>(Quercus prinus) / Vaccinium pallidum / Schizachyrium scoparium - Danthonia spicata / Cladonia</i> spp. Scrub Grassland	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+688482	<i>Quercus prinus / Smilax</i> spp. Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+684730	<i>Quercus prinus - Quercus (alba, coccinea) / Viburnum acerifolium - (Kalmia latifolia)</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+687189	<i>Quercus prinus / Rhus</i> spp. / <i>Deschampsia flexuosa</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+686982	<i>Quercus rubra - (Quercus prinus) / Vaccinium</i> spp. / <i>Deschampsia flexuosa</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+687537	<i>Quercus prinus - Quercus (rubra, velutina) / Vaccinium (angustifolium, pallidum</i>) Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+689528	<i>Pinus rigida - Quercus (velutina, prinus)</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+728821	<i>Quercus prinus - (Quercus coccinea, Quercus rubra) / Kalmia latifolia / Vaccinium pallidum</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+690048	<i>Quercus prinus - (Quercus rubra) - Carya</i> spp. / <i>Oxydendrum arboreum - Cornus florida</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+684621	<i>Quercus prinus - Quercus</i> spp. / <i>Vaccinium arboreum - (Kalmia latifolia, Styrax grandifolius)</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+684700	<i>Quercus alba - Quercus (coccinea, velutina, prinus) / Gaylussacia baccata</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+686934	<i>Quercus prinus / Rhododendron catawbiense - Kalmia latifolia</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+686116	<i>Pinus strobus - Quercus alba - Quercus prinus / Vaccinium stamineum</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+689368	<i>Quercus prinus - Quercus rubra - Carya</i> spp. - <i>Fraxinus americana / Solidago sphacelata</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+687753	<i>Pinus palustris / Quercus laevis - Quercus margarettiae / Licania michauxii / Aristida beyrichiana</i> Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+684921	<i>Pinus palustris / Quercus (incana, margarettiae) / Aristida beyrichiana - Asimina angustifolia</i> Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+833196	<i>Pinus palustris / Quercus margarettiae / Aristida</i> spp. Woodland Group	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+689377	<i>Cupressus arizonica / Quercus hypoleucoides</i> Forest	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+688981	<i>Cupressus goveniana ssp. pygmaea</i> Scrub	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+689174	<i>Cupressus macnabiana</i> Forest	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+833204	<i>Cupressus</i> spp. - <i>Pinus</i> spp. Forest &amp; Woodland Group	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+721881	<i>Fagus grandifolia - Quercus (alba, rubra) / Acer barbatum / Asimina triloba</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+685533	<i>Acer barbatum - Quercus shumardii - Quercus muehlenbergii - (Aesculus glabra, Carya myristiciformis) </i>Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+685101	<i>Prosopis glandulosa var. glandulosa / Celtis pallida - Opuntia</i> spp. Ruderal Scrub	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+688574	<i>Prosopis glandulosa var. glandulosa - Acacia greggii - Celtis pallida / Paspalum setaceum - Urochloa ciliatissima</i> Scrub	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+686826	<i>Prosopis glandulosa var. glandulosa - Celtis pallida / Opuntia</i> spp. - <i>Xylothamia palmeri</i> Scrub	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+837258	<i>Prosopis glandulosa - Celtis pallida - Leucophyllum frutescens</i> Thornscrub Group	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+899461	<i>Festuca roemeri - Festuca saximontana</i> Alpine Meadow Alliance	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+690036	<i>Festuca roemeri - Delphinium glareosum</i> Alpine Meadow	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+898962	<i>Pseudotsuga menziesii - Lithocarpus densiflorus</i> Forest Alliance	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+899481	<i>Lithocarpus densiflorus - Arbutus menziesii</i> Forest Alliance	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+684663	<i>Pseudotsuga menziesii / Lithocarpus densiflorus - Chrysolepis chrysophylla</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+686821	<i>Pseudotsuga menziesii / Lithocarpus densiflorus / Quercus chrysolepis</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+684367	<i>Pseudotsuga menziesii - Tsuga heterophylla / Lithocarpus densiflorus - Umbellularia californica</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+688496	<i>Sequoia sempervirens / Lithocarpus densiflorus / Vaccinium ovatum</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+979552	<i>Thuja plicata - Chamaecyparis nootkatensis - Tsuga heterophylla / Gaultheria shallon / Lysichiton americanus</i> Forest	nomenclature update (USDA Plants 2017)	9/7/2017	M. Russo
+689757	<i>Acacia farnesiana - Parkinsonia aculeata</i> Riparian Forest	nomenclature update (USDA Plants 2017)	9/7/2017	M. Russo
+900073	Rocky Mountain Alpine Non-vascular Bedrock &amp; Scree Alliance		2/5/2016	M. Russo
+885033	<i>Cladium mariscus ssp. jamaicense - Eleocharis cellulosa - Panicum hemitomon</i> Macrogroup		2/22/2016	D. Faber-Langendoen
+860641	<i>Fouquieria splendens - Atriplex hymenelytra - Amaranthus watsonii</i> North American Cliff, Scree &amp; Rock Vegetation Macrogroup		2/22/2016	D. Faber-Langendoen
+857027	<i>Schizachyrium scoparium - Bifora americana - Paspalum plicatulum</i> Grassland Group		2/22/2016	D. Faber-Langendoen
+860672	Great Plains Shortgrass Prairie		2/22/2016	D. Faber-Langendoen
+848779	South Florida Freshwater Marsh		2/22/2016	D. Faber-Langendoen
+837646	Rocky Mountain Subalpine-Montane Mesic Grassland &amp; Meadow		2/22/2016	D. Faber-Langendoen
+885451	Eastern North American Sub-boreal Acidic Bog &amp; Fen		2/22/2016	D. Faber-Langendoen
+885451	Eastern North American Sub-boreal Acidic Bog &amp; Fen Group		2/22/2016	D. Faber-Langendoen
+860302	<i>Acacia greggii - Opuntia leptocaulis - Muhlenbergia porteri</i> North American Warm Desert Scrub &amp; Grassland Division	nomenclature update (USDA Plants 2017)	8/13/2017	M. Russo
+686818	<i>Leymus cinereus</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+683875	<i>Alnus (incana, viridis ssp. sinuata) / Lysichiton americanus - Oenanthe sarmentosa</i> Shrubland		2/22/2016	D. Faber-Langendoen/J. Rocchio
+687657	<i>Lysichiton americanus</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+689821	<i>Oenanthe sarmentosa</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+688967	<i>Carex densa - Eleocharis palustris</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+799477	<i>Mimulus guttatus</i> - (<i>Mimulus</i> spp.) Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+683905	<i>Ledum groenlandicum - Myrica gale / Sphagnum</i> spp. Fen		2/22/2016	J. Rocchio
+867659	Hawaiian Montane-Subalpine Mesic Forest Group		5/26/2016	K. Schulz
+867660	Hawaiian Montane Ruderal Forest &amp; Woodland Group		5/26/2016	K. Schulz
+860856	Hawaiian Ruderal Flooded &amp; Swamp Forest Group		5/26/2016	G. Kittel
+860784	Hawaiian Ruderal Mangrove Group		5/26/2016	G. Kittel
+791994	<i>Rhus trilobata - Ephedra (viridis, torreyana)</i> Talus Shrubland		8/24/2016	M. Reid
+685163	<i>Aquilegia caerulea - Cirsium scopulorum</i> Scree Sparse Vegetation	nomenclature update (USDA Plants 2017)	7/25/2017	M. Russo
+971780	<i>Yucca brevifolia / Opuntia acanthocarpa</i> Wooded Shrubland	nomenclature update (USDA Plants 2017)	8/12/2017	M. Russo
+686679	<i>Abies concolor - Abies x shastensis / Rosa gymnocarpa</i> Forest	nomenclature &amp; taxonomic update (USDA Plants 2017)	8/13/2017	M. Russo
+687258	<i>Abies x shastensis / Quercus sadleriana</i> Forest	nomenclature update (USDA Plants 2017)	8/13/2017	M. Russo
+942434	<i>Abies amabilis - Tsuga mertensiana - (Abies x shastensis) / Vaccinium membranaceum</i> Forest	nomenclature update (USDA Plants 2017)	8/13/2017	M. Russo
+870290	<i>Quercus prinus - Quercus rubra</i> Forest Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+899413	<i>Quercus prinus - Quercus falcata</i> Forest Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+899436	<i>Pinus virginiana - Quercus prinus</i> Acidic Shale Woodland Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+687627	<i>Quercus alba - Quercus rubra - Quercus prinus - Acer saccharum / Lindera benzoin</i> Forest	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+688475	<i>Quercus alba - Quercus rubra - Quercus prinus - Tilia americana var. caroliniana / Ostrya virginiana</i> Forest	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+686512	<i>Quercus (prinus, coccinea) / Kalmia latifolia / (Galax urceolata, Gaultheria procumbens)</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+943698	<i>Quercus prinus - Carya glabra / Cheilanthes lanosa - Carex pensylvanica - Camassia scilloides</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+688719	<i>Pinus virginiana - Pinus (rigida, echinata) - (Quercus prinus) / Vaccinium pallidum</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+685424	<i>Phragmites australis</i> Temperate Upland Ruderal Marsh		2/17/2016	M. Pyne
+860416	<i>Atriplex</i> spp. - <i>Ephedra</i> spp. - <i>Eriogonum</i> spp. Intermountain Basins Cliff, Scree &amp; Badland Sparse Vegetation Macrogroup		2/22/2016	D. Faber-Langendoen
+856717	<i>Bouteloua gracilis - Buchloe dactyloides - Pleuraphis jamesii</i> Great Plains Prairie Group		2/22/2016	D. Faber-Langendoen
+860672	<i>Bouteloua gracilis - Buchloe dactyloides</i> Great Plains Shortgrass Prairie Macrogroup		2/22/2016	D. Faber-Langendoen
+833194	South Florida Slash Pine Woodland		2/22/2016	D. Faber-Langendoen
+860884	Polynesian Ruderal Lowland Rainforest Group		5/26/2016	K. Schulz
+860726	Hawaiian Riparian &amp; Floodplain Forest &amp; Shrubland Group		5/26/2016	K. Schulz
+860793	Hawaiian Montane-Subalpine Mesic-Wet Shrubland &amp; Grassland Group		5/26/2016	K. Schulz
+860751	Hawaiian Bog Group		5/26/2016	K. Schulz
+687995	<i>Rhododendron maximum</i> Upland Scrub		11/16/2016	M. Pyne
+684981	<i>Smilax auriculata / Heterotheca subaxillaris - Strophostyles helvula - (Uniola paniculata)</i> Grassland	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+689976	<i>Trichophorum caespitosum - Carex livida</i> Fen	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+685123	<i>Trichophorum caespitosum</i> Pacific Fen	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+731786	<i>Abies lasiocarpa - Picea engelmannii / Vaccinium caespitosum / Clintonia uniflora</i> Forest	nomenclature update (USDA Plants 2017)	7/27/2017	M. Russo
+687741	<i>Salix wolfii / Deschampsia caespitosa</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+688792	<i>Vaccinium uliginosum / Deschampsia caespitosa</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+689048	<i>Deschampsia caespitosa</i> Wet Meadow	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+688459	<i>Deschampsia caespitosa - Geum rossii</i> Wet Meadow	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+689243	<i>Deschampsia caespitosa - Mertensia ciliata</i> Wet Meadow	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+683990	<i>Festuca idahoensis - Deschampsia caespitosa</i> Grassland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+685575	<i>Baccharis pilularis / Deschampsia caespitosa</i> Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+860815	Polynesian Ruderal Dry Woodland &amp; Scrub Group		5/26/2016	K. Schulz
+860875	Hawaiian Lowland Dry Shrubland &amp; Grassland Group		5/26/2016	K. Schulz
+860801	Hawaiian Lowland Mesic-Wet Shrubland &amp; Grassland Group		5/26/2016	K. Schulz
+860807	Hawaiian Alpine Bedrock &amp; Scree Group		5/27/2016	K. Schulz
+899923	<i>Centaurea triumfettii - Conium maculatum - Foeniculum vulgare</i> Ruderal Meadow Alliance	nomenclature update (USDA Plants 2017)	4/24/2017	M. Russo
+684865	<i>Pinus pungens - Pinus rigida - (Quercus prinus) / Kalmia latifolia - Vaccinium pallidum</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+683502	<i>Quercus alba - Quercus (rubra, prinus) / Rhododendron calendulaceum - (Gaylussacia ursina)</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+899419	<i>Quercus stellata - Quercus margarettiae</i> Woodland Alliance	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+687382	<i>Pinus palustris - Pinus echinata - Quercus (incana, margarettiae) / Schizachyrium scoparium</i> Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+900047	Coastal Plain / Piedmont Cliff Alliance		2/5/2016	M. Russo
+684708	<i>Phragmites australis</i> Riverbank Wet Meadow		2/17/2016	M. Pyne
+860610	<i>Alnus viridis ssp. sinuata / Carex utriculata</i> Montane-Subalpine-Boreal Marsh, Wet Meadow &amp; Shrubland Macrogroup		2/22/2016	D. Faber-Langendoen
+835750	<i>Picea engelmannii - Abies lasiocarpa - Tsuga mertensiana</i> Mesic-Wet Forest &amp; Woodland Group		2/22/2016	D. Faber-Langendoen
+860882	<i>Populus balsamifera / Salix</i> spp. - <i>Alnus viridis</i> Floodplain Forest Group		2/22/2016	D. Faber-Langendoen
+858170	Central Hardwood Swamp &amp; Flatwoods Forest		2/22/2016	D. Faber-Langendoen
+837824	Columbia Plateau Scabland Shrubland		2/22/2016	D. Faber-Langendoen
+860862	Hawaiian Scrub &amp; Herb Coastal Strand Group		5/26/2016	K. Schulz
+860870	Polynesian Ruderal Subalpine-Montane Shrubland &amp; Grassland Group		5/26/2016	K. Schulz
+860774	Polynesian Ruderal Scrub &amp; Herb Coastal Strand Group		5/26/2016	K. Schulz
+860813	Hawaiian Freshwater Marsh Group		5/27/2016	K. Schulz
+860764	Hawaiian Ruderal Freshwater Wet Meadow &amp; Marsh Group		5/27/2016	K. Schulz
+860757	Hawaiian Ruderal Coastal Salt Marsh Group		5/27/2016	G. Kittel
+794078	<i>Fraxinus anomala - Rhus trilobata</i> Dry Talus Shrubland		8/3/2016	M. Reid
+769206	<i>Pinus edulis - Juniperus osteosperma / Ephedra viridis</i> Woodland		8/5/2016	M. Reid
+838650	<i>Acer saccharinum - Platanus occidentalis - Celtis</i> spp. Flooded Forest Macrogroup		2/22/2016	D. Faber-Langendoen
+849293	<i>Andropogon gerardii - Sporobolus heterolepis - Hesperostipa spartea</i> Grassland Group		2/22/2016	D. Faber-Langendoen
+833074	Caribbean Lowland Swamp		2/22/2016	D. Faber-Langendoen
+833074	<i>Annona glabra / Chrysobalanus icaco</i> Forest Group		2/22/2016	D. Faber-Langendoen
+836893	<i>Arctostaphylos</i> spp. / <i>Festuca roemeri - Danthonia californica</i> Shrub &amp; Herbaceous Bald Group		2/22/2016	D. Faber-Langendoen
+948589	<i>Picea mariana</i> Ontario-Québec Boreal Acidic Bog &amp; Swamp Group		2/22/2016	D. Faber-Langendoen
+833195	<i>Pinus clausa / Quercus geminata - Quercus myrtifolia</i> Forest &amp; Woodland Group		2/22/2016	D. Faber-Langendoen
+858134	<i>Polypodium</i> spp. - <i>Umbilicaria</i> spp. - <i>Danthonia spicata</i> Talus &amp; Bluff Vegetation Group		2/22/2016	D. Faber-Langendoen
+860841	Western North American Boreal Acidic Bog &amp; Fen		2/22/2016	D. Faber-Langendoen
+860841	<i>Picea mariana / Ledum groenlandicum / Eriophorum brachyantherum</i> Boreal Acidic Bog &amp; Fen Group		2/22/2016	D. Faber-Langendoen
+688908	<i>Pinus contorta var. contorta - Thuja plicata / Myrica gale / Sphagnum</i> spp. Treed Bog		2/22/2016	D. Faber-Langendoen/J. Rocchio
+684179	<i>Distichlis spicata - (Scirpus nevadensis)</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+686323	<i>Eleocharis quinqueflora</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+688246	<i>Salicornia rubra</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+689319	<i>Eriophorum chamissonis / Sphagnum</i> spp. Fen		2/22/2016	D. Faber-Langendoen/J. Rocchio
+687831	<i>Pinus elliottii var. densa / Sabal palmetto / Schizachyrium rhizomatum - Muhlenbergia filipes - Rhynchospora divergens</i> Tropical Woodland	Association is now placed in a warm-temperate set of types.	3/15/2016	D. Faber-Langendoen
+860741	Hawaiian Lowland-Coastal Seasonal Rainforest Group		5/26/2016	K. Schulz
+860732	Hawaiian Lowland Rainforest Group		5/26/2016	K. Schulz
+860776	Polynesian Ruderal Lowland Shrubland, Grassland &amp; Savanna Group		5/26/2016	K. Schulz
+860825	Hawaiian Freshwater Aquatic Vegetation Group		5/27/2016	K. Schulz
+860787	Hawaiian Dry Cliff Group		5/27/2016	K. Schulz
+899817	<i>Pinus contorta / Ledum groenlandicum</i> Treed Bog Alliance		2/22/2016	D. Faber-Langendoen
+860727	Hawaiian Lowland Dry Forest &amp; Woodland Group		5/25/2016	K. Schulz
+860766	Hawaiian Montane-Subalpine Dry Forest &amp; Woodland Group		5/25/2016	K. Schulz
+905018	<i>Bigelowia nuttallii - Aristida longispica - Schizachyrium scoparium</i> West Gulf Coastal Plain Grassland Alliance	nomenclature update (USDA Plants 2017)	7/25/2017	M. Russo
+689866	<i>Populus fremontii</i> Riparian Forest [Placeholder]	elevated to standard	11/25/2016	M. Russo
+687491	<i>Baccharis sergiloides</i> Wet Shrubland [Placeholder]	elevated to Provisional	11/30/2016	M. Russo
+687994	<i>Viguiera parishii</i> Shrubland [Placeholder]	elevated to Provisional	11/30/2016	M. Russo
+688788	<i>Pinus taeda / Saccharum alopecuroidum - Andropogon</i> spp. Ruderal Forest	nomenclature update (USDA Plants 2017)	7/25/2017	M. Russo
+684392	<i>Deschampsia caespitosa - Danthonia californica</i> Coastal Marsh	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+687034	<i>Deschampsia caespitosa - Argentina egedii</i> Salt Marsh	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+684522	<i>Deschampsia caespitosa - Carex viridula</i> Riverscour Wet Meadow	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+687593	<i>Deschampsia caespitosa - Achillea millefolium var. occidentalis</i> Wet Meadow	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+899663	<i>Tsuga heterophylla - Thuja plicata - Chamaecyparis nootkatensis</i> Forest Alliance	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+688115	<i>Puccinellia nuttalliana</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+683091	<i>Kalmia microphylla - Ledum groenlandicum / Xerophyllum tenax</i> Fen		2/22/2016	D. Faber-Langendoen/J. Rocchio
+683752	<i>Ledum groenlandicum - Kalmia microphylla / Sphagnum</i> spp. Fen		2/22/2016	D. Faber-Langendoen/J. Rocchio
+943971	<i>Isocoma acradenia</i> Mojave Desert Shrubland		12/5/2016	K. Schulz
+899931	<i>Suaeda moquinii - Salicornia rubra</i> Alkaline Wet Scrub Alliance		12/5/2016	K. Schulz
+683510	<i>Picea sitchensis - Tsuga mertensiana / Vaccinium ovalifolium / Caltha leptosepala ssp. howellii</i> Woodland		1/31/2017	G. Kittel
+685453	<i>Tsuga heterophylla / Vaccinium ovalifolium - Rubus pedatus</i> Forest		1/31/2017	G. Kittel
+684661	<i>Tsuga heterophylla - Thuja plicata / Vaccinium ovalifolium</i> Forest		2/1/2017	G. Kittel
+688751	<i>Tsuga mertensiana - Abies amabilis - (Chamaecyparis nootkatensis) / Elliottia pyroliflorus - Vaccinium membranaceum</i> Woodland	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+899058	<i>Cornus amomum - Salix candida - Photinia melanocarpa</i> Tall Shrub Fen Alliance	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+687837	<i>Acer (saccharum, barbatum) - Quercus rubra - Carya cordiformis / Asimina triloba</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+687411	<i>Fagus grandifolia - Acer barbatum / Asimina triloba / Toxicodendron radicans / Carex blanda</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+833285	<i>Fagus grandifolia - Acer barbatum - Quercus alba</i> Forest Group	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+899023	<i>Arundinaria gigantea ssp. tecta</i> Wet Shrubland Alliance	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+687779	<i>Arundinaria gigantea ssp. gigantea</i> Shrub Swamp	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+688968	<i>Arundinaria gigantea ssp. tecta</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+688441	<i>Pinus serotina / Arundinaria gigantea ssp. tecta</i> Swamp Woodland	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+688845	<i>Gaylussacia frondosa - Clethra alnifolia - Arundinaria gigantea ssp. tecta / Aristida stricta - Pteridium aquilinum var. pseudocaudatum</i> Seepage Meadow	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+683676	<i>Quercus alba - Quercus nigra / Ilex opaca / Clethra alnifolia - Arundinaria gigantea ssp. tecta</i> Forest	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+683580	<i>Taxodium ascendens / (Nyssa biflora) / Leucothoe racemosa - Lyonia lucida - Morella cerifera</i> Swamp Forest	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+689870	<i>Schoenoplectus maritimus</i> Tidal Salt Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+840531	<i>Acacia greggii - Larrea tridentata - (Hymenoclea salsola)</i> Wash Shrubland [Park Special]	elevated to Provisional	11/17/2016	K. Schulz
+840624	<i>Psorothamnus fremontii</i> Shrubland		11/30/2016	K. Schulz
+899677	<i>Abies magnifica - Abies x shastensis</i> Forest Alliance	nomenclature update (USDA Plants 2017)	8/13/2017	M. Russo
+687183	<i>Abies x shastensis - Tsuga mertensiana / Arctostaphylos nevadensis</i> Forest	nomenclature update (USDA Plants 2017)	8/13/2017	M. Russo
+689501	<i>Abies x shastensis / Polemonium pulcherrimum</i> Forest	nomenclature update (USDA Plants 2017)	8/13/2017	M. Russo
+886897	<i>Abies magnifica - Abies x shastensis - Tsuga mertensiana</i> Forest Group	nomenclature update (USDA Plants 2017)	8/13/2017	M. Russo
+899479	<i>Cupressus sargentii - Cupressus macnabiana - Cupressus bakeri</i> Woodland Alliance	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+686632	<i>Cupressus sargentii</i> Woodland	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+835942	<i>Quercus agrifolia - Umbellularia californica - Cupressus</i> spp. Forest &amp; Woodland Macrogroup	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+899776	<i>Tsuga mertensiana - Tsuga heterophylla - Chamaecyparis nootkatensis</i> Forest &amp; Woodland Alliance	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+899779	<i>Tsuga mertensiana - Abies amabilis - Chamaecyparis nootkatensis</i> Tree Island Alliance	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+683128	<i>Chamaecyparis nootkatensis / Oplopanax horridus</i> Swamp Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+688776	<i>Chamaecyparis nootkatensis - Tsuga heterophylla - Tsuga mertensiana / Vaccinium (alaskaense, ovalifolium) / Nephrophyllidium crista-galli</i> Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+687191	<i>Chamaecyparis nootkatensis - Tsuga mertensiana / Vaccinium (alaskaense, ovalifolium) - Gaultheria shallon / Nephrophyllidium crista-galli</i> Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+684925	<i>Tsuga heterophylla - Chamaecyparis nootkatensis / Vaccinium (alaskaense, ovalifolium) / Lysichiton americanus</i> Swamp Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+683147	<i>Tsuga heterophylla - Chamaecyparis nootkatensis / Vaccinium (alaskaense, ovalifolium) - Oplopanax horridus</i> Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+736405	<i>Muhlenbergia torreyana - Lobelia canbyi - Rhynchospora alba</i> Sea Level Fen		6/28/2017	K. Walz/L. Sneddon
+899936	<i>Opuntia littoralis - Opuntia oricola - Opuntia prolifera</i> Succulent Scrub Alliance	nomenclature update (USDA Plants 2017)	8/12/2017	M. Russo
+684300	<i>Opuntia bigelovii</i> Shrubland	nomenclature update (USDA Plants 2017)	8/12/2017	M. Russo
+684233	<i>Opuntia imbricata</i> Ruderal Shrubland	nomenclature update (USDA Plants 2017)	8/12/2017	M. Russo
+971793	<i>Yucca schidigera - Opuntia acanthocarpa</i> Shrubland	nomenclature update (USDA Plants 2017)	8/12/2017	M. Russo
+899478	<i>Cupressus forbesii - Cupressus arizonica ssp. nevadensis</i> Woodland Alliance	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+686781	<i>Cupressus arizonica / Quercus turbinella</i> Forest	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+860348	<i>Quercus agrifolia - Umbellularia californica - Cupressus</i> spp. Forest &amp; Woodland Division	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+899780	<i>Chamaecyparis nootkatensis - Tsuga mertensiana - Abies amabilis</i> Forest &amp; Woodland Alliance	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+683665	<i>Tsuga mertensiana - Chamaecyparis nootkatensis / Gaultheria shallon / Lysichiton americanus</i> Woodland	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+684669	<i>Tsuga mertensiana - Chamaecyparis nootkatensis / Elliottia pyroliflorus / Nephrophyllidium crista-galli</i> Woodland	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+687967	<i>Tsuga mertensiana / Elliottia pyroliflorus / Nephrophyllidium crista-galli</i> Woodland	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+899507	<i>Lyonia ligustrina - Photinia pyrifolia / Drosera rotundifolia</i> Seep Alliance	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+685963	<i>Pinus serotina / Arundinaria gigantea ssp. tecta</i> Wooded Wet Shrubland	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+685522	<i>Pinus taeda - Acer rubrum - Liquidambar styraciflua / Arundinaria gigantea ssp. tecta</i> Ruderal Wet Forest	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+685578	<i>Quercus phellos - Quercus laurifolia - Nyssa biflora / Arundinaria gigantea ssp. tecta - Sabal minor</i> Floodplain Forest	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+730957	<i>Cephalanthus occidentalis - (Leucothoe racemosa) / Carex joorii</i> Shrub Swamp	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+686514	<i>Nyssa biflora / Cephalanthus occidentalis - Leucothoe racemosa</i> Swamp Forest	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+802098	<i>(Hypericum prolificum, Leucothoe racemosa) / Schizachyrium scoparium - Solidago simplex var. racemosa - Ionactis linariifolius</i> Riverscour Sparse Vegetation	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+687022	<i>Pinus rigida - Nyssa sylvatica / Clethra alnifolia - Leucothoe racemosa</i> Forest	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+689740	<i>Quercus michauxii / Carpinus caroliniana - Ilex opaca / Leucothoe racemosa</i> Floodplain Forest	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+683442	<i>Celtis laevigata - Ulmus crassifolia - (Fraxinus</i> spp.) / <i>Celtis pallida / Elymus virginicus</i> Riparian Forest	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+877425	<i>Croton willdenowii - Minuartia glabra - Packera tomentosa</i> Piedmont Flatrock Group	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+840562	<i>Ephedra fasciculata</i> / Mixed Semi-Desert Grasses Shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+840565	<i>Ephedra fasciculata</i> Shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+688612	<i>Azolla (filiculoides, mexicana)</i> Aquatic Vegetation	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+788795	<i>Salicornia virginica - Frankenia salina - Suaeda californica</i> Salt Marsh	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+788792	<i>Salicornia virginica - Brassica nigra</i> Salt Marsh	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686851	<i>Salicornia virginica - Distichlis spicata - Triglochin maritima - (Jaumea carnosa)</i> Salt Marsh	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+688895	<i>Salicornia virginica - Distichlis spicata - Jaumea carnosa</i> Tidal Salt Marsh	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+684043	<i>Ephedra californica</i> Shrubland [Placeholder]	elevated to Provisional	11/18/2016	K. Schulz
+684376	<i>Picea sitchensis / Rubus spectabilis</i> Woodland		1/31/2017	G. Kittel
+683894	<i>Picea sitchensis - Tsuga mertensiana / Vaccinium ovalifolium - Oplopanax horridus</i> Woodland		1/31/2017	G. Kittel
+685510	<i>Pseudotsuga menziesii / Rosa gymnocarpa - Holodiscus discolor</i> Forest		1/31/2017	G. Kittel
+687475	<i>Pseudotsuga menziesii / Symphoricarpos albus - Holodiscus discolor</i> Forest		1/31/2017	G. Kittel
+899079	<i>Vaccinium uliginosum - Vaccinium caespitosum</i> Wet Shrubland Alliance		7/26/2017	M. Russo
+899992	<i>Vaccinium ovalifolium - Vaccinium caespitosum - Vaccinium uliginosum</i> Shrubland Alliance	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+683258	<i>Pseudotsuga menziesii / Vaccinium caespitosum</i> Forest	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+686775	<i>Vaccinium caespitosum - (Salix farriae) / Danthonia intermedia</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+688728	<i>Vaccinium caespitosum / Sanguisorba officinalis</i> Fen	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+686488	<i>Deschampsia caespitosa - Horkelia marinensis</i> Marsh	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+685175	<i>Deschampsia caespitosa - (Sporobolus heterolepis, Schizachyrium scoparium) - Carex crawei - Packera paupercula</i> Grassland	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+689102	<i>Deschampsia caespitosa - Spartina pectinata - Schizachyrium scoparium - Oligoneuron ohioense</i> Wet Meadow	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+687806	<i>Deschampsia caespitosa - Claytonia virginica var. hammondiae</i> Seepage Meadow	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+685924	<i>Prunus pumila var. depressa / Deschampsia caespitosa</i> Riverscour Wet Meadow	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+860608	<i>Deschampsia caespitosa - Ligusticum</i> spp. - <i>Muhlenbergia montana</i> Subalpine-High Montane Mesic Meadow Macrogroup	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+688357	<i>Tsuga heterophylla - Chamaecyparis nootkatensis / Vaccinium ovalifolium - Menziesia ferruginea</i> Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+833266	<i>Tsuga mertensiana - Abies amabilis - Chamaecyparis nootkatensis</i> Forest Group	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+688119	<i>Pinus banksiana / Photinia melanocarpa / Xanthoparmelia</i> spp. Woodland	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+689065	<i>Photinia melanocarpa - Gaylussacia baccata / Carex pensylvanica</i> Shrubland	nomenclature update (USDA Plants 2017)	8/17/2017	M. Russo
+688744	<i>Fagus grandifolia - Magnolia grandiflora - Quercus pagoda - Acer barbatum - Pinus taeda</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+683696	<i>Menodora spinescens</i> Dwarf-shrubland [Placeholder]	elevated to Provisional	11/18/2016	K. Schulz
+688678	<i>Polygonum amphibium</i> Aquatic Vegetation [Placeholder]	elevated to provisional<br /> 	11/26/2016	M. Russo
+684298	<i>Prunus fasciculata</i> Shrubland [Placeholder]	elevated to Provisional	11/27/2016	M. Russo
+941884	<i>Opuntia acanthocarpa</i> Scrub Alliance		11/30/2016	K. Schulz
+899268	<i>Peucephyllum schottii</i> Scrub Alliance		1/19/2017	K. Schulz/J. Evens
+684904	<i>Picea sitchensis - Pinus contorta / Gaultheria shallon - Vaccinium ovatum</i> Forest		1/31/2017	G. Kittel
+685835	<i>Tsuga heterophylla / Vaccinium ovatum</i> Forest		1/31/2017	G. Kittel
+684924	<i>Tsuga heterophylla - Chamaecyparis nootkatensis / Vaccinium ovalifolium</i> Forest		2/1/2017	G. Kittel
+683720	<i>Artemisia cana ssp. viscidula / Deschampsia caespitosa</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+833232	Laurentian Sub-boreal Dry-Mesic Pine - Black Spruce - Hardwood Forest		8/8/2017	D. Faber-Langendoen
+885451	Eastern North American Sub-boreal Bog &amp; Acidic Fen		8/8/2017	D. Faber-Langendoen
+959811	Eastern Boreal &amp; Sub-boreal Alkaline Cliff Alliance		8/8/2017	D. Faber-Langendoen
+899892	<i>Pinus banksiana - Pinus resinosa / Arctostaphylos uva-ursi</i> Sub-boreal Sand Woodland Alliance		8/8/2017	D. Faber-Langendoen
+885451	Eastern North American Sub-boreal Bog &amp; Acidic Fen Group		8/8/2017	D. Faber-Langendoen
+899730	<i>Abies concolor - Abies magnifica - Abies x shastensis</i> Forest Alliance	nomenclature &amp; taxonomic update (USDA Plants 2017)	8/13/2017	M. Russo
+685227	<i>Abies concolor - Abies x shastensis / Chimaphila umbellata</i> Forest	nomenclature &amp; taxonomic update (USDA Plants 2017)<br /> 	8/13/2017	M. Russo
+683216	<i>Chamaecyparis nootkatensis / Vaccinium ovalifolium</i> Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+686974	<i>Yucca brevifolia</i> Wooded Shrubland [Placeholder]	elevated to Provisional	12/1/2016	M. Russo
+687432	<i>Picea sitchensis / Alnus viridis ssp. sinuata</i> Riparian Woodland		1/30/2017	G. Kittel
+686922	<i>Picea sitchensis / Carex obnupta - Lysichiton americanus</i> Swamp Forest		1/31/2017	G. Kittel
+683467	<i>Abies grandis / Vaccinium caespitosum</i> Forest	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+683955	<i>Salix arctica - Vaccinium caespitosum / Calamagrostis breweri - Antennaria media</i> Dwarf-shrubland	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+685046	<i>Rosa nutkana / Deschampsia caespitosa</i> Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+684809	<i>Pinus monticola / Deschampsia caespitosa</i> Riparian Forest	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+833233	Laurentian Sub-boreal Mesic Balsam Fir - Spruce - Hardwood Forest		8/8/2017	D. Faber-Langendoen
+899391	<i>Abies balsamea - Betula alleghaniensis - Populus tremuloides</i> Sub-boreal Forest Alliance		8/8/2017	D. Faber-Langendoen
+959794	Eastern Boreal - Sub-boreal Acidic Talus Alliance		8/8/2017	D. Faber-Langendoen
+959774	Eastern Boreal &amp; Sub-boreal Alkaline Talus Alliance		8/8/2017	D. Faber-Langendoen
+899891	<i>Pinus banksiana - Pinus resinosa - Quercus ellipsoidalis</i> Sub-boreal Rocky Woodland Alliance		8/8/2017	D. Faber-Langendoen
+899897	<i>Thuja occidentalis - Abies balsamea</i> Sub-boreal Forest Alliance		8/8/2017	D. Faber-Langendoen
+833232	<i>Pinus banksiana - Pinus resinosa - Picea mariana</i> Sub-boreal Forest Group		8/8/2017	D. Faber-Langendoen
+683129	<i>Chamaecyparis nootkatensis</i> Subalpine Parkland Woodland	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+687942	<i>Fraxinus americana - Juglans nigra - Ulmus rubra / Acer barbatum / Ptelea trifoliata</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+685944	<i>Fagus grandifolia - Quercus alba - (Acer barbatum)</i> / Mixed Herbs Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+964073	<i>Pinus echinata - Quercus alba - Quercus stellata / Vaccinium stamineum</i> Outer Piedmont Woodland		1/19/2017	M. Pyne
+688776	<i>Tsuga mertensiana - Chamaecyparis nootkatensis / Vaccinium ovalifolium / Nephrophyllidium crista-galli</i> Woodland		1/30/2017	G. Kittel
+689671	<i>Thuja plicata - Abies grandis / Polystichum munitum</i> Forest		1/31/2017	G. Kittel
+683547	<i>Tsuga mertensiana - Abies amabilis / Caltha leptosepala ssp. howellii</i> Forest		2/1/2017	G. Kittel
+689330	Igneous Ozark Talus Sparse Vegetation		2/27/2017	D. Faber-Langendoen
+683886	<i>Toxicodendron radicans / (Polymnia cossatotensis)</i> Sparse Vegetation		2/27/2017	D. Faber-Langendoen
+959781	Central Midwest-Interior Alkaline Talus Alliance		2/27/2017	D. Faber-Langendoen
+685146	Sandstone Midwest Dry Cliff Sparse Vegetation		2/27/2017	D. Faber-Langendoen
+685238	Chert Ozark Moist Cliff Sparse Vegetation		2/27/2017	D. Faber-Langendoen
+688801	<i>Trichophorum caespitosum - Osmunda cinnamomea - Carex barrattii - Carex buxbaumii</i> Cliff Vegetation	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+885459	<i>Alnus serrulata</i> Appalachian-Piedmont Seepage Shrubland		8/14/2017	M. Pyne
+788005	<i>Tsuga heterophylla - Abies amabilis - (Chamaecyparis nootkatensis) / Vaccinium alaskaense</i> Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+685009	<i>Pinus contorta - (Chamaecyparis nootkatensis) / Gaultheria shallon</i> Woodland	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+688775	<i>Tsuga mertensiana - Chamaecyparis nootkatensis / Vaccinium parvifolium / Rubus pedatus - Lysichiton americanus</i> Swamp Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+899934	<i>Artemisia californica - Salvia mellifera - Salvia leucophylla</i> Mesic Scrub Alliance		11/9/2016	M. Reid
+689819	<i>Pseudotsuga menziesii - Arbutus menziesii / Vicia americana</i> Forest		1/31/2017	G. Kittel
+684079	<i>Tsuga heterophylla / Vaccinium ovalifolium - Oplopanax horridus</i> Forest		1/31/2017	G. Kittel
+687641	Sandstone Interior Highlands Talus Sparse Vegetation		2/27/2017	D. Faber-Langendoen
+688053	<i>Fagus grandifolia - Magnolia grandiflora - Fraxinus americana / Acer barbatum - Ostrya virginiana</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+687751	<i>Quercus rubra - Tilia americana var. heterophylla - Carya carolinae-septentrionalis / Acer barbatum / Hydrangea quercifolia</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+899020	<i>Fraxinus quadrangulata - Quercus macrocarpa / Arundinaria gigantea ssp. gigantea</i> Open Woodland Alliance	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+689454	<i>Fraxinus quadrangulata - Quercus macrocarpa / Arundinaria gigantea ssp. gigantea</i> Wooded Shrubland	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+689214	<i>Fraxinus quadrangulata - Quercus macrocarpa - Quercus muehlenbergii / Arundinaria gigantea ssp. gigantea / Elymus</i> spp. Woodland	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+686476	<i>Leucothoe racemosa - Vaccinium fuscatum - Smilax walteri</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+837265	<i>Chloris pluriflora - Bothriochloa barbinodis - Opuntia engelmannii var. lindheimeri</i> Grassland Group	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+899949	<i>Argentina egedii - Calamagrostis nutkaensis - Juncus balticus</i> Salt Marsh Alliance	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+686060	<i>Eleocharis palustris - Juncus balticus</i> Marsh	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+685348	<i>Sarcobatus vermiculatus / Juncus balticus</i> Sparse Vegetation	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+899716	<i>Schoenoplectus acutus - Schoenoplectus fluviatilis - Schoenoplectus tabernaemontani</i> Marsh Alliance	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+899718	<i>Schoenoplectus tabernaemontani - Schoenoplectus fluviatilis - Typha</i> spp. Shallow Marsh Alliance	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+686366	<i>Distichlis spicata - Schoenoplectus maritimus - Salicornia rubra</i> Wet Meadow	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+683475	<i>Schoenoplectus fluviatilis - Schoenoplectus</i> spp. Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+687407	<i>Schoenoplectus acutus - (Schoenoplectus fluviatilis)</i> Freshwater Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+683701	<i>Schoenoplectus maritimus - Schoenoplectus acutus - (Triglochin maritima)</i> Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+686421	<i>Schoenoplectus maritimus - Atriplex patula - Eleocharis parvula</i> Saline Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+787711	<i>Schoenoplectus fluviatilis</i> Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+683345	<i>Schoenoplectus robustus - Zizaniopsis miliacea - Typha</i> spp. - <i>Spartina bakeri</i> Ruderal Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+860813	<i>Schoenoplectus maritimus - Cladium mariscus - Cyperus laevigatus</i> Freshwater Marsh Group	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+689538	<i>Ericameria teretifolia</i> Shrubland [Placeholder]	elevated to Provisional	12/1/2016	M. Russo
+900049	Midwest Alkaline Cliff Alliance		2/27/2017	D. Faber-Langendoen
+689758	Midwest Maderate Cliff Vegetation		2/27/2017	D. Faber-Langendoen
+872765	<i>Populus balsamifera ssp. trichocarpa - Thuja plicata - Chamaecyparis nootkatensis</i> Flooded &amp; Swamp Forest Division	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+899960	<i>Quercus ilicifolia - Photinia melanocarpa</i> Bedrock Shrubland Alliance	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+686048	<i>Vaccinium corymbosum - Gaylussacia baccata - Photinia melanocarpa / Calla palustris</i> Acidic Peatland	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+687145	<i>Liquidambar styraciflua - Acer rubrum - Quercus phellos / Leucothoe racemosa</i> Swamp Forest	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+899609	<i>Schoenoplectus acutus - Schoenoplectus maritimus - Schoenoplectus tabernaemontani</i> Marsh Alliance	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+683192	<i>Schoenoplectus robustus - Spartina alterniflora</i> Salt Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+687867	<i>Abies concolor var. concolor - Pinus ponderosa - Pinus longaeva</i> Forest	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+835947	<i>Calocedrus decurrens - Pinus jeffreyi - Abies concolor var. lowiana</i> Forest Macrogroup	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+801795	<i>Cephalanthus occidentalis / Ampelopsis arborea</i> Ruderal Wet Shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+899062	<i>Acacia farnesiana - Opuntia stricta var. dillenii - Lycium carolinianum var. quadrifidum</i> Dune Scrub Alliance	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686987	<i>Acacia farnesiana - Opuntia stricta var. dillenii - Lycium carolinianum var. quadrifidum / Spartina patens</i> Shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686773	<i>Larrea tridentata - Opuntia schottii</i> Shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686879	<i>Juniperus occidentalis var. australis - Cercocarpus ledifolius / Artemisia tridentata</i> Woodland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+689241	<i>Schizachyrium scoparium - Bothriochloa laguroides ssp. torreyana - Croton willdenowii</i> Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+900013	<i>Croton willdenowii - Minuartia glabra - Talinum</i> spp. Piedmont Open Flatrock Alliance	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686965	<i>Schizachyrium scoparium - Aristida dichotoma - Croton willdenowii</i> / Lichens Wooded Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+684984	<i>Talinum teretifolium - Minuartia glabra - Diodia teres - Croton willdenowii</i> Flatrock Vegetation	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+684636	<i>Sedum pulchellum - Talinum calycinum - Oenothera linifolia</i> Shale Glade Vegetation	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+857716	<i>Sedum pulchellum - Allium drummondii - Talinum parviflorum - Centaurium texense / Nostoc commune</i> Forbland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+687682	<i>Sporobolus clandestinus - Clinopodium arkansanum - Camassia scilloides - Talinum calycinum</i> / Lichens Nepheline Syenite Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+683773	<i>Juniperus virginiana - Celtis tenuifolia - Quercus stellata / Sporobolus compositus - Talinum teretifolium</i> Wooded Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+899264	<i>Ephedra fasciculata</i> Scrub Alliance	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+689542	<i>Encelia farinosa - Ephedra (fasciculata, nevadensis)</i> Shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+899167	<i>Azolla filiculoides - Azolla mexicana</i> Aquatic Vegetation Alliance	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+687451	<i>Salicornia (bigelovii, virginica)</i> Tidal Salt Marsh	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686149	<i>Salicornia (virginica, bigelovii, maritima) - Spartina alterniflora</i> Salt Marsh	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+684953	<i>Hypericum reductum - Licania michauxii / Andropogon capillipes - Polygonella gracilis - Xyris caroliniana</i> Dwarf-shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+685700	<i>Hypericum reductum / Aristida stricta</i> Wet Dwarf-shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+687246	<i>Lolium (arundinaceum, pratense)</i> Ruderal Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686780	<i>Quercus stellata - Ulmus alata - (Juniperus virginiana var. virginiana) / Sporobolus clandestinus - Monarda fistulosa var. stipitatoglandulosa</i> Woodland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+687898	<i>Abies concolor / Muhlenbergia virescens</i> Forest	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+683846	<i>Pinus ponderosa / Muhlenbergia virescens</i> Woodland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+689604	<i>Pinus ponderosa / Muhlenbergia virescens - Festuca arizonica</i> Woodland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+860787	<i>Artemisia australis - Canthium odoratum / Trisetum glomeratum</i> Hawaiian Dry Cliff Group	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686293	<i>Juniperus virginiana var. virginiana - Croton alabamensis - Leptopus phyllanthoides / Carex eburnea</i> Shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+935251	<i>Vitis rotundifolia - Ampelopsis arborea - Campsis radicans</i> Ruderal Vine-Shrubland Alliance	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+689910	<i>Betula nigra / Salix nigra / Hypericum prolificum - Ampelopsis arborea</i> Floodplain Forest	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+688437	<i>Picea rubens - Acer rubrum / Nemopanthus mucronatus</i> Swamp Forest	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+688268	<i>Acer rubrum / Nemopanthus mucronatus - Vaccinium corymbosum</i> Swamp Forest	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+801799	<i>Schizachyrium scoparium - (Sorghastrum nutans) - Sporobolus compositus var. compositus - Liatris mucronata</i> Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+687493	<i>Schizachyrium scoparium - Rudbeckia missouriensis - Grindelia lanceolata - (Liatris mucronata)</i> Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+685190	<i>Pinus strobus - Quercus alba - (Carya alba) / Gaylussacia ursina</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+686516	<i>Quercus alba - Carya alba - (Quercus velutina) / Desmodium nudiflorum - (Carex picta)</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+684421	<i>Quercus alba - Quercus rubra - Carya alba / Vaccinium stamineum / Desmodium nudiflorum</i> Piedmont Forest	nomenclature update (USDA Plants 2017)<br /> 	8/31/2017	M. Russo
+687377	<i>Pinus jeffreyi / Festuca roemeri</i> Wooded Grassland	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+685853	<i>Quercus alba - Quercus velutina - Carya (ovata, alba) - Pinus</i> sp. Forest	nomenclature update (USDA Plants 2017)	9/6/2017	M. Russo
+833267	<i>Quercus prinus - Carya</i> spp. / <i>Castanea dentata</i> Forest Group	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+802079	<i>Quercus prinus / Deschampsia flexuosa - Solidago bicolor</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+683249	<i>Pinus virginiana - Quercus prinus / Packera antennariifolia - Phlox subulata</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+685271	<i>Betula lenta - Quercus prinus / Parthenocissus quinquefolia</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+683683	<i>Fagus grandifolia - Quercus (alba, velutina, prinus) / Kalmia latifolia</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+907201	<i>Quercus prinus / Juniperus virginiana / Vaccinium arboreum / Taenidia integerrima</i> Kentucky Siltstone Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+685442	<i>Quercus prinus - Carya</i> spp. - <i>Quercus velutina / Vaccinium arboreum / Iris verna var. smalliana</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+687856	<i>Quercus prinus - Juniperus virginiana - (Pinus virginiana) / Philadelphus hirsutus - Celtis occidentalis</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+683394	<i>Quercus alba - (Quercus prinus) / (Hydrangea quercifolia) - Viburnum acerifolium / Carex picta</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+684808	<i>Quercus prinus - (Quercus coccinea) / Carya pallida / Vaccinium arboreum - Vaccinium pallidum</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+686973	<i>Quercus prinus - Quercus rubra - Carya ovalis / Carex pensylvanica - (Calamagrostis porteri)</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+686143	<i>Quercus prinus - Quercus rubra / Vaccinium pallidum - (Rhododendron periclymenoides)</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+686117	<i>Quercus prinus - Pinus virginiana - (Pinus pungens) / Schizachyrium scoparium - Dichanthelium depauperatum</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+687526	<i>Pinus echinata - Quercus (margarettiae, stellata, falcata) - Carya texana</i> Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+684994	<i>Pinus echinata / Liquidambar styraciflua - Quercus (stellata, margarettiae) / Schizachyrium scoparium</i> Forest Plantation	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+685092	<i>Pinus palustris / Quercus incana / Schizachyrium scoparium - Liatris elegans - Opuntia humifusa var. humifusa</i> Woodland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+688832	<i>Juniperus occidentalis var. australis / Artemisia tridentata</i> Woodland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+689086	<i>Atriplex confertifolia / Kochia americana</i> Shrubland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+686674	<i>Quercus buckleyi - Fraxinus texensis - Juniperus ashei</i> Forest	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+684031	<i>Taxodium distichum - Betula nigra / Cyrilla racemiflora - Sebastiania fruticosa</i> Floodplain Forest	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+684588	<i>Quercus phellos - Quercus nigra / Sabal minor - Sebastiania fruticosa</i> Floodplain Forest	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+690021	<i>Impatiens (capensis, pallida) - Monarda didyma - Rudbeckia laciniata var. humilis</i> Herbaceous Seep	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+688618	<i>Cephalanthus occidentalis / Hibiscus moscheutos ssp. moscheutos</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+683368	<i>Polygonum densiflorum - (Saccharum giganteum)</i> Shoreline Wet Meadow	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+686394	<i>Sporobolus neglectus - Sporobolus vaginiflorus - Isanthus brachiatus - Panicum philadelphicum - (Poa compressa)</i> Alvar Grassland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+903090	<i>Solidago canadensis - Coronilla varia</i> Ruderal Meadow	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+683907	<i>Quercus hemisphaerica - Quercus (falcata, nigra) / Vaccinium arboreum / Cnidoscolus stimulosus</i> Forest	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+900051	<i>Bouteloua gracilis - Buchloe dactyloides</i> Shortgrass Prairie Alliance	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+684224	<i>Panicum obtusum - Buchloe dactyloides</i> Wet Meadow	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+686786	<i>Bouteloua gracilis - Buchloe dactyloides</i> Grassland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+688409	<i>Pleuraphis mutica - Buchloe dactyloides</i> Grassland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+683362	<i>Buchloe dactyloides</i> Modified Grassland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+856717	<i>Bouteloua gracilis - Buchloe dactyloides - Pleuraphis jamesii</i> Shortgrass Prairie Group	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+860672	<i>Bouteloua gracilis - Buchloe dactyloides</i> Shortgrass Prairie Macrogroup	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+860784	<i>Rhizophora mangle - Bruguiera gymnorrhiza - Bruguiera parviflora</i> Hawaiian Swamp Group	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+821455	<i>Quercus alba - Carya alba / Oxydendrum arboreum / Gaylussacia frondosa</i> Coastal Plain Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+685137	<i>Quercus alba - Carya alba / Ostrya virginiana / Carex pensylvanica - Schizachyrium scoparium</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+689973	<i>Quercus alba - Carya alba / Symplocos tinctoria / Mitchella repens</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+684485	<i>Quercus alba - Carya alba / Chasmanthium sessiliflorum</i> West Gulf Coastal Plain Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+687118	<i>Festuca roemeri - Cerastium arvense - Koeleria macrantha</i> Grassland	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+836893	<i>Arctostaphylos</i> spp. / <i>Festuca roemeri - Danthonia californica</i> Shrubland &amp; Grassland Group	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+932832	<i>Quercus sadleriana - Lithocarpus densiflorus var. echinoides</i> Shrubland Alliance	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+688695	<i>Pseudotsuga menziesii / Lithocarpus densiflorus / Gaultheria shallon</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+683466	<i>Pseudotsuga menziesii / Lithocarpus densiflorus / Vaccinium uliginosum</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+684032	<i>Pinus monticola - Pseudotsuga menziesii / Quercus vacciniifolia - Lithocarpus densiflorus</i> Woodland	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+689459	<i>Pinus palustris - Pinus echinata - Quercus prinus / Kalmia latifolia - Rhododendron minus</i> Woodland	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+798678	<i>Quercus prinus - Pinus echinata / Vaccinium pallidum</i> Piedmont Monadnock Forest	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+683611	<i>Quercus prinus - Quercus stellata - Carya glabra / Vaccinium arboreum - Viburnum rufidulum</i> Forest	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+690009	<i>Pinus echinata - Quercus prinus - Quercus (coccinea, velutina)</i> Forest	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+687536	<i>Pinus palustris / Quercus incana - Quercus margarettiae / Cnidoscolus texanus - Stylisma pickeringii var. pattersonii</i> Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+732722	<i>Pinus palustris / Quercus margarettiae - Quercus incana / Schizachyrium scoparium</i> Atlantic Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+932248	<i>Pinus palustris / Quercus margarettiae / Aristida beyrichiana - Rhynchosia reniformis</i> Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+685429	<i>Quercus alba - Quercus (margarettiae, rubra, stellata) / Vaccinium pallidum</i> Sandhill Forest	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+687343	<i>Quercus (incana, margarettiae, arkansana) - (Pinus echinata) / Schizachyrium scoparium</i> Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+860729	Hawaiian Vernal Pool Group		5/27/2016	K. Schulz
+860836	Polynesian Coastal Salt Marsh Group		5/27/2016	K. Schulz
+860792	Hawaiian Alpine Scrub Group		5/27/2016	K. Schulz
+955880	Hawaiian Seagrass Bed Group		5/27/2016	K. Schulz
+902979	Tropical Pacific Forest Plantation Cultural Subgroup		5/27/2016	K. Schulz
+899048	<i>Salix exigua - Forestiera pubescens</i> Warm Desert Wet Shrubland Alliance		1/20/2017	K. Schulz
+688227	<i>Abies amabilis / Vaccinium membranaceum / Xerophyllum tenax</i> Forest		1/30/2017	G. Kittel
+688873	<i>Abies amabilis / Oplopanax horridus</i> Swamp Forest		1/30/2017	G. Kittel
+689236	<i>Abies lasiocarpa / Valeriana sitchensis</i> Forest		1/30/2017	G. Kittel
+687137	<i>Picea sitchensis - Alnus rubra / Rubus spectabilis</i> Riparian Woodland		1/30/2017	G. Kittel
+685454	<i>Tsuga heterophylla / Vaccinium ovalifolium / Dryopteris expansa</i> Forest		1/31/2017	G. Kittel
+683612	<i>Tsuga heterophylla / Vaccinium ovalifolium / Lysichiton americanus</i> Woodland		1/31/2017	G. Kittel
+736399	<i>Cladium mariscoides - Panicum rigidulum var. pubescens</i> Sea Level Fen		6/28/2017	K. Walz/L. Sneddon
+899234	<i>Sporobolus heterolepis - Deschampsia caespitosa / Dasiphora fruticosa ssp. floribunda</i> Alvar Grassland Alliance	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+899872	<i>Danthonia californica - Carex lenticularis - Deschampsia caespitosa</i> Coastal &amp; Lowland Marsh Alliance	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+684789	<i>Cornus sericea - Cornus amomum - Photinia melanocarpa - Viburnum lentago</i> Fen	nomenclature update (USDA Plants 2017)	8/17/2017	M. Russo
+866624	<i>Acer rubrum / Viburnum nudum - Photinia pyrifolia / Smilax laurifolia / Carex debilis var. pubera</i> Seep Forest	nomenclature update (USDA Plants 2017)	8/17/2017	M. Russo
+899135	<i>Schoenoplectus robustus - Schoenoplectus maritimus - Atriplex patula</i> Inland Saline Marsh Alliance	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+899954	<i>Schoenoplectus maritimus - Schoenoplectus californicus</i> Salt Marsh Alliance	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+683828	<i>Schoenoplectus maritimus</i> Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+684235	<i>Schoenoplectus robustus - Juncus gerardii - Hordeum jubatum - Atriplex patula</i> Saline Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+689421	<i>Impatiens capensis - Peltandra virginica - Polygonum arifolium - Schoenoplectus fluviatilis - Typha angustifolia</i> Tidal Marsh	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+848835	<i>Carex lyngbyei - Schoenoplectus maritimus - Glaux maritima</i> Salt Marsh Group	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+684024	<i>(Pinus palustris) / Bigelowia nuttallii - Talinum teretifolium - Allium cuthbertii - Penstemon dissectus</i> Altamaha Grit Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+685705	<i>Ambrosia dumosa - Ephedra (fasciculata, nevadensis)</i> Dwarf-shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+837244	<i>Yucca brevifolia - Eriogonum fasciculatum - Ephedra fasciculata</i> Mixed Desert Scrub Group	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+959774	Eastern Boreal - Sub-boreal Alkaline Talus Alliance		2/5/2016	M. Russo
+688812	<i>Fagus grandifolia - Carya</i> spp. / (<i>Acer negundo, Magnolia macrophylla, Tilia americana var. heterophylla</i>) Temporarily Flooded Forest		2/11/2016	M. Russo
+934888	<i>Sullivantia hapemanii - Mimulus</i> spp. Wet Rock Vegetation [Placeholder]		2/11/2016	M. Russo
+686723	<i>Salix interior / Phragmites australis</i> Wet Shrubland		2/17/2016	M. Pyne
+689596	<i>Leymus cinereus - Distichlis spicata</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+683374	<i>Distichlis spicata</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+686893	<i>Carex unilateralis - Hordeum brachyantherum</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+684932	<i>Alnus rubra / Athyrium filix-femina - Lysichiton americanus</i> Forest		2/22/2016	D. Faber-Langendoen/J. Rocchio
+685195	<i>arex densa - Deschampsia caespitosa</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+899196	<i>Ledum glandulosum - Ledum groenlandicum</i> Acidic Shrub Fen Alliance		2/22/2016	D. Faber-Langendoen
+794078	<i>Fraxinus anomala - Rhus trilobata</i> Talus Shrubland	adding "Dry" to the name to help distinguish this from mesic/riparian sites that can also be on talus slopes near water	7/14/2016	G. Kittel
+686978	<i>(Crataegus opaca) / Schizachyrium scoparium - Panicum virgatum - Croton capitatus</i> Marsh		6/30/2017	M. Pyne
+732561	<i>Pinus ponderosa / Vaccinium caespitosum</i> Woodland	nomenclature update (USDA Plants 2017)	7/27/2017	M. Russo
+849120	<i>Adiantum</i> spp. - <i>Mimulus</i> spp. - <i>Aquilegia</i> spp. Colorado Plateau Hanging Garden Group		2/22/2016	D. Faber-Langendoen
+857208	<i>Alnus</i> spp. - <i>Salix</i> spp. - <i>Spiraea</i> spp. Lowland Riparian &amp; Wet Slope Shrubland Group		2/22/2016	D. Faber-Langendoen
+860603	<i>Amelanchier alnifolia / Festuca idahoensis - Pseudoroegneria spicata</i> Central Rocky Mountain Montane-Foothill Grassland &amp; Shrubland Macrogroup		2/22/2016	D. Faber-Langendoen
+848795	<i>Deschampsia beringensis - Argentina egedii - Carex obnupta</i> Vancouverian Freshwater Coastal Marsh &amp; Meadow Group		2/22/2016	D. Faber-Langendoen
+836963	<i>Magnolia virginiana - Gordonia lasianthus - Pinus serotina</i> Forest Group		2/22/2016	D. Faber-Langendoen
+838641	<i>Pinus edulis - Juniperus monosperma</i> Southern Rocky Mountain &amp; Colorado Plateau Woodland Macrogroup		2/22/2016	D. Faber-Langendoen
+837087	<i>Populus deltoides / Juniperus horizontalis - Ammophila breviligulata</i> Coastal Dune &amp; Grassland Group		2/22/2016	D. Faber-Langendoen
+683415	<i>Thuja plicata - Tsuga heterophylla / Lysichiton americanus / Sphagnum</i> spp. Swamp Forest		2/22/2016	D. Faber-Langendoen/J. Rocchio
+687887	<i>Quercus texana - (Carya aquatica, Taxodium distichum) / Cornus foemina / Symphyotrichum lanceolatum - Leersia virginica</i> Floodplain Forest		3/29/2016	M.J. Russo
+860773	Caribbean Flooded Forest Group		7/18/2016	C.  Nordman
+687864	<i>Populus fremontii / Baccharis emoryi</i> Riparian Woodland		8/5/2016	M. Reid
+738000	<i>Baccharis emoryi - Salix exigua</i> Wet Shrubland		8/9/2016	M. Reid
+899360	<i>Acer barbatum - Quercus shumardii - Fraxinus americana</i> Coastal Plain Forest Alliance	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+683233	<i>Carya glabra - Tilia americana var. caroliniana - Acer barbatum / Trillium maculatum</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+687025	<i>Fagus grandifolia - Acer barbatum - Quercus muehlenbergii / Sanguinaria canadensis</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+686218	<i>Juglans nigra - Aesculus glabra var. glabra - Gymnocladus dioicus / Arundinaria gigantea ssp. gigantea - (Asimina triloba)</i> Forest	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+684030	<i>Pinus palustris / Arundinaria gigantea ssp. tecta - Liquidambar styraciflua / Andropogon glomeratus - Sarracenia minor</i> Woodland	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+688018	<i>Quercus pagoda - Quercus michauxii / Arundinaria gigantea ssp. tecta - Sabal minor / Chasmanthium laxum</i> Wet Flatwoods Forest	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+689926	<i>Pinus rigida / Vaccinium corymbosum - Leucothoe racemosa / Sphagnum</i> spp. Swamp Woodland	nomenclature update (USDA Plants 2017)	8/25/2017	M. Russo
+686150	<i>Packera tomentosa - Croton willdenowii - Schizachyrium scoparium - (Selaginella rupestris)</i> Flatrock Vegetation	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+689478	<i>Quercus stellata / (Danthonia spicata, Croton willdenowii)</i> Flatwoods Woodland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+683728	<i>Sedum pulchellum - Talinum calcaricum - Leavenworthia</i> spp. / <i>Nostoc commune</i> Limestone Glade Vegetation	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+788789	<i>Salicornia virginica</i> / Algae Salt Marsh	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686281	<i>Distichlis spicata - (Salicornia virginica)</i> Salt Marsh	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686790	<i>Triglochin maritima - (Salicornia virginica)</i> Salt Marsh	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+688167	<i>Hypericum reductum / Syngonanthus flavidulus - Rhexia salicifolia - (Xyris longisepala)</i> Wet Dwarf-shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+893476	Midwest Limestone-Dolomite Outcrop		2/11/2016	M. Russo
+885459	<i>Alnus serrulata</i> Saturated Appalachian-Piedmont Seepage Shrubland		2/12/2016	M. Russo
+860816	Hawaiian Dry-Site Lava Flow Group		5/27/2016	K. Schulz
+860826	Caribbean Salt Flat &amp; Pond Group		7/18/2016	C. Nordman
+899881	<i>Picea mariana - Abies balsamea / Osmunda cinnamomea / Sphagnum</i> spp. Swamp Forest Alliance		2/5/2016	D. Faber-Langendoen
+860867	Caribbean Coastal Cactus Scrub Group		2/8/2016	C. Nordman
+683289	<i>Muhlenbergia filipes - Andropogon glomeratus var. pumilus - Saccharum giganteum</i> Successional Marsh		2/10/2016	M. Russo
+688836	<i>Pinus clausa / Ceratiola ericoides / Cladonia</i> spp. Woodland		2/11/2016	M. Russo
+857662	<i>Fouquieria splendens - Nolina</i> spp. - <i>Atriplex hymenelytra</i> Sparse Vegetation Group		2/22/2016	D. Faber-Langendoen
+856661	<i>Leymus mollis - Leymus arenarius - Abronia latifolia</i> Dune &amp; Grassland Group		2/22/2016	D. Faber-Langendoen
+838784	<i>Magnolia virginiana - Persea palustris - Pinus serotina</i> Swamp Macrogroup		2/22/2016	D. Faber-Langendoen
+948606	<i>Picea mariana - Abies balsamea</i> Atlantic Boreal Acidic Bog &amp; Swamp Group		2/22/2016	D. Faber-Langendoen
+833194	<i>Pinus elliottii var. densa / Coccothrinax argentata - Sideroxylon salicifolium</i> Rockland Group		2/22/2016	D. Faber-Langendoen
+860485	Great Plains Floodplain Forest		2/22/2016	D. Faber-Langendoen
+860485	<i>Populus deltoides - Fraxinus pennsylvanica / Salix</i> spp. Flooded Forest Macrogroup		2/22/2016	D. Faber-Langendoen
+837856	Central Rocky Mountain High Montane Mesic Shrubland		2/22/2016	D. Faber-Langendoen
+907535	North American Boreal &amp; Sub-boreal Acidic Bog &amp; Fen		2/22/2016	D. Faber-Langendoen
+907535	<i>Chamaedaphne calyculata - Vaccinium oxycoccos - Carex oligosperma</i> Acidic Bog &amp; Fen Macrogroup		2/22/2016	D. Faber-Langendoen
+839507	Eastern North American Boreal Acidic Bog &amp; Fen		2/22/2016	D. Faber-Langendoen
+839507	<i>Chamaedaphne calyculata - Carex oligosperma - Kalmia polifolia</i> Boreal Acidic Bog &amp; Fen Group		2/22/2016	D. Faber-Langendoen
+860780	Hawaiian Montane Rainforest &amp; Cloud Forest Group		5/26/2016	K. Schulz
+877233	Temperate &amp; Boreal Freshwater Aquatic Vegetation Formation		8/3/2016	D. Faber-Langendoen
+793511	<i>Ericameria nauseosa</i> Sparse Shrubland		8/9/2016	M. Reid
+684732	<i>Tsuga mertensiana - Abies amabilis / Oplopanax horridus</i> Swamp Forest		1/30/2017	G. Kittel
+684925	<i>Tsuga heterophylla - Chamaecyparis nootkatensis / Vaccinium ovalifolium / Lysichiton americanus</i> Swamp Forest		2/1/2017	G. Kittel
+687857	<i>Tsuga heterophylla - Thuja plicata / Polystichum munitum</i> Forest		2/1/2017	G. Kittel
+685537	<i>Tsuga mertensiana / Vaccinium ovalifolium / Caltha leptosepala ssp. howellii</i> Woodland		2/1/2017	G. Kittel
+688751	<i>Tsuga mertensiana - Abies amabilis / Elliottia pyroliflorus</i> Woodland		2/1/2017	G. Kittel
+860853	North American Arctic &amp; Subarctic Dwarf Willoa Tundra		2/5/2016	D. Faber-Langendoen
+860725	Caribbean Coastal Rocky Shore &amp; Cliff Group		2/8/2016	C. Nordman
+683185	<i>Carex simulata</i> Wet Meadow		2/22/2016	D. Faber-Langendoen/J. Rocchio
+684064	<i>Prunus serotina / Morella cerifera / Smilax rotundifolia</i> Ruderal Scrub Forest	name was changed to Ruderal in error	5/5/2016	K. Patterson
+860804	Hawaiian Montane-Subalpine Dry Shrubland &amp; Grassland Group		5/26/2016	K. Schulz
+736402	<i>Rhynchospora (alba, cephalantha) - Muhlenbergia uniflora - Lophiola aurea</i> Sea Level Fen		6/28/2017	K. Walz/L. Sneddon
+860856	<i>Aleurites moluccana - Hibiscus tiliaceus</i> Ruderal Flooded &amp; Swamp Forest Group	nomenclature update (USDA Plants 2017)	7/25/2017	M. Russo
+688460	<i>Sporobolus (neglectus, vaginiflorus) - Aristida longispica - Panicum flexile - Panicum capillare</i> Grassland	nomenclature update (USDA Plants 2017)	7/25/2017	M. Russo
+951318	<i>Opuntia imbricata</i> Ruderal Cacti Scrub Alliance	nomenclature update (USDA Plants 2017)	8/12/2017	M. Russo
+899271	<i>Opuntia bigelovii</i> Cacti Scrub Alliance	nomenclature update (USDA Plants 2017)	8/12/2017	M. Russo
+684365	<i>Phragmites australis</i> Western Ruderal Wet Meadow		8/14/2017	G. Kittel
+899947	<i>Typha domingensis - Typha latifolia - Typha angustifolia</i> Western Marsh Alliance		8/14/2017	G. Kittel
+688905	<i>Rorippa nasturtium-aquaticum - Veronica anagallis-aquatica - Cardamine bulbosa</i> Seepage Meadow	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+687744	<i>Quercus marilandica var. ashei / Schizachyrium scoparium - Andropogon gerardii - Monarda fistulosa var. stipitatoglandulosa</i> / Lichens Novaculite Glade Wooded Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+687511	<i>Pseudotsuga menziesii / Muhlenbergia virescens</i> Forest	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+683353	<i>Juniperus virginiana var. virginiana - Leptopus phyllanthoides - (Quercus nigra, Ilex vomitoria)</i> Riverscour Shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+769486	<i>Celtis laevigata var. reticulata</i> Slickrock Canyon Riparian Woodland		9/1/2016	G. Kittel
+687949	Igneous Ozark Moist Cliff Sparse Vegetation		2/27/2017	D. Faber-Langendoen
+688433	<i>Carex lasiocarpa - Carex buxbaumii - Trichophorum caespitosum</i> Boreal Fen	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+685296	<i>Abies lasiocarpa - Picea engelmannii / Vaccinium caespitosum</i> Forest	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+728657	<i>Larix occidentalis / Vaccinium caespitosum</i> Forest	nomenclature update (USDA Plants 2017)	7/27/2017	M. Russo
+728663	<i>Larix occidentalis / Vaccinium caespitosum / Clintonia uniflora</i> Forest	nomenclature update (USDA Plants 2017)	7/27/2017	M. Russo
+731884	<i>Picea engelmannii / Vaccinium caespitosum</i> Forest	nomenclature update (USDA Plants 2017)	7/27/2017	M. Russo
+686746	<i>Vaccinium caespitosum / Carex filifolia</i> Dwarf-shrubland	nomenclature update (USDA Plants 2017)	7/27/2017	M. Russo
+899594	<i>Deschampsia caespitosa</i> Serpentine Seep Alliance	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+899856	<i>Carex aquatilis - Carex utriculata - Deschampsia caespitosa</i> Wet Meadow Alliance	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+689647	<i>Salix glauca / Deschampsia caespitosa</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+683765	<i>Salix geyeriana / Deschampsia caespitosa</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+684568	<i>Salix eastwoodiae / Deschampsia caespitosa</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+687250	<i>Deschampsia caespitosa - Sidalcea hendersonii</i> Salt Marsh	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+685711	<i>Deschampsia caespitosa - Artemisia lindleyana</i> Marsh	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+836045	Laurentian Sub-boreal Dry Jack Pine - Red Pine - Oak Woodland		8/8/2017	D. Faber-Langendoen
+835861	Eastern North American Sub-boreal Alkaline Fen		8/8/2017	D. Faber-Langendoen
+899890	<i>Pinus banksiana - Picea mariana / Vaccinium</i> spp. Sub-boreal Forest Alliance		8/8/2017	D. Faber-Langendoen
+899889	<i>Populus tremuloides - Picea glauca</i> Sub-boreal Rocky Woodland Alliance		8/8/2017	D. Faber-Langendoen
+899574	<i>Sphagnum rubellum - Rhynchospora alba</i> Sub-boreal Graminoid-Moss Fen Alliance		8/8/2017	D. Faber-Langendoen
+899899	<i>Phragmites australis - Arundo donax - Alopecurus pratensis</i> Ruderal Marsh Alliance		8/14/2017	G. Kittel
+687012	<i>Quercus muehlenbergii - Carya carolinae-septentrionalis / Acer (barbatum, leucoderme) / Croton alabamensis</i> Woodland	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+721877	<i>Quercus (rubra, alba, velutina) / Acer barbatum / Asimina triloba</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+688985	<i>Fagus grandifolia - Quercus alba / Acer (barbatum, leucoderme) / Solidago auriculata</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+685613	<i>Pinus taeda - Quercus alba - Carya alba / Acer barbatum - (Acer leucoderme)</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+689404	<i>Acer (barbatum, saccharum) - Juglans nigra - Fraxinus americana / Hybanthus concolor</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+689294	<i>Pinus strobus - Tsuga canadensis</i> Lower New England / Northern Piedmont Forest		2/11/2016	M. Russo
+878891	<i>Geraea canescens</i> Ephemeral Herbaceous Vegetation [Park Special]	elevated to Standard	11/18/2016	K. Schulz
+689383	<i>Gutierrezia sarothrae / Pleuraphis rigida</i> Shrub Grassland		11/30/2016	K. Schulz
+687235	<i>Viguiera reticulata</i> Shrubland [Placeholder]	elevated to Provisional	11/30/2016	M. Russo
+684036	<i>Yucca schidigera</i> Shrubland [Placeholder]	elevated to Provisional	12/1/2016	M. Russo
+683421	<i>Picea sitchensis / Menziesia ferruginea - Vaccinium parvifolium</i> Forest		1/31/2017	G. Kittel
+685217	<i>Picea sitchensis / Oplopanax horridus / Lysichiton americanus</i> Swamp Forest		1/31/2017	G. Kittel
+684062	<i>Picea sitchensis / Vaccinium ovalifolium / Lysichiton americanus</i> Swamp Forest		1/31/2017	G. Kittel
+688194	<i>Pinus contorta var. contorta / Gaultheria shallon</i> Forest		1/31/2017	G. Kittel
+685014	<i>Abies concolor / Mahonia nervosa - Gaultheria shallon</i> Forest		1/31/2017	G. Kittel
+690034	<i>Pseudotsuga menziesii - Tsuga heterophylla / Rhododendron macrophyllum - Vaccinium ovatum - Gaultheria shallon</i> Forest		1/31/2017	G. Kittel
+687702	<i>Abies amabilis / Mahonia nervosa</i> Forest		2/1/2017	G. Kittel
+688631	<i>Impatiens pallida - Cystopteris bulbifera - Adoxa moschatellina - (Chrysosplenium iowense, Aconitum noveboracense)</i> Algific Talus Herb Vegetation		2/27/2017	D. Faber-Langendoen
+893473	Midwest Sandstone Outcrop		2/27/2017	D. Faber-Langendoen
+683161	<i>(Hydrangea arborescens, Ribes cynosbati) / Deschampsia flexuosa - Dryopteris marginalis - Dennstaedtia punctilobula</i> Cliff Shrubland		2/27/2017	D. Faber-Langendoen
+686752	<i>Hydrangea arborescens / Impatiens (capensis, pallida) - Heuchera villosa</i> Cliff Shrubland		2/27/2017	D. Faber-Langendoen
+689006	<i>Aristida longispica - Schizachyrium scoparium - Diodia teres</i> Saline Grassland	nomenclature update (USDA Plants 2017)	7/25/2017	M. Russo
+899241	<i>Cupressus arizonica</i> Forest &amp; Woodland Alliance	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+899476	<i>Cupressus goveniana - Cupressus macrocarpa</i> Woodland Alliance	nomenclature update (USDA Plants 2017)	8/15/2017	M. Russo
+943205	<i>Hemizonia pungens - Hemizonia</i> sp. Vernal Pool Alliance	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686508	<i>Vitis rotundifolia - Ampelopsis arborea - Campsis radicans</i> Ruderal Wet Vine-Shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686751	<i>Acer rubrum / Sambucus canadensis / Ampelopsis arborea - Sicyos angulatus</i> Tidal Forest	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+868471	<i>Sophora chrysophylla / Ehrharta stipoides</i> Subalpine Ruderal Woodland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+686220	<i>Alnus incana ssp. rugosa - Nemopanthus mucronatus / Sphagnum</i> spp. Acidic Peatland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+683588	<i>Juniperus occidentalis var. australis</i> / Sparse Understory Woodland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+688458	<i>Juniperus occidentalis var. australis / Holodiscus discolor</i> Woodland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+685327	<i>Metopium toxiferum - Eugenia foetida - Coccoloba uvifera - Thrinax morrisii / Erithalis fruticosa</i> Forest	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+899728	<i>Pinus jeffreyi - Pinus washoensis</i> Mixed Conifer Woodland Alliance	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+686064	<i>Pinus washoensis</i> Woodland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+683274	<i>Quercus buckleyi - Fraxinus texensis - Quercus muehlenbergii</i> Forest	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+688777	<i>Vaccinium caespitosum / Calamagrostis breweri</i> Dwarf-shrub Grassland	nomenclature update (USDA Plants 2017)	7/27/2017	M. Russo
+684174	<i>Trichophorum caespitosum - Carex scirpoidea - Carex bigelowii</i> Alpine Snowbed	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+685148	<i>Trichophorum caespitosum - Gaylussacia dumosa / Sphagnum (fuscum, rubellum, magellanicum)</i> Acidic Peatland	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+899410	<i>Ledum groenlandicum / Trichophorum caespitosum / Sphagnum</i> spp. Alpine Bog &amp; Fen Alliance	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+899643	<i>Myrica gale - Spiraea douglasii - Vaccinium caespitosum</i> Shrub Fen Alliance	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+731466	<i>Pinus contorta / Vaccinium caespitosum / Clintonia uniflora</i> Forest	nomenclature update (USDA Plants 2017)	7/27/2017	M. Russo
+689862	<i>Quercus shumardii - Quercus muehlenbergii - Acer (barbatum, saccharum) / Ostrya virginiana</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+686572	<i>Quercus alba - Quercus stellata / Ostrya virginiana - Acer barbatum / Chasmanthium sessiliflorum</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+689017	<i>Quercus shumardii - Quercus michauxii - Quercus nigra / Acer barbatum - Tilia americana var. heterophylla</i> Swamp Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+687507	<i>Tilia americana - Acer barbatum - Fraxinus americana / Arundinaria gigantea / Tillandsia usneoides</i> Forest	nomenclature update (USDA Plants 2017)	8/24/2017	M. Russo
+899893	<i>Acacia farnesiana - Celtis pallida</i> Riparian Scrub Alliance	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+685073	<i>Celtis laevigata var. reticulata / Celtis pallida</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+685043	<i>Prosopis glandulosa var. glandulosa / (Celtis pallida, Phaulothamnus spinescens, Ziziphus obtusifolia var. obtusifolia)</i> Woodland	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+683219	<i>Acacia farnesiana - Celtis laevigata - Celtis pallida</i> Ruderal Scrub	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+860552	<i>Prosopis glandulosa - Celtis pallida / Chloris pluriflora</i> Tamaulipan Scrub &amp; Grassland Macrogroup	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+689966	<i>Bothriochloa barbinodis - Chloris pluriflora</i> Grassland	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+899868	<i>Juncus balticus - Juncus mexicanus</i> Wet Meadow Alliance	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+687882	<i>Juncus balticus</i> Wet Meadow	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+685889	<i>Argentina egedii - Juncus balticus</i> Salt Marsh	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+684812	<i>Juncus balticus - Carex obnupta</i> Wet Meadow	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+689905	<i>Calamagrostis nutkaensis - Argentina egedii - Juncus balticus</i> Salt Marsh	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+686583	<i>Juncus balticus - (Juncus mexicanus)</i> Wet Meadow	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+690040	<i>Dasiphora fruticosa ssp. floribunda / Cladium mariscoides - Juncus balticus - (Rhynchospora capillacea)</i> Fen	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+737997	<i>Baccharis emoryi / Juncus balticus</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+802992	<i>Artemisia cana / Juncus balticus</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	8/26/2017	M. Russo
+860836	<i>Sesuvium portulacastrum - Schoenoplectus maritimus - Cyperus laevigatus</i> Salt Marsh Group	nomenclature update (USDA Plants 2017)	8/28/2017	M. Russo
+683987	<i>Larrea tridentata - Atriplex hymenelytra</i> Shrubland	to make clear ATHY is more diagnostic	11/18/2016	K. Schulz
+686128	<i>Larrea tridentata / Lycium andersonii - Grayia spinosa</i> Shrubland		11/18/2016	K. Schulz
+689193	<i>Abies bracteata</i> Forest [Placeholder]	elevated to Standard	11/25/2016	M. Reid
+689576	Cytisus scoparius Ruderal Shrubland [Placeholder]		11/26/2016	M. Russo
+688529	<i>Hyptis emoryi</i> Shrubland [Placeholder]	elevated to Provisional	12/1/2016	M. Russo
+687036	<i>Deschampsia caespitosa - Danthonia californica</i> Marsh	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+689487	<i>Deschampsia caespitosa - (Carex lyngbyei, Distichlis spicata)</i> Salt Marsh	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+685366	<i>Larix laricina / Photinia melanocarpa / Sphagnum</i> spp. Swamp Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+686132	<i>Pinus rigida / (Quercus ilicifolia) / Photinia melanocarpa / Deschampsia flexuosa</i> Woodland	nomenclature update (USDA Plants 2017)	8/17/2017	M. Russo
+683072	<i>Photinia pyrifolia - Ilex verticillata - Nemopanthus mucronatus / Osmunda cinnamomea</i> Acidic Peatland	nomenclature update (USDA Plants 2017)	8/17/2017	M. Russo
+689631	<i>Schizachyrium scoparium - Sorghastrum nutans - Bouteloua curtipendula - Rudbeckia missouriensis - Hedyotis nigricans</i> Wooded Grassland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+835984	<i>Schizachyrium scoparium - Bouteloua curtipendula - Hedyotis nigricans</i> Central Glade &amp; Barrens Group	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+685542	<i>Quercus virginiana - Sabal palmetto / Eugenia axillaris - Myrsine floridana - Coccoloba uvifera</i> Forest	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+683461	<i>Betula papyrifera var. commutata - Alnus rubra / Polystichum munitum</i> Forest	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+684941	<i>Artemisia arbuscula ssp. arbuscula / Leptodactylon pungens</i> Shrubland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+685161	<i>Pascopyrum smithii - Buchloe dactyloides - (Phyla cuneifolia, Oenothera canescens)</i> Wet Meadow	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+685041	<i>Bouteloua gracilis - Buchloe dactyloides - Pleuraphis jamesii</i> Grassland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+688553	<i>Prosopis glandulosa var. glandulosa / Bouteloua gracilis - Buchloe dactyloides</i> Ruderal Shrubland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+849336	<i>Pascopyrum smithii - Panicum obtusum - Buchloe dactyloides</i> Playa &amp; Rainwater Basin Wetland Group	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+687521	<i>Quercus alba - Quercus rubra - Carya alba / Cornus florida</i> Acidic Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+950174	<i>Festuca roemeri - Danthonia californica</i> Interior Prairie, Bald &amp; Bluff Grassland Alliance	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+684653	<i>Festuca roemeri - Sericocarpus rigidus</i> Grassland	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+684764	<i>Artemisia tridentata / Chrysothamnus viscidiflorus / Poa secunda</i> Shrubland		11/29/2016	K. Schulz
+687191	<i>Tsuga mertensiana - Chamaecyparis nootkatensis / Vaccinium ovalifolium - Gaultheria shallon / Nephrophyllidium crista-galli</i> Woodland		1/30/2017	G. Kittel
+688210	<i>Picea sitchensis / Oplopanax horridus - Rubus spectabilis</i> Riparian Forest		1/31/2017	G. Kittel
+686625	<i>Picea sitchensis / Vaccinium ovalifolium</i> Forest		1/31/2017	G. Kittel
+687967	<i>Tsuga mertensiana / Elliottia pyroliflorus</i> Woodland		2/1/2017	G. Kittel
+688775	<i>Tsuga mertensiana - Chamaecyparis nootkatensis / Vaccinium ovalifolium / Lysichiton americanus</i> Swamp Forest		2/1/2017	G. Kittel
+683160	<i>Hydrangea arborescens / Heuchera (americana var. hirsuticaulis, villosa var. arkansana) - Aquilegia canadensis</i> Cliff Shrubland		2/27/2017	D. Faber-Langendoen
+900048	Midwest Acidic Cliff Alliance		2/27/2017	D. Faber-Langendoen
+684593	Sandstone Midwest Moist Cliff Vegetation		2/27/2017	D. Faber-Langendoen
+685775	Limestone - Dolostone Midwest Dry Cliff Sparse Vegetation		2/27/2017	D. Faber-Langendoen
+686634	Limestone - Dolostone Midwest Moist Cliff Vegetation		2/27/2017	D. Faber-Langendoen
+685883	Chert Ozark Dry Cliff Sparse Vegetation		2/27/2017	D. Faber-Langendoen
+899454	<i>Vaccinium caespitosum - Vaccinium membranaceum - Vaccinium scoparium</i> Cascadian Alpine Dwarf-shrubland Alliance	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+685688	<i>Pinus contorta / Vaccinium caespitosum</i> Forest	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+899747	<i>Deschampsia caespitosa - Campanula rotundifolia</i> Lakeshore Alliance	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+899950	<i>Deschampsia caespitosa - Festuca rubra</i> Brackish Salt Marsh Alliance	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+683174	<i>Picea sitchensis / Oplopanax horridus</i> Riparian Forest		1/31/2017	G. Kittel
+687279	<i>Picea sitchensis / Vaccinium ovalifolium - Oplopanax horridus</i> Swamp Forest		1/31/2017	G. Kittel
+683147	<i>Tsuga heterophylla - Chamaecyparis nootkatensis / Vaccinium ovalifolium - Oplopanax horridus</i> Forest		2/1/2017	G. Kittel
+684731	<i>Tsuga heterophylla - (Thuja plicata) / Oplopanax horridus / Polystichum munitum</i> Forest		2/1/2017	G. Kittel
+689882	<i>Carex lasiocarpa - Trichophorum caespitosum - Rhynchospora capillacea / Andromeda polifolia</i> Fen	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+688859	<i>Pinus contorta / Trichophorum caespitosum</i> Treed Bog	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+689913	<i>Trichophorum caespitosum - Calamagrostis pickeringii</i> Alpine Snowbed	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+684628	<i>Trichophorum caespitosum - Osmunda regalis - Rhynchospora capitellata - Oxypolis rigidior</i> Cliff Vegetation	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+899411	<i>Salix herbacea / Trichophorum caespitosum - Carex bigelowii</i> Alpine Snowbed Alliance	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+686454	Limestone - Dolostone Midwest Talus Vegetation		2/27/2017	D. Faber-Langendoen
+893476	Midwest Limestone - Dolomite Outcrop		2/27/2017	D. Faber-Langendoen
+878657	<i>Hydrangea arborescens / Heuchera villosa</i> Interior Circumneutral Cliff Alliance		2/27/2017	D. Faber-Langendoen
+685951	<i>Trichophorum caespitosum - Saxifraga (foliolosa, paniculata, rivularis)</i> Alpine Cliff	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+687314	<i>Pinus contorta / Deschampsia caespitosa</i> Swamp Forest	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+686912	<i>Dasiphora fruticosa ssp. floribunda / Deschampsia caespitosa</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+687906	<i>Salix planifolia / Deschampsia caespitosa</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+684511	<i>Salix boothii / Deschampsia caespitosa - Geum rossii</i> Wet Shrubland	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+839389	<i>Deschampsia caespitosa</i> Boreal Meadow	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+787677	<i>Deschampsia caespitosa - Vernonia noveboracensis</i> Serpentine Seep	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+688581	<i>Pinus thunbergiana - (Pinus nigra)</i> Ruderal Forest	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+872759	Western Interior Sub-boreal Spruce - Fir Forest Macrogroup		8/2/2017	K. Baldwin/D. Faber-Langendoen
+907538	North American Boreal &amp; Sub-boreal Alkaline Fen		8/8/2017	D. Faber-Langendoen
+934719	<i>Pinus resinosa - Pinus strobus</i> Sub-boreal Forest Alliance		8/8/2017	D. Faber-Langendoen
+899896	<i>Populus tremuloides - Betula papyrifera</i> Sub-boreal Forest Alliance		8/8/2017	D. Faber-Langendoen
+833233	<i>Abies balsamea - Picea glauca - Acer spicatum</i> Sub-boreal Forest Group		8/8/2017	D. Faber-Langendoen
+899606	<i>Gaylussacia</i> spp. / <i>Trichophorum caespitosum / Sphagnum</i> spp. Maritime Acidic Graminoid Bog &amp; Fen Alliance	nomenclature update (USDA Plants 2017)	7/26/2017	M. Russo
+899961	<i>Danthonia spicata - Deschampsia flexuosa - Deschampsia caespitosa</i> Bedrock Grassland Alliance	nomenclature update (USDA Plants 2017)	7/28/2017	M. Russo
+685195	<i>Carex densa - Deschampsia caespitosa</i> Wet Prairie	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+837646	<i>Festuca viridula - Deschampsia caespitosa - Ligusticum</i> spp. Rocky Mountain-Vancouverian Grassland &amp; Meadow Group	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+881413	<i>Juniperus communis / Danthonia spicata - Deschampsia caespitosa</i> Northern Alkaline Rocky Outcrop Group	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+683690	<i>Deschampsia caespitosa - Ligusticum tenuifolium</i> Wet Meadow	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+907535	North American Boreal &amp; Sub-boreal Bog &amp; Acidic Fen		8/8/2017	D. Faber-Langendoen
+899573	<i>Chamaedaphne calyculata / Carex lasiocarpa</i> Sub-boreal Acidic Shrub Bog &amp; Fen Alliance		8/8/2017	D. Faber-Langendoen
+899575	<i>Dulichium arundinaceum - Carex canescens</i> Sub-boreal Acidic Graminoid Fen Alliance		8/8/2017	D. Faber-Langendoen
+959810	Eastern Boreal &amp; Sub-boreal Acidic Cliff Alliance		8/8/2017	D. Faber-Langendoen
+836045	<i>Pinus banksiana - Pinus resinosa - Quercus</i> spp. Sub-boreal Woodland Group		8/8/2017	D. Faber-Langendoen
+890136	<i>Pinus strobus - Picea glauca - Betula papyrifera</i> Sub-boreal Forest		8/8/2017	D. Faber-Langendoen
+899283	<i>Opuntia engelmannii - Opuntia imbricata - Opuntia schottii</i> Chihuahuan Desert Succulent Scrub Alliance	nomenclature update (USDA Plants 2017)	8/12/2017	M. Russo
+941884	<i>Opuntia acanthocarpa / Pleuraphis rigida</i> Scrub Alliance	nomenclature update (USDA Plants 2017)	8/12/2017	M. Russo
+687392	<i>Atriplex parryi</i> Wet Shrubland [Placeholder]	elevated to Provisional	1/6/2017	K. Schulz
+683988	<i>Deschampsia caespitosa - Potentilla diversifolia</i> Wet Meadow	nomenclature update (USDA Plants 2017)	7/31/2017	M. Russo
+683874	<i>Abies concolor - Abies x shastensis / Ribes</i> spp. Forest	nomenclature &amp; taxonomic update (USDA Plants 2017)	8/13/2017	M. Russo
+688415	<i>(Abies concolor) - Abies x shastensis / Symphoricarpos mollis</i> Forest	nomenclature &amp; taxonomic update (USDA Plants 2017)	8/13/2017	M. Russo
+685590	<i>Abies x shastensis / Vaccinium membranaceum / Chimaphila umbellata</i> Forest	nomenclature update (USDA Plants 2017)	8/13/2017	M. Russo
+689945	<i>Abies x shastensis / Carex inops ssp. inops</i> Forest	nomenclature update (USDA Plants 2017)	8/13/2017	M. Russo
+899504	<i>Alnus serrulata</i> Appalachian-Piedmont Shrub Seep Alliance	<br /> 	8/14/2017	M. Pyne
+685219	<i>Tsuga mertensiana - Chamaecyparis nootkatensis / Lysichiton americanus - Athyrium filix-femina</i> Swamp Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+684924	<i>Tsuga heterophylla - Chamaecyparis nootkatensis / Vaccinium (alaskaense, ovalifolium)</i> Forest	nomenclature update (USDA Plants 2017)	8/16/2017	M. Russo
+688285	<i>Vaccinium (caespitosum, scoparium)</i> Dwarf-shrubland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+685233	<i>Schizachyrium scoparium - Sorghastrum nutans - Coreopsis lanceolata - Croton willdenowii</i> Wooded Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+683581	<i>Sporobolus vaginiflorus var. ozarkanus - Diodia teres - Croton willdenowii - Ruellia humilis</i> Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+689667	<i>Selaginella rupestris - Croton willdenowii - Cheilanthes tomentosa - (Allium cuthbertii)</i> Granitic Glade Vegetation	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+689765	<i>Fraxinus americana - Juniperus virginiana / Talinum teretifolium - Polygonum tenue - Opuntia humifusa</i> Wooded Grassland	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+899680	<i>Juniperus occidentalis var. australis - Pinus albicaulis</i> Woodland Alliance	nomenclature update (USDA Plants 2017)	8/29/2017	M. Russo
+684472	<i>Metopium toxiferum - Thrinax morrisii - Byrsonima lucida / Schizachyrium</i> spp. Woodland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+688090	<i>Pinus elliottii var. densa / Coccothrinax argentata - Thrinax morrisii</i> Woodland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+687620	<i>Juniperus scopulorum / Piptatherum micranthum</i> Woodland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+684497	<i>Pseudotsuga menziesii / Piptatherum micranthum</i> Woodland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+685733	<i>Pinus rigida / Quercus ilicifolia / Piptatherum pungens</i> Woodland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+686157	<i>Schoenus nigricans - Hedyotis nigricans</i> Wooded Grassland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+814166	<i>(Quercus sinuata) / Sorghastrum nutans - Ratibida pinnata - Hedyotis nigricans var. nigricans - (Glandularia bipinnatifida)</i> Georgia Chalk Prairie Grassland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+686364	<i>Serenoa repens - Coccoloba uvifera - Sideroxylon tenax - Myrcianthes fragrans - Myrsine floridana</i> Scrub	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+686482	<i>Quercus hemisphaerica - Carya glabra / Oxydendrum arboreum / Sebastiania fruticosa / Carex baltzellii</i> Forest	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+686328	<i>Quercus laurifolia - Quercus phellos / Viburnum dentatum - (Sebastiania fruticosa) / Carex glaucescens</i> Upper West Gulf Wet Flatwoods Forest	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+688166	<i>Rhynchospora capitellata - Rhexia virginica - Rhynchospora scirpoides - Schoenoplectus hallii</i> Marsh	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+948005	<i>Poa secunda - Leptodactylon pungens</i> Moist Meadow	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+688929	Igneous Ozark Dry Cliff Sparse Vegetation		2/27/2017	D. Faber-Langendoen
+790198	<i>Opuntia</i> (<i>littoralis, oricola, prolifera</i>, and hybrids) - Mixed Coastal Sage Scrub Shrubland	nomenclature update (USDA Plants 2017)	8/12/2017	M. Russo
+899985	<i>Poa compressa - Solidago nemoralis - Centaurea biebersteinii</i> Ruderal Dry Meadow &amp; Shrubland Alliance	nomenclature update (USDA Plants 2017)	8/13/2017	M. Russo
+683541	<i>Festuca roemeri - Phlox diffusa ssp. longistylis</i> Alpine Meadow	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+686303	<i>Quercus garryana / Festuca (roemeri, rubra)</i> Wooded Grassland	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+684435	<i>Elymus caninus - Festuca roemeri - (Koeleria macrantha)</i> Grassland	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+687174	<i>Quercus velutina - Carya (alba, glabra) / Vaccinium arboreum</i> Forest	nomenclature update (USDA Plants 2017)	9/6/2017	M. Russo
+689545	<i>Carya (glabra, alba) - Fraxinus americana - (Juniperus virginiana var. virginiana)</i> Woodland	nomenclature update (USDA Plants 2017)	9/6/2017	M. Russo
+685018	<i>Juncus (acuminatus, brachycarpus) - Panicum virgatum - Bidens aristosa - Hibiscus moscheutos ssp. lasiocarpos</i> Wet Meadow	nomenclature update (USDA Plants 2017)	9/7/2017	M. Russo
+686991	<i>Sambucus mexicana / Leymus condensatus</i> - Annual Grass-Herb Wet Shrubland	nomenclature update (USDA Plants 2017)	9/12/2017	M. Russo
+688277	<i>Quercus prinus - Quercus rubra / Rhododendron maximum / Galax urceolata</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+688806	<i>Quercus velutina - Quercus coccinea - Quercus prinus / Kalmia latifolia</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+802102	<i>Tsuga canadensis - Fagus grandifolia - Quercus (prinus, alba)</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+686483	<i>Tsuga canadensis - Quercus prinus - Betula lenta</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+687868	<i>Quercus prinus - Carya ovata - Quercus rubra / Acer saccharum</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+683183	<i>Quercus prinus - Quercus rubra - Carya (ovata, glabra) - Pinus virginiana</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+687787	<i>Pinus echinata - Quercus (prinus, falcata) / Oxydendrum arboreum / Vaccinium pallidum</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+685177	<i>Pinus echinata - Quercus prinus / Rhododendron minus / Vaccinium pallidum</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+689639	<i>Pinus strobus - Quercus (coccinea, prinus) / (Gaylussacia ursina, Vaccinium stamineum)</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+683316	<i>Quercus prinus - Quercus rubra</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+689504	<i>Pinus palustris - Pinus echinata / Quercus marilandica - (Quercus prinus) / Vaccinium pallidum</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+683709	<i>Tsuga canadensis - Quercus prinus - Liriodendron tulipifera / Kalmia latifolia - (Rhododendron catawbiense)</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+688949	<i>Quercus rubra - Quercus prinus - Carya ovalis / (Cercis canadensis) / Solidago caesia</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+688054	<i>Quercus alba - Quercus prinus - Carya glabra / Cornus florida / Vaccinium pallidum</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+932243	<i>Pinus palustris / Quercus margarettiae / Toxicodendron pubescens / Schizachyrium scoparium</i> Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+684319	<i>Pinus echinata - Quercus (incana, stellata, margarettiae) / Cnidoscolus texanus</i> Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+689605	<i>Sagittaria lancifolia - Glottidium vesicarium - Solidago sempervirens - Lythrum lineare</i> Tidal Marsh	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+689064	<i>Glottidium vesicarium - Lindernia dubia</i> Sandbar Wet Meadow	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+688315	<i>Calamagrostis purpurascens - Leptodactylon pungens</i> Alpine Fell-field	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+800091	<i>Quercus phellos - Platanus hybrida</i> Plantation	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+684895	<i>Bouteloua gracilis - Buchloe dactyloides</i> Xeric Soil Grassland	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+872643	<i>Poa pratensis - Buchloe dactyloides - Centaurea</i> spp. Great Plains Ruderal Grassland &amp; Shrubland Macrogroup	nomenclature update (USDA Plants 2017)	8/30/2017	M. Russo
+899358	<i>Quercus alba - Carya alba</i> Mesic Coastal Plain Forest Alliance	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+720826	<i>Pinus echinata - Quercus alba - Carya alba</i> East Gulf Coastal Plain Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+817806	<i>Quercus alba - Quercus velutina - Carya alba / Desmodium nudiflorum</i> Ozark Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+686212	<i>Quercus falcata - Carya alba - Carya ovata</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+687226	<i>Quercus prinus - Carya (alba, glabra, ovata) / Juniperus virginiana var. virginiana</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+685991	<i>Quercus alba - Carya alba / Euonymus americanus / Hexastylis arifolia</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+689571	<i>Quercus alba - Carya glabra - Carya alba / Aesculus pavia</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+683609	<i>Quercus falcata - Quercus alba - Carya alba / Oxydendrum arboreum / Vaccinium stamineum</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+689582	<i>Quercus falcata - Quercus stellata - Carya alba / Vaccinium</i> spp. Coastal Plain Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+689838	<i>Quercus alba - Quercus velutina - Carya alba / Cornus florida / Chimaphila maculata</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+686362	<i>Pinus ponderosa / Carex inops - Festuca roemeri</i> Woodland	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+689805	<i>Chamaecyparis lawsoniana - Pseudotsuga menziesii / Lithocarpus densiflorus / Gaultheria shallon</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+686948	<i>Pseudotsuga menziesii / Lithocarpus densiflorus / Rhododendron occidentale</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+689023	<i>Pseudotsuga menziesii / Lithocarpus densiflorus / Toxicodendron diversilobum</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+683273	<i>Pseudotsuga menziesii / Lithocarpus densiflorus / Vaccinium ovatum</i> Forest	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+833214	<i>Pseudotsuga menziesii - Lithocarpus densiflorus - Arbutus menziesii</i> Forest Group	nomenclature update (USDA Plants 2017)	8/31/2017	M. Russo
+683601	<i>Quercus stellata - Quercus marilandica - Carya (alba, pallida)</i> Upper East Gulf Coastal Plain Woodland	nomenclature update (USDA Plants 2017)	9/6/2017	M. Russo
+688276	<i>Acacia farnesiana - (Prosopis glandulosa)</i> Riparian Woodland	nomenclature update (USDA Plants 2017)	9/7/2017	M. Russo
+687979	<i>Celtis laevigata - (Zanthoxylum clava-herculis, Acacia farnesiana) / Vitis mustangensis</i> Forest	nomenclature update (USDA Plants 2017)	9/7/2017	M. Russo
+979475	<i>Chamaecyparis nootkatensis - (Tsuga mertensiana) / Gaultheria shallon / Lysichiton americanus</i> Swamp Forest	nomenclature update (USDA Plants 2017)	9/7/2017	M. Russo
+688391	<i>Alnus rhombifolia / Sambucus caerulea</i> Riparian Forest	nomenclature update (USDA Plants 2017)	9/12/2017	M. Russo
+900011	<i>Quercus prinus - Pinus echinata / Schizachyrium scoparium</i> Scrub Alliance	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+720934	<i>Quercus prinus - Pinus palustris</i> Forest	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+687818	<i>Quercus prinus - Quercus alba / Oxydendrum arboreum / Kalmia latifolia</i> Forest	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+687004	<i>Quercus prinus / Danthonia spicata - Silene caroliniana</i> Woodland	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+685025	<i>Pinus echinata - Quercus prinus - Quercus stellata / Vaccinium pallidum / Pityopsis graminifolia var. latifolia</i> Woodland	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+836330	<i>Quercus rubra - Quercus prinus - Magnolia (acuminata, fraseri) / Acer pensylvanicum</i> Forest	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+859797	<i>Quercus prinus - Quercus stellata - Pinus echinata / Vaccinium pallidum / Schizachyrium scoparium</i> Scrub	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+687624	<i>Pinus (pungens, rigida) - Quercus prinus / (Quercus ilicifolia) / Gaylussacia baccata</i> Woodland	nomenclature update (USDA Plants 2017)	9/13/2017	M. Russo
+683617	<i>Quercus prinus - Quercus rubra / Hamamelis virginiana</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+687462	<i>Quercus prinus - Quercus alba / Oxydendrum arboreum / Vitis rotundifolia</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+685180	<i>Pinus echinata - Quercus stellata - Quercus prinus / Danthonia spicata</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+688748	<i>Quercus alba - Quercus rubra - Quercus prinus / Collinsonia canadensis - Podophyllum peltatum</i> Forest	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+687809	<i>Pinus virginiana - Quercus prinus / Quercus ilicifolia / (Hieracium greenii, Viola pedata)</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+683786	<i>Quercus prinus / Quercus ilicifolia / Danthonia spicata</i> Woodland	nomenclature update (USDA Plants 2017)	9/14/2017	M. Russo
+899251	<i>Pinus palustris / Quercus margarettiae / Aristida</i> spp. Southeastern Coastal Plain Woodland Alliance	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+687040	<i>Quercus (margarettiae, stellata) - Quercus marilandica / Crataegus flava / Schizachyrium scoparium</i> Woodland	nomenclature update (USDA Plants 2017)	9/15/2017	M. Russo
+686147	<i>Abies concolor - Chamaecyparis lawsoniana - Picea breweriana / Quercus vacciniifolia</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+800985	Maritime Erosional Bluffs and Cliffs Sparse Vegetation		12/7/2017	D. Faber-Langendoen
+685823	<i>Abies concolor / Ceanothus cordulatus</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+684760	Small Eroding Bluffs Midwestern Sparse Vegetation		12/7/2017	D. Faber-Langendoen
+684070	<i>Abies concolor - Pinus ponderosa / Amelanchier alnifolia</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+686330	<i>Abies concolor - Chamaecyparis lawsoniana / Quercus sadleriana / Leucothoe davisiae - Rhododendron macrophyllum</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+683409	<i>Abies concolor / Symphoricarpos mollis</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+688736	<i>Abies amabilis - Abies concolor / Mahonia nervosa</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+685140	<i>Abies concolor - Pseudotsuga menziesii / Mahonia nervosa</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+685141	<i>Abies concolor - Pseudotsuga menziesii / Mahonia aquifolium</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+898969	<i>Picea breweriana - Abies concolor</i> Forest Alliance	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+686043	<i>Abies amabilis - Abies concolor / Maianthemum stellatum</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+683399	<i>Tiquilia hispidissima - Yucca torreyi / Sporobolus nealleyi</i> Dwarf-shrubland		2/1/2018	K. Schulz
+686076	<i>Picea (engelmannii x glauca, engelmannii) / Clintonia uniflora</i> Forest	nomenclature update (USDA Plants 2017)	1/12/2018	M. Russo
+683633	<i>Pinus contorta / Carex pensylvanica</i> Forest	taxonomic revision, <i>Carex pensylvanica</i> does not occur western US	1/19/2018	K. Schulz
+689807	<i>Purshia tridentata / Carex pensylvanica - Achnatherum occidentale</i> Shrub Grassland	taxonomic revision, <i>Carex pensylvanica</i> does not occur western US	1/19/2018	K. Schulz
+683714	<i>Fouquieria splendens / Petrophyton caespitosum</i> Shrubland	nomenclature update (USDA Plants 2017)	12/20/2017	M. Russo
+688451	<i>Quercus gambelii / Carex inops</i> Shrubland	taxonomic update (USDA Plants 2017)	1/19/2018	K. Schulz
+688097	<i>Quercus garryana / Symphoricarpos albus / Carex inops</i> Woodland	taxonomic update (USDA Plants 2017)	1/19/2018	K. Schulz
+684782	<i>Tiquilia hispidissima / Bouteloua breviseta - Mentzelia humilis</i> Dwarf-shrubland		2/1/2018	K. Schulz
+684853	<i>Tiquilia hispidissima / Sporobolus nealleyi</i> Dwarf-shrubland		2/1/2018	K. Schulz
+684228	<i>Abies concolor / Amelanchier alnifolia - Corylus cornuta</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+685106	<i>Abies concolor / Chrysolepis chrysophylla</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+688225	<i>Abies concolor / Ceanothus velutinus</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+689358	<i>Abies concolor / Toxicodendron diversilobum</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+689794	<i>Abies concolor - Pseudotsuga menziesii / Whipplea modesta</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+690079	<i>Abies concolor / Symphoricarpos albus</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+687435	<i>Abies concolor - Pinus ponderosa / Purshia tridentata</i> Woodland	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+688080	<i>Abies concolor / Amelanchier alnifolia / Anemone deltoidea</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+688150	<i>Abies concolor - Pinus ponderosa / Carex inops ssp. inops</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+688829	<i>Abies magnifica - Abies concolor - Pinus lambertiana</i> / Sparse Understory Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+690067	<i>Abies magnifica - Abies concolor</i> / Sparse Understory Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+683210	<i>Abies concolor - Calocedrus decurrens - Pinus lambertiana / Chrysolepis sempervirens / Carex multicaulis</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+685014	<i>Pseudotsuga menziesii - Abies concolor / Gaultheria shallon</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+833254	<i>Calocedrus decurrens - Pinus lambertiana - Abies concolor</i> Forest &amp; Woodland Group	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+689108	<i>Picea (engelmannii x glauca, engelmannii) / Lysichiton americanus</i> Swamp Forest	nomenclature update (USDA Plants 2017)	1/12/2018	M. Russo
+683593	<i>Tiquilia hispidissima / Sporobolus airoides</i> Dwarf-shrubland		2/1/2018	K. Schulz
+684737	<i>Picea (engelmannii x glauca, engelmannii) / Packera streptanthifolia</i> Swamp Forest	nomenclature update (USDA Plants 2017)	1/12/2018	M. Russo
+684015	<i>Picea (engelmannii x glauca, engelmannii) / Carex disperma</i> Swamp Forest	nomenclature update (USDA Plants 2017)	1/12/2018	M. Russo
+685594	<i>Rubus parviflorus</i> Ruderal Shrubland		10/24/2017	D. Faber-Langendoen
+686148	<i>Abies concolor - Picea breweriana / Chimaphila umbellata</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+686631	<i>Abies concolor - Calocedrus decurrens - Pinus lambertiana / Adenocaulon bicolor</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+687217	<i>Abies concolor - Pinus ponderosa / Arctostaphylos patula - Mahonia</i> spp. Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+899726	<i>Abies concolor - Pseudotsuga menziesii</i> Coastal, Cascadian &amp; Sierran Forest Alliance	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+683770	Limestone - Dolostone Great Lakes Shore Cliff Sparse Vegetation		10/13/2017	D. Faber-Langendoen
+833261	<i>Pseudotsuga menziesii - Tsuga heterophylla / Gaultheria shallon</i> Forest Group		2/27/2018	K. Baldwin
+833261	North Pacific Maritime Douglas-fir - Western Hemlock Forest		2/27/2018	K. Baldwin
+838600	Rocky Mountain Subalpine-High Montane Conifer Forest		2/27/2018	K. Baldwin
+835948	Vancouverian Lowland &amp; Montane Forest		2/27/2018	K. Baldwin
+835948	<i>Tsuga heterophylla - Picea sitchensis - Sequoia sempervirens</i> Forest Macrogroup		2/27/2018	K. Baldwin
+833262	North Pacific Maritime Silver Fir - Western Hemlock Forest		2/27/2018	K. Baldwin
+833262	<i>Abies amabilis - Tsuga heterophylla</i> Forest Group		2/27/2018	K. Baldwin
+835949	Vancouverian Subalpine Forest		2/27/2018	K. Baldwin
+688486	<i>Pinus contorta / Purshia tridentata / Carex pensylvanica</i> Forest	taxonomic revision, <i>Carex pensylvanica</i> does not occur western US	1/19/2018	K. Schulz
+689662	<i>Quercus garryana / Carex inops - Camassia quamash</i> Woodland	taxonomic update (USDA Plants 2017)	1/19/2018	K. Schulz
+900043	Eastern North American Erosional Bluffs Alliance		12/7/2017	D. Faber-Langendoen
+686608	<i>Abies concolor - Chamaecyparis lawsoniana - Pseudotsuga menziesii / (Mahonia nervosa) / Achlys triphylla</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+688992	<i>Abies concolor - Pinus lambertiana</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+899724	<i>Abies concolor - Pinus lambertiana</i> Forest Alliance	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+899729	<i>Abies concolor - Pinus ponderosa</i> Eastern Sierran Forest &amp; Woodland Alliance	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+683079	<i>Abies concolor / Taxus brevifolia</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+685253	<i>Pseudotsuga menziesii - Abies concolor - Calocedrus decurrens</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+683217	<i>Abies concolor - Pinus contorta / Carex pensylvanica - Achnatherum occidentale</i> Forest	taxonomic update (USDA Plants 2017); taxonomic revision, <i>Carex pensylvanica</i> does not occur western US	12/8/2017	M. Russo
+686498	<i>Abies concolor - Pinus ponderosa / Ceanothus velutinus</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+684170	<i>Cercocarpus montanus var. paucidentatus / Petrophyton caespitosum</i> Shrubland	nomenclature update (USDA Plants 2017)	12/20/2017	M. Russo
+685446	<i>Betula alleghaniensis - Acer saccharum - Aesculus flava / Acer pensylvanicum / Trillium grandiflorum</i> Forest		1/22/2018	M. Hines (KY NHP)
+887161	North Pacific Western Hemlock - Sitka Spruce - Western Red-cedar Seasonal Rainforest		2/27/2018	K. Baldwin
+887161	<i>Tsuga heterophylla - Picea sitchensis - Thuja plicata</i> North Pacific Seasonal Rainforest Group		2/27/2018	K. Baldwin
+833258	North Pacific Red Alder - Bigleaf Maple - Douglas-fir Forest		2/27/2018	K. Baldwin
+833258	<i>Alnus rubra - Acer macrophyllum</i> Forest Group		2/27/2018	K. Baldwin
+686857	Basalt - Diabase Great Lakes Shore Cliff Sparse Vegetation		10/13/2017	D. Faber-Langendoen
+688837	Eroding Clay Bank Sparse Vegetation		12/7/2017	D. Faber-Langendoen
+686452	<i>Abies concolor - Calocedrus decurrens - Pinus lambertiana / Cornus nuttallii / Corylus cornuta var. californica</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+857940	<i>Petrophyton caespitosum</i> Sparse Vegetation	nomenclature update (USDA Plants 2017)	12/20/2017	M. Russo
+683484	<i>Abies concolor - Pseudotsuga menziesii / Holodiscus discolor</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+979564	<i>Pseudotsuga menziesii - Abies concolor / Holodiscus discolor / Polystichum munitum</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+969621	<i>Populus deltoides - Populus alba - Robinia pseudoacacia</i> Western Planted/Escaped Woodland Cultural Type		12/15/2017	D. Faber-Langendoen
+688428	<i>Abies concolor / Vaccinium membranaceum</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+688993	<i>Abies concolor - Pinus lambertiana / Maianthemum racemosum - Prosartes hookeri</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+689619	<i>Abies concolor - Pinus ponderosa / Symphoricarpos</i> spp. Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+683641	<i>Pinus jeffreyi - Abies concolor / Symphoricarpos rotundifolius / Elymus elymoides</i> Woodland	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+683457	<i>Abies magnifica - Abies concolor - Pinus jeffreyi</i> Sierran Montane Chaparral Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+683624	<i>Pinus jeffreyi - Abies concolor</i> Woodland	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+685687	<i>Abies concolor / Quercus sadleriana</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+685789	<i>Abies concolor / Rubus nivalis</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+688911	<i>Abies concolor / Maianthemum stellatum</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+686726	<i>Abies concolor - Pinus lambertiana - Pinus ponderosa / Arctostaphylos patula</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+685226	<i>Abies concolor - Tsuga heterophylla / Acer circinatum</i> Forest	taxonomic update (USDA Plants 2017)<br /> 	12/8/2017	M. Russo
+979395	<i>Pseudotsuga menziesii - Abies concolor - Umbellularia californica / Polystichum munitum</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+687516	<i>Avicennia germinans / Sarcocornia pacifica</i> Scrub	taxonomic update (USDA Plants 2017)	1/18/2018	M. Russo
+686702	<i>Abies concolor - Picea breweriana / Gaultheria ovatifolia / Orthilia secunda</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+687218	<i>Abies concolor - Picea breweriana / Vaccinium membranaceum / Goodyera oblongifolia</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+687436	<i>Abies concolor - Pinus monticola / Ribes viscosissimum</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+688506	<i>Abies concolor / Chimaphila umbellata</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+689443	<i>Abies concolor - Pinus lambertiana - Calocedrus decurrens / Symphoricarpos mollis / Kelloggia galioides</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+689467	<i>Abies concolor / Mahonia nervosa</i> Forest	taxonomic update (USDA Plants 2017)	12/7/2017	M. Russo
+688099	Sandstone Great Lakes Shore Cliff Sparse Vegetation		10/13/2017	D. Faber-Langendoen
+686075	<i>Abies concolor - Pinus lambertiana - Pinus jeffreyi</i> / Sparse Understory Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo
+979392	<i>Pseudotsuga menziesii - Abies concolor / Polystichum munitum</i> Forest	taxonomic update (USDA Plants 2017)	12/8/2017	M. Russo

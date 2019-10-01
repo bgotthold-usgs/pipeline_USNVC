@@ -1,0 +1,6 @@
+D_CLASSIF_CONFIDENCE_ID	CLASSIF_CONFIDENCE_DESC	DISPLAY_ORDER	STATUS
+1	High	1	Accepted
+2	Moderate	2	Accepted
+3	Low	3	Accepted
+4	Proposed (Submitted)	5	Proposed
+5	Low - Poorly Documented	4	Accepted

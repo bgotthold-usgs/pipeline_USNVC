@@ -1,0 +1,9 @@
+D_USFS_ECOREGION_LEVEL_ID	USFS_ECOREGION_LEVEL_DESC	PARENT_LEVEL_ID
+1	Domain	
+2	Division	1
+3	Province	2
+4	Section	3
+5	Subsection	4
+6	LTA	5
+7	LT	6
+8	LTP	7
