@@ -7,7 +7,7 @@ from datetime import datetime
 
 # See readme for more information
 
-#### TO RUN THIS FILE LOCALLY UNCOMMENT BELOW #####
+# ### TO RUN THIS FILE LOCALLY UNCOMMENT BELOW #####
 # path = './'
 # file_name= 'USNVC v2.02 export 2018-03'
 # def send_final_result(obj):
@@ -19,6 +19,7 @@ from datetime import datetime
 #         print(name, description, source_data, changed_data)
 # def main():
 #     process_1(path, file_name, ch_ledger(), send_final_result, send_to_stage, None )
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
    
 # The first processing stage.
