@@ -22,4 +22,7 @@ externalized usnvc logic for consumption by the bis data pipeline.
 - Returns an integer representing the number of rows manipulated
 
 ## Run Locally
-uncomment the code surrounding the main() method
+in usnvc/usnvc.py uncomment the code surrounding the main() method. 
+```
+python usnvc/usnvc.py
+```
