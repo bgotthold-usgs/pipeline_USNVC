@@ -4,6 +4,9 @@ Externalized USNVC logic for consumption by the bis data pipeline.
 ## To Run Locally
 -  In `usnvc.py` uncomment the code surrounding the `main()` method.
 - For convince, included in this project is the source data object originating from ScienceBase
+- ```
+    python3 usnvc/usnvc.py
+    ```
 
 ## Structure 
 - A pipeline processing script should have an entry file which we will infer the pipeline name from.
