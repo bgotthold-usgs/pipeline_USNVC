@@ -5,37 +5,49 @@ import requests
 from datetime import datetime
 
 
-# See readme for more information
-
-# ### TO RUN THIS FILE LOCALLY UNCOMMENT BELOW #####
+# # # # # # # # TO RUN THIS FILE LOCALLY UNCOMMENT BELOW # # # # # # # # #
+# # See readme for more details.
 # path = './'
-# file_name= 'USNVC v2.02 export 2018-03'
+# file_name = 'USNVC v2.02 export 2018-03'
+
+
 # def send_final_result(obj):
-#     print(obj)
-# def send_to_stage(obj,stage):
-#     globals()['process_{}'.format(stage)](path, file_name, ch_ledger(), send_final_result, send_to_stage, obj)
+#     print(json.dumps(obj))
+
+
+# def send_to_stage(obj, stage):
+#     globals()['process_{}'.format(stage)](path, file_name,
+#                                           ch_ledger(), send_final_result,
+#                                           send_to_stage, obj)
+
+
 # class ch_ledger:
 #     def log_change_event(self, name, description, source_data, changed_data):
 #         print(name, description, source_data, changed_data)
-# def main():
-#     process_1(path, file_name, ch_ledger(), send_final_result, send_to_stage, None )
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-   
+
+# def main():
+#     process_1(path, file_name, ch_ledger(),
+#               send_final_result, send_to_stage, None)
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+
 # The first processing stage.
-# It creates 1 final result and many other results that it sends to the next stage for further processing. 
+# It creates 1 final result and many other results that it sends to the next
+#  stage for further processing.
 # It returns count which is the number of rows created by this stage.
-def process_1(path, file_name, ch_ledger, send_final_result, send_to_stage, previous_stage_result):
+def process_1(path, file_name, ch_ledger, send_final_result,
+              send_to_stage, previous_stage_result):
     preprocess_result = preprocess_usnvc(path)
 
     # Prep Database
     # I opted to rework the workflow to build the database iteratively as we
-    # loop through source records. This codeblock wipes out the current collection
-    # and starts fresh with a root document.
+    # loop through source records. This codeblock wipes out the current
+    # collection and starts fresh with a root document.
     nvcsUnits = preprocess_result['nvcsUnits']
     root = logical_nvcs_root(nvcsUnits)
     root['id'] = '0'
-    send_final_result({'source_data':root, 'row_identifier': '0'})
+    send_final_result({'source_data': root, 'row_identifier': '0'})
     count = 1
     for index, row in nvcsUnits.iterrows():
         send_to_stage({'index': index, 'row': row.to_json()}, 2)
@@ -43,13 +55,17 @@ def process_1(path, file_name, ch_ledger, send_final_result, send_to_stage, prev
     return count
 
 
-# The second processing stage used the previous_stage_result and sends a singe document to be handled as a final result. 
+# The second processing stage used the previous_stage_result and sends
+#  a singe document to be handled as a final result.
 # It returns 1
-def process_2(path, file_name, ch_ledger, send_final_result, send_to_stage, previous_stage_result):
+def process_2(path, file_name, ch_ledger, send_final_result,
+              send_to_stage, previous_stage_result):
 
     preprocess_result = preprocess_usnvc(path)
-    process_result = process_usnvc(path, preprocess_result, previous_stage_result)
-    final_result = {'source_data': process_result, 'row_identifier': str(process_result['id'])}
+    process_result = process_usnvc(
+        path, preprocess_result, previous_stage_result)
+    final_result = {'source_data': process_result,
+                    'row_identifier': str(process_result['id'])}
     send_final_result(final_result)
     return 1
 
@@ -88,9 +104,9 @@ def preprocess_usnvc(path):
     codes_classificationConfidence.rename(
         columns={'D_CLASSIF_CONFIDENCE_ID': 'classif_confidence_id'}, inplace=True)
     response['nvcsUnits'] = pd.merge(units, unitDescriptions,
-                         how='left', on='element_global_id')
+                                     how='left', on='element_global_id')
     response['nvcsUnits'] = pd.merge(response['nvcsUnits'], codes_classificationConfidence,
-                         how='left', on='classif_confidence_id')
+                                     how='left', on='classif_confidence_id')
     del units
     del unitDescriptions
     del codes_classificationConfidence
@@ -103,14 +119,14 @@ def preprocess_usnvc(path):
     references = pd.read_csv(
         processFiles["reference.txt"], sep='\t', encoding="ISO-8859-1", dtype={"reference_id": str})
     response['unitReferences'] = pd.merge(left=unitByReference, right=references,
-                              left_on='reference_id', right_on='reference_id')
+                                          left_on='reference_id', right_on='reference_id')
     del unitByReference
     del references
 
     # Unit Predecessors
     # The following codeblock retrieves the unit predecessors for processing.
     response['unitPredecessors'] = pd.read_csv(processFiles["unitPredecessor.txt"], sep='\t',
-                                   encoding="ISO-8859-1", dtype={"element_global_id": str, "predecessor_id": str})
+                                               encoding="ISO-8859-1", dtype={"element_global_id": str, "predecessor_id": str})
 
     # Obsolete records
     # The following codeblock retrieves the two tables that contain references to
@@ -121,7 +137,7 @@ def preprocess_usnvc(path):
     #  we start minting individual DOIs for the units, making them citable, that
     #  changes the dynamic in how we manage the data moving forward.
     response['obsoleteUnits'] = pd.read_csv(processFiles["unitObsoleteName.txt"],
-                                sep='\t', encoding="ISO-8859-1", dtype={"element_global_id": str})
+                                            sep='\t', encoding="ISO-8859-1", dtype={"element_global_id": str})
     response['obsoleteParents'] = pd.read_csv(
         processFiles["unitObsoleteParent.txt"], sep='\t', encoding="ISO-8859-1", dtype={"element_global_id": str})
 
@@ -145,11 +161,11 @@ def preprocess_usnvc(path):
     codes_Subnations = pd.read_csv(
         processFiles["d_subnation.txt"], sep='\t', encoding="ISO-8859-1", dtype=str)
     response['nvcsDistribution'] = pd.merge(left=unitXSubnation, right=codes_CurrentPresAbs,
-                                left_on='d_curr_presence_absence_id', right_on='D_CURR_PRESENCE_ABSENCE_ID')
+                                            left_on='d_curr_presence_absence_id', right_on='D_CURR_PRESENCE_ABSENCE_ID')
     response['nvcsDistribution'] = pd.merge(left=response['nvcsDistribution'], right=codes_DistConfidence,
-                                left_on='d_dist_confidence_id', right_on='D_DIST_CONFIDENCE_ID')
+                                            left_on='d_dist_confidence_id', right_on='D_DIST_CONFIDENCE_ID')
     response['nvcsDistribution'] = pd.merge(left=response['nvcsDistribution'], right=codes_Subnations,
-                                left_on='subnation_id', right_on='subnation_id')
+                                            left_on='subnation_id', right_on='subnation_id')
     del unitXSubnation
     del codes_CurrentPresAbs
     del codes_DistConfidence
@@ -173,11 +189,11 @@ def preprocess_usnvc(path):
     response['usfsEcoregionDistribution1994'] = pd.merge(
         left=unitXUSFSEcoregion1994, right=codes_USFSEcoregions1994, left_on='usfs_ecoregion_id', right_on='USFS_ECOREGION_ID')
     response['usfsEcoregionDistribution1994'] = pd.merge(left=response['usfsEcoregionDistribution1994'], right=codes_OccurrenceStatus,
-                                             left_on='d_occurrence_status_id', right_on='D_OCCURRENCE_STATUS_ID')
+                                                         left_on='d_occurrence_status_id', right_on='D_OCCURRENCE_STATUS_ID')
     response['usfsEcoregionDistribution2007'] = pd.merge(
         left=unitXUSFSEcoregion2007, right=codes_USFSEcoregions2007, left_on='usfs_ecoregion_2007_id', right_on='usfs_ecoregion_2007_id')
     response['usfsEcoregionDistribution2007'] = pd.merge(left=response['usfsEcoregionDistribution2007'], right=codes_OccurrenceStatus,
-                                             left_on='d_occurrence_status_id', right_on='D_OCCURRENCE_STATUS_ID')
+                                                         left_on='d_occurrence_status_id', right_on='D_OCCURRENCE_STATUS_ID')
     del unitXUSFSEcoregion1994
     del codes_USFSEcoregions1994
     del unitXUSFSEcoregion2007
@@ -249,10 +265,11 @@ def process_usnvc(path, context, event):
 
     data = event
     index = data['index']
-    
+
     row = pd.Series(json.loads(data['row']))
 
-    unitDoc = {"Identifiers":{},"Overview":{},"Hierarchy":{},"Vegetation":{},"Environment":{},"Distribution":{},"Plot Sampling and Analysis":{},"Confidence Level":{},"Conservation Status":{},"Hierarchy":{},"Concept History":{},"Synonymy":{},"Authorship":{},"References":[]}
+    unitDoc = {"Identifiers": {}, "Overview": {}, "Hierarchy": {}, "Vegetation": {}, "Environment": {}, "Distribution": {}, "Plot Sampling and Analysis": {
+    }, "Confidence Level": {}, "Conservation Status": {}, "Hierarchy": {}, "Concept History": {}, "Synonymy": {}, "Authorship": {}, "References": []}
 
     unitDoc["Date Processed"] = datetime.utcnow().isoformat()
 
@@ -261,79 +278,102 @@ def process_usnvc(path, context, event):
     unitDoc["Identifiers"]["Classification Code"] = row["classificationcode"]
 
     unitDoc["Overview"]["Scientific Name"] = row["scientificname"]
-    unitDoc["Overview"]["Formatted Scientific Name"] = clean_string(row["formattedscientificname"])
+    unitDoc["Overview"]["Formatted Scientific Name"] = clean_string(
+        row["formattedscientificname"])
     unitDoc["Overview"]["Translated Name"] = row["translatedname"]
     if type(row["colloquialname"]) is str:
         unitDoc["Overview"]["Colloquial Name"] = row["colloquialname"]
     if type(row["typeconceptsentence"]) is str:
-        unitDoc["Overview"]["Type Concept Sentence"] = clean_string(row["typeconceptsentence"])
+        unitDoc["Overview"]["Type Concept Sentence"] = clean_string(
+            row["typeconceptsentence"])
     if type(row["typeconcept"]) is str:
         unitDoc["Overview"]["Type Concept"] = clean_string(row["typeconcept"])
     if type(row["diagnosticcharacteristics"]) is str:
-        unitDoc["Overview"]["Diagnostic Characteristics"] = clean_string(row["diagnosticcharacteristics"])
+        unitDoc["Overview"]["Diagnostic Characteristics"] = clean_string(
+            row["diagnosticcharacteristics"])
     if type(row["rationale"]) is str:
-        unitDoc["Overview"]["Rationale for Nonimal Species or Physiognomic Features"] = clean_string(row["rationale"])
+        unitDoc["Overview"]["Rationale for Nonimal Species or Physiognomic Features"] = clean_string(
+            row["rationale"])
     if type(row["classificationcomments"]) is str:
-        unitDoc["Overview"]["Classification Comments"] = clean_string(row["classificationcomments"])
+        unitDoc["Overview"]["Classification Comments"] = clean_string(
+            row["classificationcomments"])
     if type(row["othercomments"]) is str:
-        unitDoc["Overview"]["Other Comments"] = clean_string(row["othercomments"])
+        unitDoc["Overview"]["Other Comments"] = clean_string(
+            row["othercomments"])
 
     if type(row["similarnvctypescomments"]) is str:
-        unitDoc["Overview"]["Similar NVC Type Comments"] = clean_string(row["similarnvctypescomments"])
-    thisSimilarUnits = unitXSimilarUnit.loc[unitXSimilarUnit["element_global_id"] == row["element_global_id"]]
+        unitDoc["Overview"]["Similar NVC Type Comments"] = clean_string(
+            row["similarnvctypescomments"])
+    thisSimilarUnits = unitXSimilarUnit.loc[unitXSimilarUnit["element_global_id"]
+                                            == row["element_global_id"]]
     if len(thisSimilarUnits.index) > 0:
-        unitDoc["Overview"]["Similar NVC Types"] = thisSimilarUnits.to_dict("records")
+        unitDoc["Overview"]["Similar NVC Types"] = thisSimilarUnits.to_dict(
+            "records")
 
-    if row["hierarchylevel"] in ["Class","Subclass","Formation","Division"]:
-        unitDoc["Overview"]["Display Title"] = row["classificationcode"]+" "+row["colloquialname"]+" "+row["hierarchylevel"]
-    elif row["hierarchylevel"] in ["Macrogroup","Group"]:
-        unitDoc["Overview"]["Display Title"] = row["classificationcode"]+" "+row["translatedname"]
+    if row["hierarchylevel"] in ["Class", "Subclass", "Formation", "Division"]:
+        unitDoc["Overview"]["Display Title"] = row["classificationcode"] + \
+            " "+row["colloquialname"]+" "+row["hierarchylevel"]
+    elif row["hierarchylevel"] in ["Macrogroup", "Group"]:
+        unitDoc["Overview"]["Display Title"] = row["classificationcode"] + \
+            " "+row["translatedname"]
     else:
-        unitDoc["Overview"]["Display Title"] = row["databasecode"]+" "+row["translatedname"]
+        unitDoc["Overview"]["Display Title"] = row["databasecode"] + \
+            " "+row["translatedname"]
 
     unitDoc["title"] = unitDoc["Overview"]["Display Title"]
 
     if type(row["physiognomy"]) is str:
-        unitDoc["Vegetation"]["Physiognomy and Structure"] = clean_string(row["physiognomy"])
+        unitDoc["Vegetation"]["Physiognomy and Structure"] = clean_string(
+            row["physiognomy"])
     if type(row["floristics"]) is str:
         unitDoc["Vegetation"]["Floristics"] = clean_string(row["floristics"])
     if type(row["dynamics"]) is str:
         unitDoc["Vegetation"]["Dynamics"] = clean_string(row["dynamics"])
 
     if type(row["environment"]) is str:
-        unitDoc["Environment"]["Environmental Description"] = clean_string(row["environment"])
+        unitDoc["Environment"]["Environmental Description"] = clean_string(
+            row["environment"])
 
     if type(row["spatialpattern"]) is str:
-        unitDoc["Environment"]["Spatial Pattern"] = clean_string(row["spatialpattern"])
+        unitDoc["Environment"]["Spatial Pattern"] = clean_string(
+            row["spatialpattern"])
 
     if type(row["range"]) is str:
         unitDoc["Distribution"]["Geographic Range"] = row["range"]
 
     if type(row["nations"]) is str:
-        unitDoc["Distribution"]["Nations"] = {"Raw List":row["nations"],"Nation Info":[]}
+        unitDoc["Distribution"]["Nations"] = {
+            "Raw List": row["nations"], "Nation Info": []}
         for nation in row["nations"].split(","):
-            thisNation = {"Abbreviation":nation.replace("?","").strip()}
+            thisNation = {"Abbreviation": nation.replace("?", "").strip()}
             if nation.endswith("?"):
                 placeCodeUncertainty = True
             else:
                 placeCodeUncertainty = False
 
-            unitDoc["Distribution"]["Nations"]["Nation Info"].append(getPlaceCodeData(nation,placeCodeUncertainty))
+            unitDoc["Distribution"]["Nations"]["Nation Info"].append(
+                getPlaceCodeData(nation, placeCodeUncertainty))
 
     if type(row["subnations"]) is str:
-        unitDoc["Distribution"]["Subnations"] = {"Raw List":row["subnations"]}
+        unitDoc["Distribution"]["Subnations"] = {"Raw List": row["subnations"]}
 
-    thisDistribution = nvcsDistribution.loc[nvcsDistribution["element_global_id"] == row["element_global_id"]]
+    thisDistribution = nvcsDistribution.loc[nvcsDistribution["element_global_id"]
+                                            == row["element_global_id"]]
     if len(thisDistribution.index) > 0:
-        unitDoc["Distribution"]["States/Provinces Raw Data"] = thisDistribution.to_dict("records")
+        unitDoc["Distribution"]["States/Provinces Raw Data"] = thisDistribution.to_dict(
+            "records")
 
-    thisUSFSDistribution1994 = usfsEcoregionDistribution1994.loc[usfsEcoregionDistribution1994["element_global_id"] == row["element_global_id"]]
+    thisUSFSDistribution1994 = usfsEcoregionDistribution1994.loc[
+        usfsEcoregionDistribution1994["element_global_id"] == row["element_global_id"]]
     if len(thisUSFSDistribution1994.index) > 0:
-        unitDoc["Distribution"]["1994 USFS Ecoregion Raw Data"] = thisUSFSDistribution1994.to_dict("records")
+        unitDoc["Distribution"]["1994 USFS Ecoregion Raw Data"] = thisUSFSDistribution1994.to_dict(
+            "records")
 
-    thisUSFSDistribution2007 = usfsEcoregionDistribution2007.loc[usfsEcoregionDistribution2007["element_global_id"] == row["element_global_id"]]
+    thisUSFSDistribution2007 = usfsEcoregionDistribution2007.loc[
+        usfsEcoregionDistribution2007["element_global_id"] == row["element_global_id"]]
     if len(thisUSFSDistribution2007.index) > 0:
-        unitDoc["Distribution"]["2007 USFS Ecoregion Raw Data"] = thisUSFSDistribution2007.to_dict("records")
+        unitDoc["Distribution"]["2007 USFS Ecoregion Raw Data"] = thisUSFSDistribution2007.to_dict(
+            "records")
 
     if type(row["tncecoregions"]) is int:
         unitDoc["Distribution"]["TNC Ecoregions"] = row["tncecoregions"]
@@ -364,7 +404,8 @@ def process_usnvc(path, context, event):
 
     unitDoc["Confidence Level"]["Confidence Level"] = row["CLASSIF_CONFIDENCE_DESC"]
     if type(row["confidencecomments"]) is str:
-        unitDoc["Confidence Level"]["Confidence Level Comments"] = clean_string(row["confidencecomments"])
+        unitDoc["Confidence Level"]["Confidence Level Comments"] = clean_string(
+            row["confidencecomments"])
 
     if type(row["grank"]) is str:
         unitDoc["Conservation Status"]["Global Rank"] = row["grank"]
@@ -387,7 +428,8 @@ def process_usnvc(path, context, event):
     except:
         unitDoc["parent"] = int(0)
 
-    thisHierarchyData = get_hierarchy_from_df(row["element_global_id"],nvcsUnits)
+    thisHierarchyData = get_hierarchy_from_df(
+        row["element_global_id"], nvcsUnits)
     unitDoc["children"] = thisHierarchyData["Children"]
     unitDoc["Hierarchy"]["Cached Hierarchy"] = thisHierarchyData["Hierarchy"]
     if len(thisHierarchyData["Ancestors"]) > 0:
@@ -398,17 +440,23 @@ def process_usnvc(path, context, event):
     if type(row["lineage"]) is str:
         unitDoc["Concept History"]["Concept Lineage"] = row["lineage"]
 
-    thisUnitPredecessors = unitPredecessors.loc[unitPredecessors["element_global_id"] == row["element_global_id"]]
+    thisUnitPredecessors = unitPredecessors.loc[unitPredecessors["element_global_id"]
+                                                == row["element_global_id"]]
     if len(thisUnitPredecessors.index) > 0:
-        unitDoc["Concept History"]["Predecessors Raw Data"] = thisUnitPredecessors.to_dict("records")
+        unitDoc["Concept History"]["Predecessors Raw Data"] = thisUnitPredecessors.to_dict(
+            "records")
 
-    thisUnitObsoleteUnits = obsoleteUnits.loc[obsoleteUnits["element_global_id"] == row["element_global_id"]]
+    thisUnitObsoleteUnits = obsoleteUnits.loc[obsoleteUnits["element_global_id"]
+                                              == row["element_global_id"]]
     if len(thisUnitObsoleteUnits.index) > 0:
-        unitDoc["Concept History"]["Obsolete Units Raw Data"] = thisUnitObsoleteUnits.to_dict("records")
+        unitDoc["Concept History"]["Obsolete Units Raw Data"] = thisUnitObsoleteUnits.to_dict(
+            "records")
 
-    thisUnitObsoleteParents = obsoleteParents.loc[obsoleteParents["element_global_id"] == row["element_global_id"]]
+    thisUnitObsoleteParents = obsoleteParents.loc[obsoleteParents["element_global_id"]
+                                                  == row["element_global_id"]]
     if len(thisUnitObsoleteParents.index) > 0:
-        unitDoc["Concept History"]["Obsolete Parents Raw Data"] = thisUnitObsoleteParents.to_dict("records")
+        unitDoc["Concept History"]["Obsolete Parents Raw Data"] = thisUnitObsoleteParents.to_dict(
+            "records")
 
     if type(row["synonymy"]) is str:
         unitDoc["Synonymy"]["Synonymy"] = row["synonymy"]
@@ -422,61 +470,75 @@ def process_usnvc(path, context, event):
     if type(row["versiondate"]) is str:
         unitDoc["Authorship"]["Version Date"] = row["versiondate"]
 
-    thisUnitReferences = unitReferences.loc[unitReferences["element_global_id"] == row["element_global_id"]]
-    for index,row in thisUnitReferences.iterrows():
-        unitDoc["References"].append({"Short Citation":row["shortcitation"],"Full Citation":row["fullcitation"]})
+    thisUnitReferences = unitReferences.loc[unitReferences["element_global_id"]
+                                            == row["element_global_id"]]
+    for index, row in thisUnitReferences.iterrows():
+        unitDoc["References"].append(
+            {"Short Citation": row["shortcitation"], "Full Citation": row["fullcitation"]})
     unitDoc['id'] = str(row["element_global_id"])
     return unitDoc
 
+
 def clean_string(text):
-    replacements = {'&amp;': '&','&lt;':'<','&gt;':'>'}
-    for x,y in replacements.items():
+    replacements = {'&amp;': '&', '&lt;': '<', '&gt;': '>'}
+    for x, y in replacements.items():
         text = text.replace(x, y)
     return (text)
 
-def get_hierarchy_from_df(element_global_id,nvcsUnits):
+
+def get_hierarchy_from_df(element_global_id, nvcsUnits):
     # Assumes the full dataframe exists in memory here already
-    thisUnitData = nvcsUnits.loc[nvcsUnits["element_global_id"] == str(element_global_id), ["element_global_id","parent_id","hierarchylevel","classificationcode","databasecode","translatedname","colloquialname","unitsort","DISPLAY_ORDER"]]
-    
-    immediateChildren = nvcsUnits.loc[nvcsUnits["parent_id"] == str(element_global_id), ["element_global_id","parent_id","hierarchylevel","classificationcode","databasecode","translatedname","colloquialname","unitsort","DISPLAY_ORDER"]]
+    thisUnitData = nvcsUnits.loc[nvcsUnits["element_global_id"] == str(element_global_id), [
+        "element_global_id", "parent_id", "hierarchylevel", "classificationcode", "databasecode", "translatedname", "colloquialname", "unitsort", "DISPLAY_ORDER"]]
+
+    immediateChildren = nvcsUnits.loc[nvcsUnits["parent_id"] == str(element_global_id), [
+        "element_global_id", "parent_id", "hierarchylevel", "classificationcode", "databasecode", "translatedname", "colloquialname", "unitsort", "DISPLAY_ORDER"]]
 
     parentID = thisUnitData["parent_id"].values[0]
 
     ancestors = []
     while type(parentID) is str:
-        ancestor = nvcsUnits.loc[nvcsUnits["element_global_id"] == str(parentID), ["element_global_id","parent_id","hierarchylevel","classificationcode","databasecode","translatedname","colloquialname","unitsort","DISPLAY_ORDER"]]
+        ancestor = nvcsUnits.loc[nvcsUnits["element_global_id"] == str(parentID), [
+            "element_global_id", "parent_id", "hierarchylevel", "classificationcode", "databasecode", "translatedname", "colloquialname", "unitsort", "DISPLAY_ORDER"]]
         ancestors = ancestors + ancestor.to_dict("records")
         parentID = ancestor["parent_id"].values[0]
-        
+
     hierarchyList = []
     for record in ancestors+thisUnitData.to_dict("records")+immediateChildren.to_dict("records"):
-        if record["hierarchylevel"] in ["Class","Subclass","Formation","Division"]:
-            record["Display Title"] = record["classificationcode"]+" "+record["colloquialname"]+" "+record["hierarchylevel"]
-        elif record["hierarchylevel"] in ["Macrogroup","Group"]:
-            record["Display Title"] = record["classificationcode"]+" "+record["translatedname"]
+        if record["hierarchylevel"] in ["Class", "Subclass", "Formation", "Division"]:
+            record["Display Title"] = record["classificationcode"] + \
+                " "+record["colloquialname"]+" "+record["hierarchylevel"]
+        elif record["hierarchylevel"] in ["Macrogroup", "Group"]:
+            record["Display Title"] = record["classificationcode"] + \
+                " "+record["translatedname"]
         else:
-            record["Display Title"] = record["databasecode"]+" "+record["translatedname"]
+            record["Display Title"] = record["databasecode"] + \
+                " "+record["translatedname"]
         hierarchyList.append(record)
 
-    return {"Children":list(map(int, immediateChildren["element_global_id"].tolist())),"Hierarchy":hierarchyList,"Ancestors":list(map(int, [a["element_global_id"] for a in ancestors]))}
+    return {"Children": list(map(int, immediateChildren["element_global_id"].tolist())), "Hierarchy": hierarchyList, "Ancestors": list(map(int, [a["element_global_id"] for a in ancestors]))}
+
 
 knownPlaceCodes = {}
-def getPlaceCodeData(abbreviation,uncertainty=False):
+
+
+def getPlaceCodeData(abbreviation, uncertainty=False):
 
     codeData = {}
     codeData["Abbreviation"] = abbreviation
     codeData["Uncertainty"] = uncertainty
     codeData["Info API"] = "https://restcountries.eu/rest/v2/alpha/"+abbreviation
-    
+
     if abbreviation in knownPlaceCodes.keys():
         codeData["Name"] = knownPlaceCodes[abbreviation]
     else:
-        thisNationInfo = requests.get(codeData["Info API"]+"?fields=name").json()
+        thisNationInfo = requests.get(
+            codeData["Info API"]+"?fields=name").json()
         if "name" in thisNationInfo.keys():
             codeData["Name"] = thisNationInfo["name"]
         else:
             codeData["Name"] = "Unknown"
-    
+
     return codeData
 
 
