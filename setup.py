@@ -8,4 +8,5 @@ setup(name='usnvc',
       author_email='',
       license='MIT',
       packages=['usnvc'],
+      install_requires=['pandas>=0.25.0','requests'],
       zip_safe=False)
