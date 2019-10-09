@@ -52,9 +52,9 @@ def process_1(path, file_name, ch_ledger, send_final_result,
     send_final_result({'source_data': root, 'row_identifier': '0'})
     count = 1
     for index, row in nvcsUnits.iterrows():
-        ch_ledger.log_change_event('1_{}'.format(count), 'initialize',
+        ch_ledger.log_change_event('1_{}'.format(count), 'Initialize',
                                    'Load the usnvc data into pandas datafame',
-                                   'process_1', {}, row)
+                                   'process_1', {}, json.loads(row.to_json()))
         send_to_stage({'index': index, 'row': row.to_json()}, 2)
         count += 1
     return count
@@ -69,7 +69,7 @@ def process_2(path, file_name, ch_ledger, send_final_result,
     preprocess_result = preprocess_usnvc(path)
     process_result = process_usnvc(
         path, preprocess_result, previous_stage_result)
-    ch_ledger.log_change_event(str(process_result['id']), 'process',
+    ch_ledger.log_change_event(str(process_result['id']), 'Process',
                             'Process usnvc data',
                             'process_2', previous_stage_result, process_result)
     final_result = {'source_data': process_result,
