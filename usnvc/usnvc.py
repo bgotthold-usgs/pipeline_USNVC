@@ -22,8 +22,10 @@ from datetime import datetime
 
 
 # class ch_ledger:
-#     def log_change_event(self, name, description, source_data, changed_data):
-#         print(name, description, source_data, changed_data)
+#     def log_change_event(self, change_id, change_name, change_description,
+#                          function_name, source, result):
+#         print('\n\n\n', change_id, change_name, change_description,
+#               function_name, source, result, '\n\n\n')
 
 
 # def main():
@@ -39,6 +41,9 @@ from datetime import datetime
 def process_1(path, file_name, ch_ledger, send_final_result,
               send_to_stage, previous_stage_result):
     preprocess_result = preprocess_usnvc(path)
+    ch_ledger.log_change_event('-1', 'initialize',
+                               'Load the usnvc data into pandas datafame',
+                               'process_1', {}, preprocess_result)
 
     # Prep Database
     # I opted to rework the workflow to build the database iteratively as we
@@ -64,6 +69,9 @@ def process_2(path, file_name, ch_ledger, send_final_result,
     preprocess_result = preprocess_usnvc(path)
     process_result = process_usnvc(
         path, preprocess_result, previous_stage_result)
+    ch_ledger.log_change_event(str(process_result['id']), 'process',
+                            'Process usnvc data',
+                            'process_2', previous_stage_result, process_result)
     final_result = {'source_data': process_result,
                     'row_identifier': str(process_result['id'])}
     send_final_result(final_result)
