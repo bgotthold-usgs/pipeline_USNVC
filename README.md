@@ -13,8 +13,10 @@ Externalized USNVC logic for consumption by the bis data pipeline.
 
 ## Structure 
 - A pipeline processing package should have an entry file which we will infer the pipeline name from.
-- It can implement any number of process methods, however, the developer should strive to use the minimum number required.
+- The package can implement any number of process methods, however, the developer should strive to use the minimum number required.
 - The processing methods should be named `process_1(...)`, `process_2(...)`, . . . , `process_nn(...)` ect.
+- A process method must take less then 15 minutes to execute. If it takes more consider breaking the logic out into an additional step. 
+- Total dependencies should be less then 250MB
 - Each process method has an identical signature described below.
 
 
