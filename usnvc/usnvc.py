@@ -5,33 +5,33 @@ import requests
 from datetime import datetime
 
 
-# # # # # # # # TO RUN THIS FILE LOCALLY UNCOMMENT BELOW # # # # # # # # #
-# # See readme for more details.
-# path = './'
-# file_name = 'USNVC v2.02 export 2018-03'
+# # # # # # # TO RUN THIS FILE LOCALLY UNCOMMENT BELOW # # # # # # # # #
+# See readme for more details.
+path = './'
+file_name = 'USNVC v2.02 export 2018-03'
 
 
-# def send_final_result(obj):
-#     print(json.dumps(obj))
+def send_final_result(obj):
+    print(json.dumps(obj))
 
 
-# def send_to_stage(obj, stage):
-#     globals()['process_{}'.format(stage)](path, file_name,
-#                                           ch_ledger(), send_final_result,
-#                                           send_to_stage, obj)
+def send_to_stage(obj, stage):
+    globals()['process_{}'.format(stage)](path, file_name,
+                                          ch_ledger(), send_final_result,
+                                          send_to_stage, obj)
 
 
-# class ch_ledger:
-#     def log_change_event(self, change_id, change_name, change_description,
-#                          function_name, source, result):
-#         print('\n\n\n', change_id, change_name, change_description,
-#               function_name, source, result, '\n\n\n')
+class ch_ledger:
+    def log_change_event(self, change_id, change_name, change_description,
+                         function_name, source, result):
+        print('\n\n\n', change_id, change_name, change_description,
+              function_name, source, result, '\n\n\n')
 
 
-# def main():
-#     process_1(path, file_name, ch_ledger(),
-#               send_final_result, send_to_stage, None)
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+def main():
+    process_1(path, file_name, ch_ledger(),
+              send_final_result, send_to_stage, None)
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 
 # The first processing stage.
@@ -52,7 +52,7 @@ def process_1(path, file_name, ch_ledger, send_final_result,
     send_final_result({'source_data': root, 'row_identifier': '0'})
     count = 1
     for index, row in nvcsUnits.iterrows():
-        ch_ledger.log_change_event('1_{}'.format(count), 'Initialize',
+        ch_ledger.log_change_event(str(row['element_global_id']), 'Initialize',
                                    'Load the usnvc data into pandas datafame',
                                    'process_1', {}, json.loads(row.to_json()))
         send_to_stage({'index': index, 'row': row.to_json()}, 2)
@@ -70,8 +70,9 @@ def process_2(path, file_name, ch_ledger, send_final_result,
     process_result = process_usnvc(
         path, preprocess_result, previous_stage_result)
     ch_ledger.log_change_event(str(process_result['id']), 'Process',
-                            'Process usnvc data',
-                            'process_2', previous_stage_result, process_result)
+                               'Process usnvc data',
+                               'process_2', previous_stage_result,
+                               process_result)
     final_result = {'source_data': process_result,
                     'row_identifier': str(process_result['id'])}
     send_final_result(final_result)
