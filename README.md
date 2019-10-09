@@ -1,6 +1,9 @@
 # USNVC Data Processing Pipeline
 Externalized USNVC logic for consumption by the bis data pipeline. 
 
+![Pipeline AWS Infrastructure](assets/usnvc.png)
+
+
 ## To Run Locally
 -  In `usnvc.py` uncomment the code surrounding the `main()` method.
 - For convince, included in this project is the source data object originating from ScienceBase
@@ -9,10 +12,10 @@ Externalized USNVC logic for consumption by the bis data pipeline.
     ```
 
 ## Structure 
-- A pipeline processing script should have an entry file which we will infer the pipeline name from.
-- It can implement any number of process methods.
-- They should be named `process_1(...)`, `process_2(...)`, . . . , `process_nn(...)` ect.
-- Each process method has the same signature described below.
+- A pipeline processing package should have an entry file which we will infer the pipeline name from.
+- It can implement any number of process methods, however, the developer should strive to use the minimum number required.
+- The processing methods should be named `process_1(...)`, `process_2(...)`, . . . , `process_nn(...)` ect.
+- Each process method has an identical signature described below.
 
 
 ##  Method Signature for `process_nn()`
@@ -23,13 +26,13 @@ Externalized USNVC logic for consumption by the bis data pipeline.
     - Example: ch_ledger.log_change_event("Field Creation", "Creating feature_id field from REG_NUM", source_data, changed_data)
 - `send_final_result`: Instance of a method that accepts a python object representation of a single row of completed, processed data
 - `send_to_stage`: Instance of a method that accepts a python object representation of a single row of data that will be processed by the next stage and the integer stage to send it to. 
-- `previous_stage_result`: The python object provided by the previous stage.
+- `previous_stage_result`: The python object from the previous stage provided by the developer when calling send_to_stage.
 ### Outputs
 -  A single integer representing the number of rows manipulated by the method.
 
 ## Notes on `send_final_result()`
-- It is the responsibility of the domain expert to verify the documents produced as it relates ti the subject.
-- We do validate that the documents sent to this method are in an ingestible schema.
+- It is the responsibility of the domain expert to verify the documents produced as it relates to the subject.
+- We do validate that these documents are valid json in our ingestible schema.
 - If a row fails `send_final_result` returns the json schema validation error. Otherwise it returns None.
 - In the case of USNVC that document looks like the following.
 ```
@@ -38,6 +41,7 @@ Externalized USNVC logic for consumption by the bis data pipeline.
   "row_identifier": unique string
 }
 ```
+- The row_identifier is a string key provided by the developer 
 - The full schema validation run against each document is as follows.
 ```
 {
