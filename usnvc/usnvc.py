@@ -41,9 +41,6 @@ from datetime import datetime
 def process_1(path, file_name, ch_ledger, send_final_result,
               send_to_stage, previous_stage_result):
     preprocess_result = preprocess_usnvc(path)
-    ch_ledger.log_change_event('-1', 'initialize',
-                               'Load the usnvc data into pandas datafame',
-                               'process_1', {}, preprocess_result)
 
     # Prep Database
     # I opted to rework the workflow to build the database iteratively as we
@@ -55,6 +52,9 @@ def process_1(path, file_name, ch_ledger, send_final_result,
     send_final_result({'source_data': root, 'row_identifier': '0'})
     count = 1
     for index, row in nvcsUnits.iterrows():
+        ch_ledger.log_change_event('1_{}'.format(count), 'initialize',
+                                   'Load the usnvc data into pandas datafame',
+                                   'process_1', {}, row)
         send_to_stage({'index': index, 'row': row.to_json()}, 2)
         count += 1
     return count
