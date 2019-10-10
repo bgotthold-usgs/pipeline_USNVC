@@ -40,10 +40,10 @@ Externalized USNVC logic for consumption by the bis data pipeline.
 ```
 {
   "source_data": any
-  "row_identifier": unique string
+  "row_id": unique string
 }
 ```
-- The row_identifier is a string key provided by the developer 
+- The row_id is a string key provided by the developer 
 - The full schema validation run against each document is as follows.
 ```
 {
@@ -54,7 +54,7 @@ Externalized USNVC logic for consumption by the bis data pipeline.
   "title": "The Root Schema",
   "required": [
     "source_data",
-    "row_identifier",
+    "row_id",
   ],
   "properties": {
     "data": {
@@ -115,10 +115,10 @@ Externalized USNVC logic for consumption by the bis data pipeline.
       "type": "object",
       "title": "The Source_data Schema"
     },
-    "row_identifier": {
-      "$id": "#/properties/row_identifier",
+    "row_id": {
+      "$id": "#/properties/row_id",
       "type": "string",
-      "title": "The Row_identifier Schema",
+      "title": "The row_id Schema",
       "default": "",
       "examples": [
         ""

@@ -49,7 +49,7 @@ def process_1(path, file_name, ch_ledger, send_final_result,
     nvcsUnits = preprocess_result['nvcsUnits']
     root = logical_nvcs_root(nvcsUnits)
     root['id'] = '0'
-    send_final_result({'source_data': root, 'row_identifier': '0'})
+    send_final_result({'source_data': root, 'row_id': '0'})
     count = 1
     for index, row in nvcsUnits.iterrows():
         ch_ledger.log_change_event(str(row['element_global_id']), 'Initialize',
@@ -76,7 +76,7 @@ def process_2(path, file_name, ch_ledger, send_final_result,
                                'process_2', previous_stage_result,
                                process_result)
     final_result = {'source_data': process_result,
-                    'row_identifier': str(process_result['id'])}
+                    'row_id': str(process_result['id'])}
     send_final_result(final_result)
     return 1
 
